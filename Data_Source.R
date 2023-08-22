@@ -1,4 +1,4 @@
-pasta_arquivos <- 'D:/2022/Esp/TCC_ANDRESSA_IDH/Bases de dados'
+pasta_arquivos <- 'D:/2022/Esp/TCC_ANDRESSA_IDH/databases'
 arquivos_csv <- list.files(pasta_arquivos,pattern = "\\.csv$", full.names = TRUE)
 
 lista_dados <- list()
@@ -11,14 +11,23 @@ for (i in 1:length(arquivos_csv)) {
 
 
 
-setwd("D:/2022/Esp/TCC_ANDRESSA_IDH/Bases de dados")
+setwd("D:/2022/Esp/TCC_ANDRESSA_IDH/HDI_Modeling/databases")
 
 # 1 - TAXA DE DESEMPREGO --------------------------------------------------
+
 taxa_desemp <- read.csv("1_taxa_desemp.csv")
+# numero de paises
+length(unique(taxa_desemp$LOCATION))
+# intervalo dos anos
 range(taxa_desemp$TIME)
+
 
 # 2 - TAXA DE INFLAÇÃO --------------------------------------------------------
 taxa_infl <- read.csv("2_taxa_infl.csv")
+
+# numero de paises
+length(unique(taxa_infl$LOCATION))
+# intervalo dos anos
 range(taxa_infl$TIME)
 
 # 3 - INDICADOR DE GINI ---------------------------------------------------

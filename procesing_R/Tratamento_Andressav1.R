@@ -8,16 +8,13 @@ library(snakecase)
 library(stringr)
 
 
-setwd("D:/2022/Esp/TCC_ANDRESSA_IDH/Bases de dados")
+setwd("../")
 
 # 1 - TAXA DE DESEMPREGO --------------------------------------------------
 taxa_desemp <- read.csv("1_taxa_desemp.csv")
 View(taxa_desemp)
 
-# numero de paises
-length(unique(taxa_desemp$LOCATION))
-# intervalo dos anos
-range(taxa_desemp$TIME)
+
 
 df <- taxa_desemp |>
   filter(FREQUENCY == "A") |>
