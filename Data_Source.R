@@ -49,7 +49,7 @@ taxa_part_fem_ft <- read.csv("5_taxa_part_fem_ft.csv",skip = 4)
 range(taxa_part_fem_ft$)
 
 # 6 - Disparidade de Renda entre Gêneros ----------------------------------
-dispar_renda_gen <- read.csv("6_dispar_renda_gen.csv")
+dispar_renda_gen <- read.csv("./databases/6_dispar_renda_gen.csv")
 range(dispar_renda_gen$Year)
 
 # 7- Representação Política Feminina --------------------------------------
@@ -58,7 +58,7 @@ repres_polit_fem <- read.csv("7_repres_polit_fem.csv",skip=4)
 range(repres_polit_fem$)
 
 # 8 - Leis de Igualdade de Gênero -----------------------------------------
-lei_igual_gen <- read.csv("8_lei_igual_gen.csv")
+lei_igual_gen <- read.csv("./databases/8_lei_igual_gen.csv")
 
 
 # 16 - Taxa de Domicílios com Acesso à Internet ---------------------------
@@ -75,7 +75,7 @@ taxa_cons_energ_renov <- read.csv("19_taxa_cons_energ_renov.csv",  skip = 4)
 
 
 # 21 - Consumo de Água ----------------------------------------------------
-cons_agua_per_cap <- read.csv("21_cons_agua_per_cap.csv")
+cons_agua_per_cap <- read.csv("./databases/21_cons_agua_per_cap.csv",sep = ";")
 
 
 # 23 - Saúde Mental -------------------------------------------------------
@@ -84,10 +84,8 @@ saude_mental <- read.csv("23_saude_mental.csv")
 
 
 # 28 - População Encarcerada ----------------------------------------------
-pop_encarcerada <- read.csv("28_pop_encarcerada.csv")
+pop_encarcerada <- read.csv("./databases/28_pop_encarcerada.csv")
 
 
 # 31 - Liberdade Moral  ---------------------------------------------------
-liberdade_moral <- read.csv("31_liberdade_moral.csv")
-
-
+liberdade_moral <- read.csv("./databases/31_liberdade_moral.csv")
