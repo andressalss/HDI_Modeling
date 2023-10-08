@@ -1,0 +1,223 @@
+"","country","code","year","prison_pop_rate"
+"1","Afghanistan","AFG","2018",88
+"2","Albania","ALB","2018",193
+"3","Algeria","DZA","2018",146
+"4","American Samoa","ASM","2018",337
+"5","Andorra","AND","2018",69
+"6","Angola","AGO","2018",93
+"7","Anguilla","AIA","2018",307
+"8","Antigua and Barbuda","ATG","2018",321
+"9","Argentina","ARG","2018",186
+"10","Armenia","ARM","2018",131
+"11","Aruba","ABW","2018",165
+"12","Australia","AUS","2018",167
+"13","Austria","AUT","2018",98
+"14","Azerbaijan","AZE","2018",235
+"15","Bahamas","BHS","2018",438
+"16","Bahrain","BHR","2018",234
+"17","Bangladesh","BGD","2018",53
+"18","Barbados","BRB","2018",300
+"19","Belarus","BLR","2018",364
+"20","Belgium","BEL","2018",91
+"21","Belize","BLZ","2018",356
+"22","Benin","BEN","2018",68
+"23","Bermuda","BMU","2018",319
+"24","Bhutan","BTN","2018",145
+"25","Bolivia","BOL","2018",156
+"26","Bosnia and Herzegovina","BIH","2018",73
+"27","Bosnia and Herzegovina: Republika Srpska	","","2018",66
+"28","Botswana","BWA","2018",208
+"29","Brazil","BRA","2018",323
+"30","British Virgin Islands","VGB","2018",470
+"31","Brunei","BRN","2018",134
+"32","Bulgaria","BGR","2018",125
+"33","Burkina Faso","BFA","2018",41
+"34","Burundi","BDI","2018",84
+"35","Cambodia","KHM","2018",176
+"36","Cameroon","CMR","2018",121
+"37","Canada","CAN","2018",114
+"38","Cape Verde","CPV","2018",298
+"39","Cayman Islands","CYM","2018",393
+"40","Central African Republic","CAF","2018",16
+"41","Chad","TCD","2018",59
+"42","Chile","CHL","2018",230
+"43","China","CHN","2018",118
+"44","Colombia","COL","2018",238
+"45","Comoros","COM","2018",23
+"46","Congo","COG","2018",27
+"47","Cook Islands","COK","2018",229
+"48","Costa Rica","CRI","2018",374
+"49","Cote d'Ivoire","CIV","2018",66
+"50","Croatia","HRV","2018",78
+"51","Cuba","CUB","2018",510
+"52","Curacao","CUW","2018",236
+"53","Cyprus","CYP","2018",83
+"54","Czechia","CZE","2018",206
+"55","Democratic Republic of Congo","COD","2018",29
+"56","Denmark","DNK","2018",59
+"57","Djibouti","DJI","2018",66
+"58","Dominica","DMA","2018",289
+"59","Dominican Republic","DOM","2018",241
+"60","East Timor","TLS","2018",51
+"61","Ecuador","ECU","2018",222
+"62","Egypt","EGY","2018",116
+"63","El Salvador","SLV","2018",605
+"64","England and Wales","","2018",140
+"65","Equatorial Guinea","GNQ","2018",63
+"66","Estonia","EST","2018",197
+"67","Eswatini","SWZ","2018",282
+"68","Ethiopia","ETH","2018",127
+"69","Faroe Islands","FRO","2018",12
+"70","Fiji","FJI","2018",158
+"71","Finland","FIN","2018",52
+"72","France","FRA","2018",104
+"73","French Guiana","GUF","2018",251
+"74","French Polynesia","PYF","2018",191
+"75","Gabon","GAB","2018",191
+"76","Gambia","GMB","2018",58
+"77","Georgia","GEO","2018",263
+"78","Germany","DEU","2018",78
+"79","Ghana","GHA","2018",50
+"80","Gibraltar","GIB","2018",165
+"81","Greece","GRC","2018",95
+"82","Greenland","GRL","2018",225
+"83","Grenada","GRD","2018",435
+"84","Guadeloupe","GLP","2018",221
+"85","Guam","GUM","2018",404
+"86","Guatemala","GTM","2018",136
+"87","Guernsey","GGY","2018",138
+"88","Guinea","GIN","2018",25
+"89","Guinea-Bissau","GNB","2018",10
+"90","Guyana","GUY","2018",283
+"91","Haiti","HTI","2018",96
+"92","Honduras","HND","2018",216
+"93","Hong Kong","HKG","2018",112
+"94","Hungary","HUN","2018",184
+"95","Iceland","ISL","2018",38
+"96","India","IND","2018",33
+"97","Indonesia","IDN","2018",93
+"98","Iran","IRN","2018",284
+"99","Iraq","IRQ","2018",126
+"100","Ireland","IRL","2018",79
+"101","Isle of Man","IMN","2018",108
+"102","Israel","ISR","2018",236
+"103","Italy","ITA","2018",97
+"104","Jamaica","JAM","2018",138
+"105","Japan","JPN","2018",45
+"106","Jersey","JEY","2018",133
+"107","Jordan","JOR","2018",197
+"108","Kazakhstan","KAZ","2018",186
+"109","Kenya","KEN","2018",111
+"110","Kiribati","KIR","2018",113
+"111","Kosovo","OWID_KOS","2018",106
+"112","Kuwait","KWT","2018",157
+"113","Kyrgyzstan","KGZ","2018",171
+"114","Laos","LAO","2018",119
+"115","Latvia","LVA","2018",218
+"116","Lebanon","LBN","2018",126
+"117","Lesotho","LSO","2018",92
+"118","Liberia","LBR","2018",47
+"119","Libya","LBY","2018",99
+"120","Liechtenstein","LIE","2018",27
+"121","Lithuania","LTU","2018",235
+"122","Luxembourg","LUX","2018",115
+"123","Macao","MAC","2018",203
+"124","Madagascar","MDG","2018",82
+"125","Malawi","MWI","2018",80
+"126","Malaysia","MYS","2018",177
+"127","Maldives","MDV","2018",499
+"128","Mali","MLI","2018",33
+"129","Malta","MLT","2018",133
+"130","Marshall Islands","MHL","2018",66
+"131","Martinique","MTQ","2018",214
+"132","Mauritania","MRT","2018",46
+"133","Mauritius","MUS","2018",194
+"134","Mayotte","MYT","2018",117
+"135","Mexico","MEX","2018",164
+"136","Micronesia (country)","FSM","2018",127
+"137","Moldova","MDA","2018",215
+"138","Monaco","MCO","2018",85
+"139","Mongolia","MNG","2018",262
+"140","Montenegro","MNE","2018",174
+"141","Morocco","MAR","2018",232
+"142","Mozambique","MOZ","2018",61
+"143","Myanmar","MMR","2018",145
+"144","Namibia","NAM","2018",295
+"145","Nauru","NRU","2018",140
+"146","Nepal","NPL","2018",65
+"147","Netherlands","NLD","2018",59
+"148","New Caledonia","NCL","2018",200
+"149","New Zealand","NZL","2018",219
+"150","Nicaragua","NIC","2018",276
+"151","Niger","NER","2018",53
+"152","Nigeria","NGA","2018",37
+"153","North Macedonia","MKD","2018",134
+"154","Northern Ireland","","2018",75
+"155","Northern Mariana Islands","MNP","2018",482
+"156","Norway","NOR","2018",74
+"157","Oman","OMN","2018",36
+"158","Pakistan","PAK","2018",43
+"159","Palau","PLW","2018",373
+"160","Panama","PAN","2018",390
+"161","Papua New Guinea","PNG","2018",63
+"162","Paraguay","PRY","2018",199
+"163","Peru","PER","2018",269
+"164","Philippines","PHL","2018",172
+"165","Poland","POL","2018",194
+"166","Portugal","PRT","2018",127
+"167","Puerto Rico","PRI","2018",313
+"168","Qatar","QAT","2018",53
+"169","Reunion","REU","2018",129
+"170","Romania","ROU","2018",115
+"171","Russia","RUS","2018",405
+"172","Rwanda","RWA","2018",464
+"173","Saint Kitts and Nevis","KNA","2018",393
+"174","Saint Lucia","LCA","2018",279
+"175","Saint Vincent and the Grenadines","VCT","2018",378
+"176","Samoa","WSM","2018",204
+"177","Sao Tome and Principe","STP","2018",117
+"178","Saudi Arabia","SAU","2018",197
+"179","Scotland","","2018",143
+"180","Senegal","SEN","2018",76
+"181","Serbia","SRB","2018",152
+"182","Seychelles","SYC","2018",437
+"183","Sierra Leone","SLE","2018",64
+"184","Singapore","SGP","2018",201
+"185","Sint Maarten (Dutch part)","SXM","2018",153
+"186","Slovakia","SVK","2018",191
+"187","Slovenia","SVN","2018",64
+"188","Solomon Islands","SLB","2018",73
+"189","South Africa","ZAF","2018",280
+"190","South Korea","KOR","2018",109
+"191","South Sudan","SSD","2018",52
+"192","Spain","ESP","2018",128
+"193","Sri Lanka","LKA","2018",94
+"194","Sudan","SDN","2018",46
+"195","Suriname","SUR","2018",183
+"196","Sweden","SWE","2018",57
+"197","Switzerland","CHE","2018",81
+"198","Syria","SYR","2018",60
+"199","Taiwan","TWN","2018",263
+"200","Tajikistan","TJK","2018",121
+"201","Tanzania","TZA","2018",58
+"202","Thailand","THA","2018",520
+"203","Togo","TGO","2018",64
+"204","Tonga","TON","2018",166
+"205","Trinidad and Tobago","TTO","2018",270
+"206","Tunisia","TUN","2018",180
+"207","Turkey","TUR","2018",287
+"208","Turkmenistan","TKM","2018",552
+"209","Tuvalu","TUV","2018",110
+"210","Uganda","UGA","2018",129
+"211","Ukraine","UKR","2018",157
+"212","United Arab Emirates","ARE","2018",104
+"213","United States","USA","2018",655
+"214","United States Virgin Islands","VIR","2018",542
+"215","Uruguay","URY","2018",321
+"216","Uzbekistan","UZB","2018",150
+"217","Vanuatu","VUT","2018",71
+"218","Venezuela","VEN","2018",178
+"219","Vietnam","VNM","2018",137
+"220","Yemen","YEM","2018",53
+"221","Zambia","ZMB","2018",146
+"222","Zimbabwe","ZWE","2018",120

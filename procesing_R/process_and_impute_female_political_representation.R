@@ -13,7 +13,6 @@
 #' @export
 #' 
 
-
 process_and_impute_female_political_representation <- function(df) {
   df_processed <- df |> 
     dplyr::slice(-c(1,2)) |> 
@@ -51,10 +50,18 @@ process_and_impute_female_political_representation <- function(df) {
   return(df_imputed)
 }
 
+generate_file <- function(file_path) {
+  df <- readr::read_csv(file_path, skip = 3) 
+  var_name <- gsub("^\\d+_(.*?)\\.csv$", "\\1", basename(file_path))
+  df <- process_and_impute_female_political_representation(df)
+  # saving the .RData file
+  saveRDS(df,paste0(".\\treated_databases\\.rdata_files\\",var_name,".RData"))
+  
+  # saving the csv file
+  write.csv(df, paste0(".\\treated_databases\\csv_files\\",var_name,".csv"))
+  
+  return(writexl::write_xlsx(df,paste0(".\\treated_databases\\xlsx_files\\",var_name,".xlsx")))
+}
 
-
-df <- readr::read_csv("..\\databases\\repres_polit_fem.csv", skip = 3) 
-
-female_political_representation_process_and_impute <-  process_and_impute_female_political_representation(df)
-
-writexl::write_xlsx(female_political_representation_process_and_impute, "..\\treated databases\\female_political_representation_process_and_imputed.xlsx")
+file_path <- ("./databases/7_female_political_represent.csv")
+generate_file(file_path)

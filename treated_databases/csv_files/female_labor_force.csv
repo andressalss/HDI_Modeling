@@ -1,0 +1,3719 @@
+"","country","code","year","female_labor_force"
+"1","Afghanistan","AFG","2002",15.556
+"2","Afghanistan","AFG","2003",15.736
+"3","Afghanistan","AFG","2004",15.908
+"4","Afghanistan","AFG","2005",16.071
+"5","Afghanistan","AFG","2006",15.876
+"6","Afghanistan","AFG","2007",15.69
+"7","Afghanistan","AFG","2008",15.539
+"8","Afghanistan","AFG","2009",15.457
+"9","Afghanistan","AFG","2010",15.466
+"10","Afghanistan","AFG","2011",15.784
+"11","Afghanistan","AFG","2012",16.186
+"12","Afghanistan","AFG","2013",17.118
+"13","Afghanistan","AFG","2014",18.088
+"14","Afghanistan","AFG","2015",19.096
+"15","Afghanistan","AFG","2016",20.141
+"16","Afghanistan","AFG","2017",21.227
+"17","Afghanistan","AFG","2018",21.583
+"18","Afghanistan","AFG","2019",21.944
+"19","Afghanistan","AFG","2020",16.463
+"20","Angola","AGO","2002",75.612
+"21","Angola","AGO","2003",75.63
+"22","Angola","AGO","2004",75.65
+"23","Angola","AGO","2005",75.666
+"24","Angola","AGO","2006",75.65
+"25","Angola","AGO","2007",75.639
+"26","Angola","AGO","2008",75.631
+"27","Angola","AGO","2009",75.625
+"28","Angola","AGO","2010",75.625
+"29","Angola","AGO","2011",74.873
+"30","Angola","AGO","2012",74.86
+"31","Angola","AGO","2013",74.857
+"32","Angola","AGO","2014",74.863
+"33","Angola","AGO","2015",74.878
+"34","Angola","AGO","2016",74.891
+"35","Angola","AGO","2017",74.914
+"36","Angola","AGO","2018",74.948
+"37","Angola","AGO","2019",74.993
+"38","Angola","AGO","2020",74.28
+"39","Angola","AGO","2021",74.464
+"40","Albania","ALB","2002",48.945
+"41","Albania","ALB","2003",48.332
+"42","Albania","ALB","2004",47.726
+"43","Albania","ALB","2005",47.131
+"44","Albania","ALB","2006",46.548
+"45","Albania","ALB","2007",45.978
+"46","Albania","ALB","2008",45.421
+"47","Albania","ALB","2009",45.847
+"48","Albania","ALB","2010",46.735
+"49","Albania","ALB","2011",52.468
+"50","Albania","ALB","2012",48.821
+"51","Albania","ALB","2013",43.66
+"52","Albania","ALB","2014",43.818
+"53","Albania","ALB","2015",46.989
+"54","Albania","ALB","2016",49.763
+"55","Albania","ALB","2017",49.609
+"56","Albania","ALB","2018",51.284
+"57","Albania","ALB","2019",52.815
+"58","Albania","ALB","2020",49.62
+"59","Albania","ALB","2021",51.653
+"60","United Arab Emirates","ARE","2002",34.959
+"61","United Arab Emirates","ARE","2003",35.784
+"62","United Arab Emirates","ARE","2004",36.681
+"63","United Arab Emirates","ARE","2005",37.471
+"64","United Arab Emirates","ARE","2006",38.355
+"65","United Arab Emirates","ARE","2007",39.129
+"66","United Arab Emirates","ARE","2008",39.993
+"67","United Arab Emirates","ARE","2009",41.069
+"68","United Arab Emirates","ARE","2010",42.382
+"69","United Arab Emirates","ARE","2011",43.815
+"70","United Arab Emirates","ARE","2012",45.236
+"71","United Arab Emirates","ARE","2013",46.648
+"72","United Arab Emirates","ARE","2014",48.052
+"73","United Arab Emirates","ARE","2015",49.442
+"74","United Arab Emirates","ARE","2016",50.805
+"75","United Arab Emirates","ARE","2017",52.774
+"76","United Arab Emirates","ARE","2018",52.952
+"77","United Arab Emirates","ARE","2019",56.797
+"78","United Arab Emirates","ARE","2020",60.992
+"79","United Arab Emirates","ARE","2021",52.789
+"80","Argentina","ARG","2002",47.228
+"81","Argentina","ARG","2003",48.569
+"82","Argentina","ARG","2004",49.954
+"83","Argentina","ARG","2005",49.094
+"84","Argentina","ARG","2006",49.735
+"85","Argentina","ARG","2007",48.899
+"86","Argentina","ARG","2008",48.063
+"87","Argentina","ARG","2009",48.788
+"88","Argentina","ARG","2010",47.693
+"89","Argentina","ARG","2011",47.949
+"90","Argentina","ARG","2012",48.056
+"91","Argentina","ARG","2013",47.65
+"92","Argentina","ARG","2014",47.429
+"93","Argentina","ARG","2015",47.512
+"94","Argentina","ARG","2016",47.598
+"95","Argentina","ARG","2017",47.685
+"96","Argentina","ARG","2018",49.165
+"97","Argentina","ARG","2019",50.02
+"98","Argentina","ARG","2020",46.506
+"99","Argentina","ARG","2021",50.283
+"100","Armenia","ARM","2002",55.421
+"101","Armenia","ARM","2003",55.061
+"102","Armenia","ARM","2004",54.759
+"103","Armenia","ARM","2005",54.521
+"104","Armenia","ARM","2006",54.372
+"105","Armenia","ARM","2007",54.373
+"106","Armenia","ARM","2008",54.304
+"107","Armenia","ARM","2009",55.206
+"108","Armenia","ARM","2010",55.414
+"109","Armenia","ARM","2011",55.479
+"110","Armenia","ARM","2012",55.445
+"111","Armenia","ARM","2013",55.525
+"112","Armenia","ARM","2014",55.594
+"113","Armenia","ARM","2015",55.669
+"114","Armenia","ARM","2016",55.736
+"115","Armenia","ARM","2017",55.724
+"116","Armenia","ARM","2018",55.673
+"117","Armenia","ARM","2019",57.519
+"118","Armenia","ARM","2020",57.57
+"119","Armenia","ARM","2021",57.779
+"120","Australia","AUS","2002",55.221
+"121","Australia","AUS","2003",55.9
+"122","Australia","AUS","2004",55.675
+"123","Australia","AUS","2005",56.957
+"124","Australia","AUS","2006",57.509
+"125","Australia","AUS","2007",58.06
+"126","Australia","AUS","2008",58.535
+"127","Australia","AUS","2009",58.736
+"128","Australia","AUS","2010",58.596
+"129","Australia","AUS","2011",58.845
+"130","Australia","AUS","2012",58.75
+"131","Australia","AUS","2013",58.666
+"132","Australia","AUS","2014",58.635
+"133","Australia","AUS","2015",59.098
+"134","Australia","AUS","2016",59.328
+"135","Australia","AUS","2017",59.838
+"136","Australia","AUS","2018",60.48
+"137","Australia","AUS","2019",60.951
+"138","Australia","AUS","2020",60.192
+"139","Australia","AUS","2021",61.216
+"140","Austria","AUT","2002",50.565
+"141","Austria","AUT","2003",50.783
+"142","Austria","AUT","2004",50.003
+"143","Austria","AUT","2005",51.297
+"144","Austria","AUT","2006",51.979
+"145","Austria","AUT","2007",52.848
+"146","Austria","AUT","2008",53.378
+"147","Austria","AUT","2009",54.041
+"148","Austria","AUT","2010",54.156
+"149","Austria","AUT","2011",54.507
+"150","Austria","AUT","2012",54.994
+"151","Austria","AUT","2013",55.287
+"152","Austria","AUT","2014",55.3
+"153","Austria","AUT","2015",55.353
+"154","Austria","AUT","2016",55.911
+"155","Austria","AUT","2017",55.889
+"156","Austria","AUT","2018",55.905
+"157","Austria","AUT","2019",55.987
+"158","Austria","AUT","2020",55.629
+"159","Austria","AUT","2021",55.915
+"160","Azerbaijan","AZE","2002",68.729
+"161","Azerbaijan","AZE","2003",66.541
+"162","Azerbaijan","AZE","2004",64.093
+"163","Azerbaijan","AZE","2005",62.824
+"164","Azerbaijan","AZE","2006",61.004
+"165","Azerbaijan","AZE","2007",56.745
+"166","Azerbaijan","AZE","2008",56.671
+"167","Azerbaijan","AZE","2009",57.994
+"168","Azerbaijan","AZE","2010",59.747
+"169","Azerbaijan","AZE","2011",58.211
+"170","Azerbaijan","AZE","2012",59.144
+"171","Azerbaijan","AZE","2013",59.29
+"172","Azerbaijan","AZE","2014",60.139
+"173","Azerbaijan","AZE","2015",60.96
+"174","Azerbaijan","AZE","2016",62.027
+"175","Azerbaijan","AZE","2017",62.419
+"176","Azerbaijan","AZE","2018",62.988
+"177","Azerbaijan","AZE","2019",62.791
+"178","Azerbaijan","AZE","2020",64.729
+"179","Azerbaijan","AZE","2021",64.097
+"180","Burundi","BDI","2002",82.976
+"181","Burundi","BDI","2003",82.547
+"182","Burundi","BDI","2004",82.183
+"183","Burundi","BDI","2005",81.851
+"184","Burundi","BDI","2006",81.568
+"185","Burundi","BDI","2007",81.336
+"186","Burundi","BDI","2008",81.128
+"187","Burundi","BDI","2009",81.038
+"188","Burundi","BDI","2010",80.967
+"189","Burundi","BDI","2011",80.818
+"190","Burundi","BDI","2012",80.69
+"191","Burundi","BDI","2013",80.586
+"192","Burundi","BDI","2014",80.472
+"193","Burundi","BDI","2015",80.748
+"194","Burundi","BDI","2016",80.917
+"195","Burundi","BDI","2017",80.993
+"196","Burundi","BDI","2018",81.001
+"197","Burundi","BDI","2019",80.848
+"198","Burundi","BDI","2020",79.897
+"199","Burundi","BDI","2021",80.693
+"200","Belgium","BEL","2002",42.571
+"201","Belgium","BEL","2003",42.951
+"202","Belgium","BEL","2004",44.25
+"203","Belgium","BEL","2005",45.691
+"204","Belgium","BEL","2006",45.815
+"205","Belgium","BEL","2007",46.534
+"206","Belgium","BEL","2008",46.912
+"207","Belgium","BEL","2009",46.947
+"208","Belgium","BEL","2010",47.713
+"209","Belgium","BEL","2011",47.034
+"210","Belgium","BEL","2012",47.1
+"211","Belgium","BEL","2013",47.766
+"212","Belgium","BEL","2014",48.077
+"213","Belgium","BEL","2015",48.004
+"214","Belgium","BEL","2016",47.77
+"215","Belgium","BEL","2017",48.737
+"216","Belgium","BEL","2018",49.533
+"217","Belgium","BEL","2019",49.841
+"218","Belgium","BEL","2020",49.336
+"219","Belgium","BEL","2021",50.042
+"220","Benin","BEN","2002",65.292
+"221","Benin","BEN","2003",65.756
+"222","Benin","BEN","2004",66.223
+"223","Benin","BEN","2005",66.697
+"224","Benin","BEN","2006",67.173
+"225","Benin","BEN","2007",67.647
+"226","Benin","BEN","2008",68.126
+"227","Benin","BEN","2009",68.608
+"228","Benin","BEN","2010",69.094
+"229","Benin","BEN","2011",69.583
+"230","Benin","BEN","2012",67.819
+"231","Benin","BEN","2013",66.004
+"232","Benin","BEN","2014",64.14
+"233","Benin","BEN","2015",62.232
+"234","Benin","BEN","2016",60.283
+"235","Benin","BEN","2017",58.299
+"236","Benin","BEN","2018",56.283
+"237","Benin","BEN","2019",56.331
+"238","Benin","BEN","2020",55.792
+"239","Benin","BEN","2021",55.9
+"240","Burkina Faso","BFA","2002",66.311
+"241","Burkina Faso","BFA","2003",64.911
+"242","Burkina Faso","BFA","2004",63.481
+"243","Burkina Faso","BFA","2005",62.026
+"244","Burkina Faso","BFA","2006",60.55
+"245","Burkina Faso","BFA","2007",60.111
+"246","Burkina Faso","BFA","2008",59.698
+"247","Burkina Faso","BFA","2009",59.307
+"248","Burkina Faso","BFA","2010",58.937
+"249","Burkina Faso","BFA","2011",58.587
+"250","Burkina Faso","BFA","2012",58.258
+"251","Burkina Faso","BFA","2013",57.954
+"252","Burkina Faso","BFA","2014",57.675
+"253","Burkina Faso","BFA","2015",57.696
+"254","Burkina Faso","BFA","2016",57.715
+"255","Burkina Faso","BFA","2017",57.737
+"256","Burkina Faso","BFA","2018",57.766
+"257","Burkina Faso","BFA","2019",57.801
+"258","Burkina Faso","BFA","2020",57.248
+"259","Burkina Faso","BFA","2021",58.034
+"260","Bangladesh","BGD","2002",28.488
+"261","Bangladesh","BGD","2003",28.675
+"262","Bangladesh","BGD","2004",28.857
+"263","Bangladesh","BGD","2005",29.038
+"264","Bangladesh","BGD","2006",29.131
+"265","Bangladesh","BGD","2007",29.541
+"266","Bangladesh","BGD","2008",29.962
+"267","Bangladesh","BGD","2009",30.384
+"268","Bangladesh","BGD","2010",30.789
+"269","Bangladesh","BGD","2011",31.191
+"270","Bangladesh","BGD","2012",31.595
+"271","Bangladesh","BGD","2013",32.007
+"272","Bangladesh","BGD","2014",32.424
+"273","Bangladesh","BGD","2015",32.847
+"274","Bangladesh","BGD","2016",33.271
+"275","Bangladesh","BGD","2017",36.449
+"276","Bangladesh","BGD","2018",36.694
+"277","Bangladesh","BGD","2019",36.884
+"278","Bangladesh","BGD","2020",36.543
+"279","Bangladesh","BGD","2021",37.104
+"280","Bulgaria","BGR","2002",46.063
+"281","Bulgaria","BGR","2003",44.799
+"282","Bulgaria","BGR","2004",45.465
+"283","Bulgaria","BGR","2005",44.422
+"284","Bulgaria","BGR","2006",46.36
+"285","Bulgaria","BGR","2007",47.476
+"286","Bulgaria","BGR","2008",48.333
+"287","Bulgaria","BGR","2009",47.521
+"288","Bulgaria","BGR","2010",47.794
+"289","Bulgaria","BGR","2011",47.224
+"290","Bulgaria","BGR","2012",47.849
+"291","Bulgaria","BGR","2013",48.577
+"292","Bulgaria","BGR","2014",48.63
+"293","Bulgaria","BGR","2015",48.573
+"294","Bulgaria","BGR","2016",47.666
+"295","Bulgaria","BGR","2017",49.518
+"296","Bulgaria","BGR","2018",49.218
+"297","Bulgaria","BGR","2019",50.276
+"298","Bulgaria","BGR","2020",49.188
+"299","Bulgaria","BGR","2021",49.034
+"300","Bahrain","BHR","2002",36.728
+"301","Bahrain","BHR","2003",37.536
+"302","Bahrain","BHR","2004",38.256
+"303","Bahrain","BHR","2005",38.975
+"304","Bahrain","BHR","2006",39.769
+"305","Bahrain","BHR","2007",40.642
+"306","Bahrain","BHR","2008",41.594
+"307","Bahrain","BHR","2009",42.626
+"308","Bahrain","BHR","2010",43.601
+"309","Bahrain","BHR","2011",42.582
+"310","Bahrain","BHR","2012",42.818
+"311","Bahrain","BHR","2013",42.986
+"312","Bahrain","BHR","2014",42.994
+"313","Bahrain","BHR","2015",43.029
+"314","Bahrain","BHR","2016",43.243
+"315","Bahrain","BHR","2017",43.585
+"316","Bahrain","BHR","2018",44.119
+"317","Bahrain","BHR","2019",44.414
+"318","Bahrain","BHR","2020",42.968
+"319","Bahrain","BHR","2021",43.318
+"320","Bahamas, The","BHS","2002",69.251
+"321","Bahamas, The","BHS","2003",68.865
+"322","Bahamas, The","BHS","2004",68.678
+"323","Bahamas, The","BHS","2005",68.788
+"324","Bahamas, The","BHS","2006",68.838
+"325","Bahamas, The","BHS","2007",68.728
+"326","Bahamas, The","BHS","2008",68.194
+"327","Bahamas, The","BHS","2009",67.461
+"328","Bahamas, The","BHS","2010",67.379
+"329","Bahamas, The","BHS","2011",67.27
+"330","Bahamas, The","BHS","2012",67.437
+"331","Bahamas, The","BHS","2013",66.946
+"332","Bahamas, The","BHS","2014",66.871
+"333","Bahamas, The","BHS","2015",66.689
+"334","Bahamas, The","BHS","2016",66.66
+"335","Bahamas, The","BHS","2017",66.793
+"336","Bahamas, The","BHS","2018",66.898
+"337","Bahamas, The","BHS","2019",66.802
+"338","Bahamas, The","BHS","2020",63.513
+"339","Bahamas, The","BHS","2021",64.85
+"340","Bosnia and Herzegovina","BIH","2002",29.914
+"341","Bosnia and Herzegovina","BIH","2003",30.255
+"342","Bosnia and Herzegovina","BIH","2004",30.528
+"343","Bosnia and Herzegovina","BIH","2005",30.797
+"344","Bosnia and Herzegovina","BIH","2006",31.086
+"345","Bosnia and Herzegovina","BIH","2007",31.077
+"346","Bosnia and Herzegovina","BIH","2008",32.443
+"347","Bosnia and Herzegovina","BIH","2009",32.862
+"348","Bosnia and Herzegovina","BIH","2010",34.04
+"349","Bosnia and Herzegovina","BIH","2011",34.024
+"350","Bosnia and Herzegovina","BIH","2012",34.106
+"351","Bosnia and Herzegovina","BIH","2013",33.994
+"352","Bosnia and Herzegovina","BIH","2014",35.506
+"353","Bosnia and Herzegovina","BIH","2015",35.433
+"354","Bosnia and Herzegovina","BIH","2016",34.845
+"355","Bosnia and Herzegovina","BIH","2017",35.409
+"356","Bosnia and Herzegovina","BIH","2018",34.894
+"357","Bosnia and Herzegovina","BIH","2019",36.947
+"358","Bosnia and Herzegovina","BIH","2020",36.009
+"359","Bosnia and Herzegovina","BIH","2021",39.63
+"360","Belarus","BLR","2002",54.254
+"361","Belarus","BLR","2003",54.537
+"362","Belarus","BLR","2004",54.774
+"363","Belarus","BLR","2005",55.058
+"364","Belarus","BLR","2006",55.391
+"365","Belarus","BLR","2007",55.779
+"366","Belarus","BLR","2008",56.203
+"367","Belarus","BLR","2009",56.609
+"368","Belarus","BLR","2010",56.996
+"369","Belarus","BLR","2011",57.367
+"370","Belarus","BLR","2012",57.663
+"371","Belarus","BLR","2013",57.875
+"372","Belarus","BLR","2014",58.044
+"373","Belarus","BLR","2015",58.182
+"374","Belarus","BLR","2016",58.289
+"375","Belarus","BLR","2017",58.134
+"376","Belarus","BLR","2018",57.629
+"377","Belarus","BLR","2019",57.832
+"378","Belarus","BLR","2020",57.495
+"379","Belarus","BLR","2021",57.69
+"380","Belize","BLZ","2002",39.992
+"381","Belize","BLZ","2003",40.621
+"382","Belize","BLZ","2004",41.236
+"383","Belize","BLZ","2005",41.845
+"384","Belize","BLZ","2006",42.453
+"385","Belize","BLZ","2007",43.065
+"386","Belize","BLZ","2008",43.678
+"387","Belize","BLZ","2009",44.279
+"388","Belize","BLZ","2010",44.878
+"389","Belize","BLZ","2011",45.486
+"390","Belize","BLZ","2012",46.093
+"391","Belize","BLZ","2013",46.695
+"392","Belize","BLZ","2014",47.635
+"393","Belize","BLZ","2015",48.585
+"394","Belize","BLZ","2016",49.566
+"395","Belize","BLZ","2017",49.008
+"396","Belize","BLZ","2018",49.261
+"397","Belize","BLZ","2019",49.316
+"398","Belize","BLZ","2020",47.912
+"399","Belize","BLZ","2021",49.147
+"400","Bolivia","BOL","2002",59.714
+"401","Bolivia","BOL","2003",59.848
+"402","Bolivia","BOL","2004",59.982
+"403","Bolivia","BOL","2005",60.117
+"404","Bolivia","BOL","2006",63.382
+"405","Bolivia","BOL","2007",60.887
+"406","Bolivia","BOL","2008",61.998
+"407","Bolivia","BOL","2009",62.592
+"408","Bolivia","BOL","2010",62.229
+"409","Bolivia","BOL","2011",61.865
+"410","Bolivia","BOL","2012",57.652
+"411","Bolivia","BOL","2013",58.78
+"412","Bolivia","BOL","2014",61.172
+"413","Bolivia","BOL","2015",54.61
+"414","Bolivia","BOL","2016",56.949
+"415","Bolivia","BOL","2017",59.139
+"416","Bolivia","BOL","2018",63.586
+"417","Bolivia","BOL","2019",60.731
+"418","Bolivia","BOL","2020",59.337
+"419","Bolivia","BOL","2021",57.599
+"420","Brazil","BRA","2002",53.361
+"421","Brazil","BRA","2003",53.483
+"422","Brazil","BRA","2004",54.405
+"423","Brazil","BRA","2005",55.594
+"424","Brazil","BRA","2006",55.301
+"425","Brazil","BRA","2007",55.08
+"426","Brazil","BRA","2008",54.705
+"427","Brazil","BRA","2009",55.187
+"428","Brazil","BRA","2010",53.679
+"429","Brazil","BRA","2011",52.162
+"430","Brazil","BRA","2012",52.394
+"431","Brazil","BRA","2013",52.363
+"432","Brazil","BRA","2014",52.299
+"433","Brazil","BRA","2015",52.865
+"434","Brazil","BRA","2016",52.856
+"435","Brazil","BRA","2017",53.752
+"436","Brazil","BRA","2018",54.051
+"437","Brazil","BRA","2019",54.81
+"438","Brazil","BRA","2020",49.487
+"439","Brazil","BRA","2021",51.979
+"440","Barbados","BRB","2002",62.83
+"441","Barbados","BRB","2003",63.933
+"442","Barbados","BRB","2004",64.476
+"443","Barbados","BRB","2005",64.497
+"444","Barbados","BRB","2006",62.784
+"445","Barbados","BRB","2007",61.973
+"446","Barbados","BRB","2008",62.537
+"447","Barbados","BRB","2009",62.714
+"448","Barbados","BRB","2010",62.888
+"449","Barbados","BRB","2011",63.058
+"450","Barbados","BRB","2012",61.077
+"451","Barbados","BRB","2013",62.022
+"452","Barbados","BRB","2014",60.445
+"453","Barbados","BRB","2015",60.847
+"454","Barbados","BRB","2016",61.913
+"455","Barbados","BRB","2017",60.543
+"456","Barbados","BRB","2018",59.508
+"457","Barbados","BRB","2019",59.064
+"458","Barbados","BRB","2020",57.178
+"459","Barbados","BRB","2021",57.617
+"460","Brunei Darussalam","BRN","2002",55.969
+"461","Brunei Darussalam","BRN","2003",56.007
+"462","Brunei Darussalam","BRN","2004",56.046
+"463","Brunei Darussalam","BRN","2005",56.086
+"464","Brunei Darussalam","BRN","2006",56.128
+"465","Brunei Darussalam","BRN","2007",56.17
+"466","Brunei Darussalam","BRN","2008",56.216
+"467","Brunei Darussalam","BRN","2009",56.263
+"468","Brunei Darussalam","BRN","2010",56.31
+"469","Brunei Darussalam","BRN","2011",56.356
+"470","Brunei Darussalam","BRN","2012",56.33
+"471","Brunei Darussalam","BRN","2013",56.311
+"472","Brunei Darussalam","BRN","2014",56.3
+"473","Brunei Darussalam","BRN","2015",56.297
+"474","Brunei Darussalam","BRN","2016",56.302
+"475","Brunei Darussalam","BRN","2017",56.316
+"476","Brunei Darussalam","BRN","2018",57.381
+"477","Brunei Darussalam","BRN","2019",55.222
+"478","Brunei Darussalam","BRN","2020",54.703
+"479","Brunei Darussalam","BRN","2021",55.079
+"480","Bhutan","BTN","2002",61.941
+"481","Bhutan","BTN","2003",62.717
+"482","Bhutan","BTN","2004",63.473
+"483","Bhutan","BTN","2005",64.194
+"484","Bhutan","BTN","2006",64.579
+"485","Bhutan","BTN","2007",64.955
+"486","Bhutan","BTN","2008",65.314
+"487","Bhutan","BTN","2009",65.655
+"488","Bhutan","BTN","2010",63.367
+"489","Bhutan","BTN","2011",62.38
+"490","Bhutan","BTN","2012",63.088
+"491","Bhutan","BTN","2013",58.263
+"492","Bhutan","BTN","2014",54.019
+"493","Bhutan","BTN","2015",55.063
+"494","Bhutan","BTN","2016",55.105
+"495","Bhutan","BTN","2017",55.065
+"496","Bhutan","BTN","2018",54.964
+"497","Bhutan","BTN","2019",54.835
+"498","Bhutan","BTN","2020",52.674
+"499","Bhutan","BTN","2021",52.9
+"500","Botswana","BWA","2002",49.74
+"501","Botswana","BWA","2003",50.396
+"502","Botswana","BWA","2004",51.052
+"503","Botswana","BWA","2005",51.71
+"504","Botswana","BWA","2006",52.367
+"505","Botswana","BWA","2007",53.428
+"506","Botswana","BWA","2008",54.487
+"507","Botswana","BWA","2009",55.543
+"508","Botswana","BWA","2010",52.652
+"509","Botswana","BWA","2011",53.319
+"510","Botswana","BWA","2012",53.987
+"511","Botswana","BWA","2013",54.654
+"512","Botswana","BWA","2014",55.32
+"513","Botswana","BWA","2015",55.983
+"514","Botswana","BWA","2016",56.642
+"515","Botswana","BWA","2017",57.298
+"516","Botswana","BWA","2018",57.95
+"517","Botswana","BWA","2019",58.6
+"518","Botswana","BWA","2020",57.483
+"519","Botswana","BWA","2021",59.196
+"520","Central African Republic","CAF","2002",63.315
+"521","Central African Republic","CAF","2003",63.312
+"522","Central African Republic","CAF","2004",63.315
+"523","Central African Republic","CAF","2005",63.32
+"524","Central African Republic","CAF","2006",63.275
+"525","Central African Republic","CAF","2007",63.238
+"526","Central African Republic","CAF","2008",63.21
+"527","Central African Republic","CAF","2009",63.198
+"528","Central African Republic","CAF","2010",63.205
+"529","Central African Republic","CAF","2011",63.125
+"530","Central African Republic","CAF","2012",63.062
+"531","Central African Republic","CAF","2013",63.018
+"532","Central African Republic","CAF","2014",62.992
+"533","Central African Republic","CAF","2015",62.976
+"534","Central African Republic","CAF","2016",63.034
+"535","Central African Republic","CAF","2017",63.107
+"536","Central African Republic","CAF","2018",63.19
+"537","Central African Republic","CAF","2019",63.278
+"538","Central African Republic","CAF","2020",62.679
+"539","Central African Republic","CAF","2021",63.195
+"540","Canada","CAN","2002",60.911
+"541","Canada","CAN","2003",61.894
+"542","Canada","CAN","2004",61.991
+"543","Canada","CAN","2005",61.659
+"544","Canada","CAN","2006",61.883
+"545","Canada","CAN","2007",62.505
+"546","Canada","CAN","2008",62.551
+"547","Canada","CAN","2009",62.426
+"548","Canada","CAN","2010",62.407
+"549","Canada","CAN","2011",62.161
+"550","Canada","CAN","2012",62.121
+"551","Canada","CAN","2013",62.171
+"552","Canada","CAN","2014",61.547
+"553","Canada","CAN","2015",61.213
+"554","Canada","CAN","2016",61.274
+"555","Canada","CAN","2017",61.476
+"556","Canada","CAN","2018",61.292
+"557","Canada","CAN","2019",61.437
+"558","Canada","CAN","2020",59.509
+"559","Canada","CAN","2021",60.622
+"560","Switzerland","CHE","2002",59.29
+"561","Switzerland","CHE","2003",59.449
+"562","Switzerland","CHE","2004",59.1
+"563","Switzerland","CHE","2005",59.331
+"564","Switzerland","CHE","2006",59.752
+"565","Switzerland","CHE","2007",59.924
+"566","Switzerland","CHE","2008",61.285
+"567","Switzerland","CHE","2009",61.569
+"568","Switzerland","CHE","2010",59.969
+"569","Switzerland","CHE","2011",60.532
+"570","Switzerland","CHE","2012",60.82
+"571","Switzerland","CHE","2013",61.135
+"572","Switzerland","CHE","2014",61.89
+"573","Switzerland","CHE","2015",62.277
+"574","Switzerland","CHE","2016",62.822
+"575","Switzerland","CHE","2017",62.593
+"576","Switzerland","CHE","2018",62.898
+"577","Switzerland","CHE","2019",62.972
+"578","Switzerland","CHE","2020",62.506
+"579","Switzerland","CHE","2021",62.226
+"580","Chile","CHL","2002",36.47
+"581","Chile","CHL","2003",37.823
+"582","Chile","CHL","2004",39.244
+"583","Chile","CHL","2005",40.16
+"584","Chile","CHL","2006",41.317
+"585","Chile","CHL","2007",42.262
+"586","Chile","CHL","2008",44.207
+"587","Chile","CHL","2009",44.645
+"588","Chile","CHL","2010",45.501
+"589","Chile","CHL","2011",47.525
+"590","Chile","CHL","2012",47.775
+"591","Chile","CHL","2013",47.91
+"592","Chile","CHL","2014",48.564
+"593","Chile","CHL","2015",48.431
+"594","Chile","CHL","2016",48.194
+"595","Chile","CHL","2017",48.72
+"596","Chile","CHL","2018",49.287
+"597","Chile","CHL","2019",49.451
+"598","Chile","CHL","2020",44.596
+"599","Chile","CHL","2021",46.223
+"600","China","CHN","2002",69.251
+"601","China","CHN","2003",68.58
+"602","China","CHN","2004",67.901
+"603","China","CHN","2005",67.213
+"604","China","CHN","2006",66.518
+"605","China","CHN","2007",65.816
+"606","China","CHN","2008",65.107
+"607","China","CHN","2009",64.391
+"608","China","CHN","2010",63.668
+"609","China","CHN","2011",63.669
+"610","China","CHN","2012",63.354
+"611","China","CHN","2013",63.059
+"612","China","CHN","2014",62.878
+"613","China","CHN","2015",62.675
+"614","China","CHN","2016",62.413
+"615","China","CHN","2017",62.062
+"616","China","CHN","2018",61.709
+"617","China","CHN","2019",61.447
+"618","China","CHN","2020",59.099
+"619","China","CHN","2021",61.306
+"620","Cote d'Ivoire","CIV","2002",49.81
+"621","Cote d'Ivoire","CIV","2003",50.166
+"622","Cote d'Ivoire","CIV","2004",50.526
+"623","Cote d'Ivoire","CIV","2005",50.887
+"624","Cote d'Ivoire","CIV","2006",51.249
+"625","Cote d'Ivoire","CIV","2007",51.613
+"626","Cote d'Ivoire","CIV","2008",51.98
+"627","Cote d'Ivoire","CIV","2009",52.35
+"628","Cote d'Ivoire","CIV","2010",52.724
+"629","Cote d'Ivoire","CIV","2011",53.106
+"630","Cote d'Ivoire","CIV","2012",53.497
+"631","Cote d'Ivoire","CIV","2013",53.889
+"632","Cote d'Ivoire","CIV","2014",54.281
+"633","Cote d'Ivoire","CIV","2015",54.675
+"634","Cote d'Ivoire","CIV","2016",55.069
+"635","Cote d'Ivoire","CIV","2017",55.465
+"636","Cote d'Ivoire","CIV","2018",55.864
+"637","Cote d'Ivoire","CIV","2019",56.264
+"638","Cote d'Ivoire","CIV","2020",55.733
+"639","Cote d'Ivoire","CIV","2021",56.685
+"640","Cameroon","CMR","2002",77.965
+"641","Cameroon","CMR","2003",78.001
+"642","Cameroon","CMR","2004",78.039
+"643","Cameroon","CMR","2005",78.077
+"644","Cameroon","CMR","2006",78.089
+"645","Cameroon","CMR","2007",78.108
+"646","Cameroon","CMR","2008",75.74
+"647","Cameroon","CMR","2009",73.2
+"648","Cameroon","CMR","2010",70.493
+"649","Cameroon","CMR","2011",69.635
+"650","Cameroon","CMR","2012",68.768
+"651","Cameroon","CMR","2013",67.894
+"652","Cameroon","CMR","2014",67.013
+"653","Cameroon","CMR","2015",67.045
+"654","Cameroon","CMR","2016",67.075
+"655","Cameroon","CMR","2017",67.114
+"656","Cameroon","CMR","2018",67.163
+"657","Cameroon","CMR","2019",67.219
+"658","Cameroon","CMR","2020",66.58
+"659","Cameroon","CMR","2021",66.892
+"660","Congo, Dem. Rep.","COD","2002",71.262
+"661","Congo, Dem. Rep.","COD","2003",71.247
+"662","Congo, Dem. Rep.","COD","2004",71.237
+"663","Congo, Dem. Rep.","COD","2005",71.232
+"664","Congo, Dem. Rep.","COD","2006",70.054
+"665","Congo, Dem. Rep.","COD","2007",68.85
+"666","Congo, Dem. Rep.","COD","2008",67.62
+"667","Congo, Dem. Rep.","COD","2009",66.365
+"668","Congo, Dem. Rep.","COD","2010",65.088
+"669","Congo, Dem. Rep.","COD","2011",63.788
+"670","Congo, Dem. Rep.","COD","2012",62.467
+"671","Congo, Dem. Rep.","COD","2013",62.453
+"672","Congo, Dem. Rep.","COD","2014",62.452
+"673","Congo, Dem. Rep.","COD","2015",62.464
+"674","Congo, Dem. Rep.","COD","2016",62.462
+"675","Congo, Dem. Rep.","COD","2017",62.48
+"676","Congo, Dem. Rep.","COD","2018",62.514
+"677","Congo, Dem. Rep.","COD","2019",62.562
+"678","Congo, Dem. Rep.","COD","2020",61.968
+"679","Congo, Dem. Rep.","COD","2021",62.524
+"680","Congo, Rep.","COG","2002",66.779
+"681","Congo, Rep.","COG","2003",66.803
+"682","Congo, Rep.","COG","2004",66.82
+"683","Congo, Rep.","COG","2005",66.827
+"684","Congo, Rep.","COG","2006",66.846
+"685","Congo, Rep.","COG","2007",66.857
+"686","Congo, Rep.","COG","2008",66.863
+"687","Congo, Rep.","COG","2009",66.873
+"688","Congo, Rep.","COG","2010",66.893
+"689","Congo, Rep.","COG","2011",66.822
+"690","Congo, Rep.","COG","2012",66.771
+"691","Congo, Rep.","COG","2013",66.739
+"692","Congo, Rep.","COG","2014",66.723
+"693","Congo, Rep.","COG","2015",66.72
+"694","Congo, Rep.","COG","2016",66.746
+"695","Congo, Rep.","COG","2017",66.789
+"696","Congo, Rep.","COG","2018",66.848
+"697","Congo, Rep.","COG","2019",66.924
+"698","Congo, Rep.","COG","2020",66.213
+"699","Congo, Rep.","COG","2021",66.467
+"700","Colombia","COL","2002",53.602
+"701","Colombia","COL","2003",54.765
+"702","Colombia","COL","2004",52.959
+"703","Colombia","COL","2005",52.022
+"704","Colombia","COL","2006",50.521
+"705","Colombia","COL","2007",49.021
+"706","Colombia","COL","2008",49.608
+"707","Colombia","COL","2009",53.1
+"708","Colombia","COL","2010",55.253
+"709","Colombia","COL","2011",56.089
+"710","Colombia","COL","2012",57.599
+"711","Colombia","COL","2013",57.442
+"712","Colombia","COL","2014",57.531
+"713","Colombia","COL","2015",58.082
+"714","Colombia","COL","2016",57.782
+"715","Colombia","COL","2017",57.645
+"716","Colombia","COL","2018",56.927
+"717","Colombia","COL","2019",55.921
+"718","Colombia","COL","2020",50.19
+"719","Colombia","COL","2021",51.693
+"720","Comoros","COM","2002",32.382
+"721","Comoros","COM","2003",32.507
+"722","Comoros","COM","2004",32.597
+"723","Comoros","COM","2005",32.597
+"724","Comoros","COM","2006",32.598
+"725","Comoros","COM","2007",32.599
+"726","Comoros","COM","2008",32.603
+"727","Comoros","COM","2009",32.612
+"728","Comoros","COM","2010",32.625
+"729","Comoros","COM","2011",32.642
+"730","Comoros","COM","2012",32.662
+"731","Comoros","COM","2013",32.685
+"732","Comoros","COM","2014",32.709
+"733","Comoros","COM","2015",32.771
+"734","Comoros","COM","2016",32.821
+"735","Comoros","COM","2017",32.88
+"736","Comoros","COM","2018",32.95
+"737","Comoros","COM","2019",33.032
+"738","Comoros","COM","2020",32.713
+"739","Comoros","COM","2021",32.904
+"740","Cabo Verde","CPV","2002",44.888
+"741","Cabo Verde","CPV","2003",45.237
+"742","Cabo Verde","CPV","2004",45.6
+"743","Cabo Verde","CPV","2005",45.974
+"744","Cabo Verde","CPV","2006",46.36
+"745","Cabo Verde","CPV","2007",46.761
+"746","Cabo Verde","CPV","2008",47.175
+"747","Cabo Verde","CPV","2009",47.603
+"748","Cabo Verde","CPV","2010",48.062
+"749","Cabo Verde","CPV","2011",48.626
+"750","Cabo Verde","CPV","2012",49.193
+"751","Cabo Verde","CPV","2013",49.768
+"752","Cabo Verde","CPV","2014",50.353
+"753","Cabo Verde","CPV","2015",50.949
+"754","Cabo Verde","CPV","2016",51.553
+"755","Cabo Verde","CPV","2017",52.167
+"756","Cabo Verde","CPV","2018",48.752
+"757","Cabo Verde","CPV","2019",50.55
+"758","Cabo Verde","CPV","2020",47.57
+"759","Cabo Verde","CPV","2021",48.876
+"760","Costa Rica","CRI","2002",42.045
+"761","Costa Rica","CRI","2003",42.545
+"762","Costa Rica","CRI","2004",40.841
+"763","Costa Rica","CRI","2005",44.53
+"764","Costa Rica","CRI","2006",44.417
+"765","Costa Rica","CRI","2007",45.554
+"766","Costa Rica","CRI","2008",46.159
+"767","Costa Rica","CRI","2009",46.303
+"768","Costa Rica","CRI","2010",43.904
+"769","Costa Rica","CRI","2011",46.285
+"770","Costa Rica","CRI","2012",51.25
+"771","Costa Rica","CRI","2013",51.073
+"772","Costa Rica","CRI","2014",51.166
+"773","Costa Rica","CRI","2015",49.892
+"774","Costa Rica","CRI","2016",43.759
+"775","Costa Rica","CRI","2017",45.739
+"776","Costa Rica","CRI","2018",48.499
+"777","Costa Rica","CRI","2019",52.579
+"778","Costa Rica","CRI","2020",48.492
+"779","Costa Rica","CRI","2021",50.109
+"780","Cuba","CUB","2002",36.682
+"781","Cuba","CUB","2003",37.148
+"782","Cuba","CUB","2004",37.797
+"783","Cuba","CUB","2005",38.951
+"784","Cuba","CUB","2006",40.163
+"785","Cuba","CUB","2007",40.861
+"786","Cuba","CUB","2008",41.201
+"787","Cuba","CUB","2009",42.376
+"788","Cuba","CUB","2010",41.861
+"789","Cuba","CUB","2011",41.635
+"790","Cuba","CUB","2012",41.858
+"791","Cuba","CUB","2013",42.042
+"792","Cuba","CUB","2014",42.02
+"793","Cuba","CUB","2015",42.364
+"794","Cuba","CUB","2016",42.233
+"795","Cuba","CUB","2017",42.25
+"796","Cuba","CUB","2018",42.322
+"797","Cuba","CUB","2019",42.121
+"798","Cuba","CUB","2020",38.823
+"799","Cuba","CUB","2021",39.888
+"800","Cyprus","CYP","2002",52.033
+"801","Cyprus","CYP","2003",53.444
+"802","Cyprus","CYP","2004",53.137
+"803","Cyprus","CYP","2005",52.97
+"804","Cyprus","CYP","2006",54.075
+"805","Cyprus","CYP","2007",55.533
+"806","Cyprus","CYP","2008",55.625
+"807","Cyprus","CYP","2009",56.396
+"808","Cyprus","CYP","2010",57.543
+"809","Cyprus","CYP","2011",57.16
+"810","Cyprus","CYP","2012",56.625
+"811","Cyprus","CYP","2013",56.763
+"812","Cyprus","CYP","2014",58.325
+"813","Cyprus","CYP","2015",57.503
+"814","Cyprus","CYP","2016",56.172
+"815","Cyprus","CYP","2017",56.635
+"816","Cyprus","CYP","2018",57.2
+"817","Cyprus","CYP","2019",57.284
+"818","Cyprus","CYP","2020",56.396
+"819","Cyprus","CYP","2021",57.638
+"820","Czechia","CZE","2002",50.731
+"821","Czechia","CZE","2003",50.825
+"822","Czechia","CZE","2004",50.461
+"823","Czechia","CZE","2005",50.641
+"824","Czechia","CZE","2006",50.543
+"825","Czechia","CZE","2007",49.764
+"826","Czechia","CZE","2008",49.325
+"827","Czechia","CZE","2009",49.547
+"828","Czechia","CZE","2010",49.325
+"829","Czechia","CZE","2011",49.468
+"830","Czechia","CZE","2012",50.04
+"831","Czechia","CZE","2013",50.918
+"832","Czechia","CZE","2014",50.86
+"833","Czechia","CZE","2015",51.244
+"834","Czechia","CZE","2016",51.86
+"835","Czechia","CZE","2017",52.288
+"836","Czechia","CZE","2018",52.775
+"837","Czechia","CZE","2019",52.584
+"838","Czechia","CZE","2020",51.816
+"839","Czechia","CZE","2021",51.89
+"840","Germany","DEU","2002",49.397
+"841","Germany","DEU","2003",49.781
+"842","Germany","DEU","2004",49.481
+"843","Germany","DEU","2005",51.152
+"844","Germany","DEU","2006",52.029
+"845","Germany","DEU","2007",52.453
+"846","Germany","DEU","2008",52.559
+"847","Germany","DEU","2009",52.951
+"848","Germany","DEU","2010",53.052
+"849","Germany","DEU","2011",53.99
+"850","Germany","DEU","2012",54.022
+"851","Germany","DEU","2013",54.571
+"852","Germany","DEU","2014",54.759
+"853","Germany","DEU","2015",54.708
+"854","Germany","DEU","2016",55.645
+"855","Germany","DEU","2017",55.915
+"856","Germany","DEU","2018",55.965
+"857","Germany","DEU","2019",56.596
+"858","Germany","DEU","2020",55.56
+"859","Germany","DEU","2021",55.471
+"860","Djibouti","DJI","2002",15.786
+"861","Djibouti","DJI","2003",15.923
+"862","Djibouti","DJI","2004",16.069
+"863","Djibouti","DJI","2005",16.217
+"864","Djibouti","DJI","2006",16.46
+"865","Djibouti","DJI","2007",16.709
+"866","Djibouti","DJI","2008",16.963
+"867","Djibouti","DJI","2009",17.214
+"868","Djibouti","DJI","2010",17.449
+"869","Djibouti","DJI","2011",17.578
+"870","Djibouti","DJI","2012",17.685
+"871","Djibouti","DJI","2013",17.776
+"872","Djibouti","DJI","2014",17.869
+"873","Djibouti","DJI","2015",17.975
+"874","Djibouti","DJI","2016",18.036
+"875","Djibouti","DJI","2017",18.133
+"876","Djibouti","DJI","2018",18.246
+"877","Djibouti","DJI","2019",18.35
+"878","Djibouti","DJI","2020",17.537
+"879","Djibouti","DJI","2021",17.925
+"880","Denmark","DNK","2002",60.235
+"881","Denmark","DNK","2003",59.724
+"882","Denmark","DNK","2004",60.383
+"883","Denmark","DNK","2005",60.391
+"884","Denmark","DNK","2006",60.93
+"885","Denmark","DNK","2007",60.654
+"886","Denmark","DNK","2008",59.903
+"887","Denmark","DNK","2009",59.644
+"888","Denmark","DNK","2010",58.85
+"889","Denmark","DNK","2011",58.589
+"890","Denmark","DNK","2012",58.148
+"891","Denmark","DNK","2013",57.596
+"892","Denmark","DNK","2014",57.019
+"893","Denmark","DNK","2015",56.737
+"894","Denmark","DNK","2016",57.563
+"895","Denmark","DNK","2017",57.616
+"896","Denmark","DNK","2018",57.567
+"897","Denmark","DNK","2019",57.987
+"898","Denmark","DNK","2020",57.75
+"899","Denmark","DNK","2021",58.071
+"900","Dominican Republic","DOM","2002",39.767
+"901","Dominican Republic","DOM","2003",38.914
+"902","Dominican Republic","DOM","2004",38.905
+"903","Dominican Republic","DOM","2005",39.545
+"904","Dominican Republic","DOM","2006",40.357
+"905","Dominican Republic","DOM","2007",40.041
+"906","Dominican Republic","DOM","2008",41.637
+"907","Dominican Republic","DOM","2009",38.734
+"908","Dominican Republic","DOM","2010",41.482
+"909","Dominican Republic","DOM","2011",43.478
+"910","Dominican Republic","DOM","2012",45.028
+"911","Dominican Republic","DOM","2013",44.914
+"912","Dominican Republic","DOM","2014",45.2
+"913","Dominican Republic","DOM","2015",47.995
+"914","Dominican Republic","DOM","2016",48.662
+"915","Dominican Republic","DOM","2017",48.864
+"916","Dominican Republic","DOM","2018",50.134
+"917","Dominican Republic","DOM","2019",52.135
+"918","Dominican Republic","DOM","2020",47.262
+"919","Dominican Republic","DOM","2021",50.931
+"920","Algeria","DZA","2002",12.646
+"921","Algeria","DZA","2003",12.805
+"922","Algeria","DZA","2004",12.966
+"923","Algeria","DZA","2005",13.131
+"924","Algeria","DZA","2006",13.299
+"925","Algeria","DZA","2007",13.471
+"926","Algeria","DZA","2008",13.647
+"927","Algeria","DZA","2009",13.825
+"928","Algeria","DZA","2010",14.058
+"929","Algeria","DZA","2011",14.861
+"930","Algeria","DZA","2012",15.695
+"931","Algeria","DZA","2013",16.472
+"932","Algeria","DZA","2014",14.798
+"933","Algeria","DZA","2015",16.18
+"934","Algeria","DZA","2016",16.824
+"935","Algeria","DZA","2017",16.687
+"936","Algeria","DZA","2018",16.55
+"937","Algeria","DZA","2019",16.444
+"938","Algeria","DZA","2020",15.402
+"939","Algeria","DZA","2021",15.909
+"940","Ecuador","ECU","2002",48.038
+"941","Ecuador","ECU","2003",49.134
+"942","Ecuador","ECU","2004",52.701
+"943","Ecuador","ECU","2005",51.888
+"944","Ecuador","ECU","2006",52.671
+"945","Ecuador","ECU","2007",51.926
+"946","Ecuador","ECU","2008",51.998
+"947","Ecuador","ECU","2009",49.638
+"948","Ecuador","ECU","2010",47.987
+"949","Ecuador","ECU","2011",47.043
+"950","Ecuador","ECU","2012",48.057
+"951","Ecuador","ECU","2013",48.106
+"952","Ecuador","ECU","2014",47.668
+"953","Ecuador","ECU","2015",51.889
+"954","Ecuador","ECU","2016",55.391
+"955","Ecuador","ECU","2017",56.156
+"956","Ecuador","ECU","2018",54.465
+"957","Ecuador","ECU","2019",54.39
+"958","Ecuador","ECU","2020",48.295
+"959","Ecuador","ECU","2021",53.717
+"960","Egypt, Arab Rep.","EGY","2002",18.221
+"961","Egypt, Arab Rep.","EGY","2003",18.948
+"962","Egypt, Arab Rep.","EGY","2004",19.698
+"963","Egypt, Arab Rep.","EGY","2005",20.471
+"964","Egypt, Arab Rep.","EGY","2006",21.269
+"965","Egypt, Arab Rep.","EGY","2007",23.328
+"966","Egypt, Arab Rep.","EGY","2008",21.884
+"967","Egypt, Arab Rep.","EGY","2009",22.902
+"968","Egypt, Arab Rep.","EGY","2010",23.17
+"969","Egypt, Arab Rep.","EGY","2011",22.503
+"970","Egypt, Arab Rep.","EGY","2012",22.473
+"971","Egypt, Arab Rep.","EGY","2013",22.982
+"972","Egypt, Arab Rep.","EGY","2014",23.131
+"973","Egypt, Arab Rep.","EGY","2015",22.779
+"974","Egypt, Arab Rep.","EGY","2016",23.024
+"975","Egypt, Arab Rep.","EGY","2017",22.145
+"976","Egypt, Arab Rep.","EGY","2018",18.383
+"977","Egypt, Arab Rep.","EGY","2019",15.831
+"978","Egypt, Arab Rep.","EGY","2020",14.484
+"979","Egypt, Arab Rep.","EGY","2021",14.636
+"980","Eritrea","ERI","2002",71.474
+"981","Eritrea","ERI","2003",71.648
+"982","Eritrea","ERI","2004",71.747
+"983","Eritrea","ERI","2005",71.774
+"984","Eritrea","ERI","2006",71.806
+"985","Eritrea","ERI","2007",71.792
+"986","Eritrea","ERI","2008",71.924
+"987","Eritrea","ERI","2009",71.896
+"988","Eritrea","ERI","2010",71.857
+"989","Eritrea","ERI","2011",71.715
+"990","Eritrea","ERI","2012",71.608
+"991","Eritrea","ERI","2013",71.654
+"992","Eritrea","ERI","2014",71.26
+"993","Eritrea","ERI","2015",71.423
+"994","Eritrea","ERI","2016",71.285
+"995","Eritrea","ERI","2017",71.337
+"996","Eritrea","ERI","2018",71.143
+"997","Eritrea","ERI","2019",71.058
+"998","Eritrea","ERI","2020",70.118
+"999","Eritrea","ERI","2021",70.205
+"1000","Spain","ESP","2002",41.791
+"1001","Spain","ESP","2003",43.279
+"1002","Spain","ESP","2004",44.673
+"1003","Spain","ESP","2005",46.096
+"1004","Spain","ESP","2006",47.52
+"1005","Spain","ESP","2007",48.554
+"1006","Spain","ESP","2008",49.935
+"1007","Spain","ESP","2009",51.015
+"1008","Spain","ESP","2010",51.714
+"1009","Spain","ESP","2011",52.362
+"1010","Spain","ESP","2012",52.941
+"1011","Spain","ESP","2013",52.889
+"1012","Spain","ESP","2014",52.608
+"1013","Spain","ESP","2015",52.593
+"1014","Spain","ESP","2016",52.581
+"1015","Spain","ESP","2017",52.18
+"1016","Spain","ESP","2018",51.912
+"1017","Spain","ESP","2019",52.143
+"1018","Spain","ESP","2020",51.088
+"1019","Spain","ESP","2021",52.584
+"1020","Estonia","EST","2002",51.043
+"1021","Estonia","EST","2003",52.288
+"1022","Estonia","EST","2004",53.211
+"1023","Estonia","EST","2005",53.528
+"1024","Estonia","EST","2006",54.669
+"1025","Estonia","EST","2007",54.028
+"1026","Estonia","EST","2008",54.794
+"1027","Estonia","EST","2009",54.715
+"1028","Estonia","EST","2010",55.067
+"1029","Estonia","EST","2011",55.614
+"1030","Estonia","EST","2012",55.379
+"1031","Estonia","EST","2013",55.34
+"1032","Estonia","EST","2014",54.54
+"1033","Estonia","EST","2015",55.749
+"1034","Estonia","EST","2016",56.294
+"1035","Estonia","EST","2017",57.001
+"1036","Estonia","EST","2018",57.271
+"1037","Estonia","EST","2019",57.332
+"1038","Estonia","EST","2020",57.14
+"1039","Estonia","EST","2021",57.821
+"1040","Ethiopia","ETH","2002",72.489
+"1041","Ethiopia","ETH","2003",73.177
+"1042","Ethiopia","ETH","2004",73.855
+"1043","Ethiopia","ETH","2005",74.525
+"1044","Ethiopia","ETH","2006",74.481
+"1045","Ethiopia","ETH","2007",74.439
+"1046","Ethiopia","ETH","2008",74.4
+"1047","Ethiopia","ETH","2009",74.362
+"1048","Ethiopia","ETH","2010",74.326
+"1049","Ethiopia","ETH","2011",74.29
+"1050","Ethiopia","ETH","2012",74.256
+"1051","Ethiopia","ETH","2013",74.223
+"1052","Ethiopia","ETH","2014",74.3
+"1053","Ethiopia","ETH","2015",74.379
+"1054","Ethiopia","ETH","2016",74.446
+"1055","Ethiopia","ETH","2017",74.516
+"1056","Ethiopia","ETH","2018",74.588
+"1057","Ethiopia","ETH","2019",74.658
+"1058","Ethiopia","ETH","2020",73.95
+"1059","Ethiopia","ETH","2021",74.753
+"1060","Finland","FIN","2002",56.931
+"1061","Finland","FIN","2003",56.617
+"1062","Finland","FIN","2004",56.367
+"1063","Finland","FIN","2005",56.791
+"1064","Finland","FIN","2006",57.068
+"1065","Finland","FIN","2007",57.374
+"1066","Finland","FIN","2008",57.374
+"1067","Finland","FIN","2009",56.943
+"1068","Finland","FIN","2010",55.937
+"1069","Finland","FIN","2011",55.784
+"1070","Finland","FIN","2012",55.963
+"1071","Finland","FIN","2013",55.505
+"1072","Finland","FIN","2014",55.481
+"1073","Finland","FIN","2015",55.591
+"1074","Finland","FIN","2016",54.987
+"1075","Finland","FIN","2017",55.188
+"1076","Finland","FIN","2018",55.856
+"1077","Finland","FIN","2019",55.765
+"1078","Finland","FIN","2020",55.224
+"1079","Finland","FIN","2021",55.574
+"1080","Fiji","FJI","2002",36.9
+"1081","Fiji","FJI","2003",36.485
+"1082","Fiji","FJI","2004",36.069
+"1083","Fiji","FJI","2005",34.847
+"1084","Fiji","FJI","2006",36.586
+"1085","Fiji","FJI","2007",38.345
+"1086","Fiji","FJI","2008",40.138
+"1087","Fiji","FJI","2009",41.958
+"1088","Fiji","FJI","2010",43.788
+"1089","Fiji","FJI","2011",45.621
+"1090","Fiji","FJI","2012",44.205
+"1091","Fiji","FJI","2013",42.801
+"1092","Fiji","FJI","2014",41.415
+"1093","Fiji","FJI","2015",39.885
+"1094","Fiji","FJI","2016",38.376
+"1095","Fiji","FJI","2017",38.411
+"1096","Fiji","FJI","2018",38.445
+"1097","Fiji","FJI","2019",38.459
+"1098","Fiji","FJI","2020",37.744
+"1099","Fiji","FJI","2021",37.777
+"1100","France","FRA","2002",49.072
+"1101","France","FRA","2003",50.315
+"1102","France","FRA","2004",50.129
+"1103","France","FRA","2005",50.45
+"1104","France","FRA","2006",50.515
+"1105","France","FRA","2007",50.894
+"1106","France","FRA","2008",51.1
+"1107","France","FRA","2009",51.446
+"1108","France","FRA","2010",51.458
+"1109","France","FRA","2011",51.333
+"1110","France","FRA","2012",51.548
+"1111","France","FRA","2013",51.738
+"1112","France","FRA","2014",51.647
+"1113","France","FRA","2015",51.595
+"1114","France","FRA","2016",51.529
+"1115","France","FRA","2017",51.311
+"1116","France","FRA","2018",51.43
+"1117","France","FRA","2019",51.256
+"1118","France","FRA","2020",50.626
+"1119","France","FRA","2021",52.204
+"1120","Gabon","GAB","2002",38.75
+"1121","Gabon","GAB","2003",38.843
+"1122","Gabon","GAB","2004",38.934
+"1123","Gabon","GAB","2005",39.018
+"1124","Gabon","GAB","2006",39.156
+"1125","Gabon","GAB","2007",39.279
+"1126","Gabon","GAB","2008",39.386
+"1127","Gabon","GAB","2009",39.474
+"1128","Gabon","GAB","2010",39.54
+"1129","Gabon","GAB","2011",39.627
+"1130","Gabon","GAB","2012",39.704
+"1131","Gabon","GAB","2013",39.762
+"1132","Gabon","GAB","2014",39.803
+"1133","Gabon","GAB","2015",39.835
+"1134","Gabon","GAB","2016",39.739
+"1135","Gabon","GAB","2017",39.658
+"1136","Gabon","GAB","2018",39.593
+"1137","Gabon","GAB","2019",39.546
+"1138","Gabon","GAB","2020",37.592
+"1139","Gabon","GAB","2021",38.225
+"1140","United Kingdom","GBR","2002",54.651
+"1141","United Kingdom","GBR","2003",54.559
+"1142","United Kingdom","GBR","2004",54.934
+"1143","United Kingdom","GBR","2005",55.398
+"1144","United Kingdom","GBR","2006",55.904
+"1145","United Kingdom","GBR","2007",55.684
+"1146","United Kingdom","GBR","2008",55.966
+"1147","United Kingdom","GBR","2009",56.148
+"1148","United Kingdom","GBR","2010",56.064
+"1149","United Kingdom","GBR","2011",56.202
+"1150","United Kingdom","GBR","2012",56.41
+"1151","United Kingdom","GBR","2013",56.759
+"1152","United Kingdom","GBR","2014",57.015
+"1153","United Kingdom","GBR","2015",57.198
+"1154","United Kingdom","GBR","2016",57.495
+"1155","United Kingdom","GBR","2017",57.794
+"1156","United Kingdom","GBR","2018",58.034
+"1157","United Kingdom","GBR","2019",58.456
+"1158","United Kingdom","GBR","2020",58.607
+"1159","United Kingdom","GBR","2021",58.347
+"1160","Georgia","GEO","2002",56.04
+"1161","Georgia","GEO","2003",57.628
+"1162","Georgia","GEO","2004",56.955
+"1163","Georgia","GEO","2005",56.023
+"1164","Georgia","GEO","2006",53.724
+"1165","Georgia","GEO","2007",54.967
+"1166","Georgia","GEO","2008",54.198
+"1167","Georgia","GEO","2009",54.635
+"1168","Georgia","GEO","2010",55.796
+"1169","Georgia","GEO","2011",56.134
+"1170","Georgia","GEO","2012",57.257
+"1171","Georgia","GEO","2013",56.434
+"1172","Georgia","GEO","2014",57.349
+"1173","Georgia","GEO","2015",59.005
+"1174","Georgia","GEO","2016",57.933
+"1175","Georgia","GEO","2017",56.751
+"1176","Georgia","GEO","2018",55.648
+"1177","Georgia","GEO","2019",54.626
+"1178","Georgia","GEO","2020",55.115
+"1179","Georgia","GEO","2021",55.65
+"1180","Ghana","GHA","2002",71.681
+"1181","Ghana","GHA","2003",71.197
+"1182","Ghana","GHA","2004",70.709
+"1183","Ghana","GHA","2005",70.216
+"1184","Ghana","GHA","2006",69.719
+"1185","Ghana","GHA","2007",69.217
+"1186","Ghana","GHA","2008",68.711
+"1187","Ghana","GHA","2009",68.201
+"1188","Ghana","GHA","2010",67.687
+"1189","Ghana","GHA","2011",67.169
+"1190","Ghana","GHA","2012",66.648
+"1191","Ghana","GHA","2013",66.123
+"1192","Ghana","GHA","2014",65.593
+"1193","Ghana","GHA","2015",65.06
+"1194","Ghana","GHA","2016",65.111
+"1195","Ghana","GHA","2017",65.173
+"1196","Ghana","GHA","2018",65.241
+"1197","Ghana","GHA","2019",65.313
+"1198","Ghana","GHA","2020",64.693
+"1199","Ghana","GHA","2021",65.076
+"1200","Guinea","GIN","2002",62.72
+"1201","Guinea","GIN","2003",61.573
+"1202","Guinea","GIN","2004",60.417
+"1203","Guinea","GIN","2005",59.255
+"1204","Guinea","GIN","2006",58.085
+"1205","Guinea","GIN","2007",56.901
+"1206","Guinea","GIN","2008",55.707
+"1207","Guinea","GIN","2009",54.505
+"1208","Guinea","GIN","2010",53.297
+"1209","Guinea","GIN","2011",52.082
+"1210","Guinea","GIN","2012",50.864
+"1211","Guinea","GIN","2013",49.642
+"1212","Guinea","GIN","2014",48.417
+"1213","Guinea","GIN","2015",47.187
+"1214","Guinea","GIN","2016",45.956
+"1215","Guinea","GIN","2017",44.725
+"1216","Guinea","GIN","2018",43.496
+"1217","Guinea","GIN","2019",42.268
+"1218","Guinea","GIN","2020",41.85
+"1219","Guinea","GIN","2021",41.575
+"1220","Gambia, The","GMB","2002",47.515
+"1221","Gambia, The","GMB","2003",47.79
+"1222","Gambia, The","GMB","2004",48.056
+"1223","Gambia, The","GMB","2005",48.322
+"1224","Gambia, The","GMB","2006",48.586
+"1225","Gambia, The","GMB","2007",48.848
+"1226","Gambia, The","GMB","2008",49.109
+"1227","Gambia, The","GMB","2009",49.369
+"1228","Gambia, The","GMB","2010",49.629
+"1229","Gambia, The","GMB","2011",49.889
+"1230","Gambia, The","GMB","2012",50.15
+"1231","Gambia, The","GMB","2013",51.13
+"1232","Gambia, The","GMB","2014",52.112
+"1233","Gambia, The","GMB","2015",53.097
+"1234","Gambia, The","GMB","2016",54.083
+"1235","Gambia, The","GMB","2017",55.07
+"1236","Gambia, The","GMB","2018",56.057
+"1237","Gambia, The","GMB","2019",56.097
+"1238","Gambia, The","GMB","2020",55.561
+"1239","Gambia, The","GMB","2021",56.512
+"1240","Guinea-Bissau","GNB","2002",48.172
+"1241","Guinea-Bissau","GNB","2003",48.24
+"1242","Guinea-Bissau","GNB","2004",48.315
+"1243","Guinea-Bissau","GNB","2005",48.393
+"1244","Guinea-Bissau","GNB","2006",48.438
+"1245","Guinea-Bissau","GNB","2007",48.487
+"1246","Guinea-Bissau","GNB","2008",48.538
+"1247","Guinea-Bissau","GNB","2009",48.586
+"1248","Guinea-Bissau","GNB","2010",48.63
+"1249","Guinea-Bissau","GNB","2011",48.641
+"1250","Guinea-Bissau","GNB","2012",48.659
+"1251","Guinea-Bissau","GNB","2013",48.681
+"1252","Guinea-Bissau","GNB","2014",48.707
+"1253","Guinea-Bissau","GNB","2015",48.738
+"1254","Guinea-Bissau","GNB","2016",48.755
+"1255","Guinea-Bissau","GNB","2017",48.783
+"1256","Guinea-Bissau","GNB","2018",48.822
+"1257","Guinea-Bissau","GNB","2019",48.874
+"1258","Guinea-Bissau","GNB","2020",48.403
+"1259","Guinea-Bissau","GNB","2021",48.668
+"1260","Equatorial Guinea","GNQ","2002",50.457
+"1261","Equatorial Guinea","GNQ","2003",50.506
+"1262","Equatorial Guinea","GNQ","2004",50.534
+"1263","Equatorial Guinea","GNQ","2005",50.55
+"1264","Equatorial Guinea","GNQ","2006",50.619
+"1265","Equatorial Guinea","GNQ","2007",50.697
+"1266","Equatorial Guinea","GNQ","2008",50.764
+"1267","Equatorial Guinea","GNQ","2009",50.823
+"1268","Equatorial Guinea","GNQ","2010",50.884
+"1269","Equatorial Guinea","GNQ","2011",50.924
+"1270","Equatorial Guinea","GNQ","2012",50.988
+"1271","Equatorial Guinea","GNQ","2013",51.054
+"1272","Equatorial Guinea","GNQ","2014",51.114
+"1273","Equatorial Guinea","GNQ","2015",51.18
+"1274","Equatorial Guinea","GNQ","2016",51.199
+"1275","Equatorial Guinea","GNQ","2017",51.256
+"1276","Equatorial Guinea","GNQ","2018",51.318
+"1277","Equatorial Guinea","GNQ","2019",51.379
+"1278","Equatorial Guinea","GNQ","2020",49.801
+"1279","Equatorial Guinea","GNQ","2021",50.404
+"1280","Greece","GRC","2002",40.531
+"1281","Greece","GRC","2003",41.16
+"1282","Greece","GRC","2004",42.468
+"1283","Greece","GRC","2005",42.455
+"1284","Greece","GRC","2006",42.705
+"1285","Greece","GRC","2007",42.547
+"1286","Greece","GRC","2008",42.531
+"1287","Greece","GRC","2009",43.534
+"1288","Greece","GRC","2010",44.101
+"1289","Greece","GRC","2011",43.817
+"1290","Greece","GRC","2012",44.099
+"1291","Greece","GRC","2013",43.948
+"1292","Greece","GRC","2014",44.323
+"1293","Greece","GRC","2015",44.944
+"1294","Greece","GRC","2016",45.18
+"1295","Greece","GRC","2017",44.885
+"1296","Greece","GRC","2018",44.492
+"1297","Greece","GRC","2019",44.668
+"1298","Greece","GRC","2020",43.8
+"1299","Greece","GRC","2021",43.882
+"1300","Guatemala","GTM","2002",41.745
+"1301","Guatemala","GTM","2003",41.865
+"1302","Guatemala","GTM","2004",42.078
+"1303","Guatemala","GTM","2005",41.981
+"1304","Guatemala","GTM","2006",41.893
+"1305","Guatemala","GTM","2007",41.814
+"1306","Guatemala","GTM","2008",41.745
+"1307","Guatemala","GTM","2009",41.686
+"1308","Guatemala","GTM","2010",41.637
+"1309","Guatemala","GTM","2011",40.139
+"1310","Guatemala","GTM","2012",45.026
+"1311","Guatemala","GTM","2013",39.727
+"1312","Guatemala","GTM","2014",40.023
+"1313","Guatemala","GTM","2015",38.484
+"1314","Guatemala","GTM","2016",39.568
+"1315","Guatemala","GTM","2017",38.699
+"1316","Guatemala","GTM","2018",38.449
+"1317","Guatemala","GTM","2019",37.154
+"1318","Guatemala","GTM","2020",35.808
+"1319","Guatemala","GTM","2021",36.268
+"1320","Guam","GUM","2002",54.456
+"1321","Guam","GUM","2003",53.565
+"1322","Guam","GUM","2004",52.665
+"1323","Guam","GUM","2005",54.85
+"1324","Guam","GUM","2006",55.247
+"1325","Guam","GUM","2007",48.353
+"1326","Guam","GUM","2008",50.871
+"1327","Guam","GUM","2009",53.375
+"1328","Guam","GUM","2010",56.472
+"1329","Guam","GUM","2011",56.153
+"1330","Guam","GUM","2012",56.272
+"1331","Guam","GUM","2013",56.362
+"1332","Guam","GUM","2014",56.453
+"1333","Guam","GUM","2015",56.478
+"1334","Guam","GUM","2016",56.456
+"1335","Guam","GUM","2017",56.468
+"1336","Guam","GUM","2018",56.369
+"1337","Guam","GUM","2019",56.438
+"1338","Guam","GUM","2020",55.91
+"1339","Guam","GUM","2021",56.182
+"1340","Guyana","GUY","2002",34.468
+"1341","Guyana","GUY","2003",34.904
+"1342","Guyana","GUY","2004",35.363
+"1343","Guyana","GUY","2005",35.828
+"1344","Guyana","GUY","2006",36.298
+"1345","Guyana","GUY","2007",36.772
+"1346","Guyana","GUY","2008",37.251
+"1347","Guyana","GUY","2009",37.734
+"1348","Guyana","GUY","2010",38.224
+"1349","Guyana","GUY","2011",38.719
+"1350","Guyana","GUY","2012",39.219
+"1351","Guyana","GUY","2013",39.747
+"1352","Guyana","GUY","2014",40.301
+"1353","Guyana","GUY","2015",40.855
+"1354","Guyana","GUY","2016",41.41
+"1355","Guyana","GUY","2017",41.966
+"1356","Guyana","GUY","2018",42.417
+"1357","Guyana","GUY","2019",39.163
+"1358","Guyana","GUY","2020",38.856
+"1359","Guyana","GUY","2021",39.529
+"1360","Hong Kong SAR, China","HKG","2002",51.917
+"1361","Hong Kong SAR, China","HKG","2003",51.578
+"1362","Hong Kong SAR, China","HKG","2004",51.8
+"1363","Hong Kong SAR, China","HKG","2005",51.901
+"1364","Hong Kong SAR, China","HKG","2006",52.612
+"1365","Hong Kong SAR, China","HKG","2007",53.054
+"1366","Hong Kong SAR, China","HKG","2008",53.129
+"1367","Hong Kong SAR, China","HKG","2009",53.222
+"1368","Hong Kong SAR, China","HKG","2010",51.89
+"1369","Hong Kong SAR, China","HKG","2011",52.928
+"1370","Hong Kong SAR, China","HKG","2012",53.518
+"1371","Hong Kong SAR, China","HKG","2013",54.471
+"1372","Hong Kong SAR, China","HKG","2014",54.53
+"1373","Hong Kong SAR, China","HKG","2015",54.719
+"1374","Hong Kong SAR, China","HKG","2016",54.773
+"1375","Hong Kong SAR, China","HKG","2017",55.03
+"1376","Hong Kong SAR, China","HKG","2018",55.072
+"1377","Hong Kong SAR, China","HKG","2019",54.896
+"1378","Hong Kong SAR, China","HKG","2020",54.112
+"1379","Hong Kong SAR, China","HKG","2021",54.145
+"1380","Honduras","HND","2002",42.516
+"1381","Honduras","HND","2003",42.114
+"1382","Honduras","HND","2004",41.719
+"1383","Honduras","HND","2005",41.332
+"1384","Honduras","HND","2006",38.396
+"1385","Honduras","HND","2007",37.767
+"1386","Honduras","HND","2008",39.378
+"1387","Honduras","HND","2009",40.856
+"1388","Honduras","HND","2010",42.587
+"1389","Honduras","HND","2011",39.618
+"1390","Honduras","HND","2012",38.236
+"1391","Honduras","HND","2013",43.347
+"1392","Honduras","HND","2014",45.943
+"1393","Honduras","HND","2015",46.493
+"1394","Honduras","HND","2016",45.854
+"1395","Honduras","HND","2017",45.706
+"1396","Honduras","HND","2018",50.317
+"1397","Honduras","HND","2019",47.061
+"1398","Honduras","HND","2020",47.515
+"1399","Honduras","HND","2021",48.067
+"1400","Croatia","HRV","2002",43.924
+"1401","Croatia","HRV","2003",42.769
+"1402","Croatia","HRV","2004",43.569
+"1403","Croatia","HRV","2005",42.563
+"1404","Croatia","HRV","2006",42.753
+"1405","Croatia","HRV","2007",45.145
+"1406","Croatia","HRV","2008",45.746
+"1407","Croatia","HRV","2009",46.716
+"1408","Croatia","HRV","2010",46.143
+"1409","Croatia","HRV","2011",44.614
+"1410","Croatia","HRV","2012",44.537
+"1411","Croatia","HRV","2013",44.579
+"1412","Croatia","HRV","2014",46.416
+"1413","Croatia","HRV","2015",46.86
+"1414","Croatia","HRV","2016",45.409
+"1415","Croatia","HRV","2017",45.543
+"1416","Croatia","HRV","2018",45.476
+"1417","Croatia","HRV","2019",45.139
+"1418","Croatia","HRV","2020",44.638
+"1419","Croatia","HRV","2021",45.746
+"1420","Haiti","HTI","2002",57.463
+"1421","Haiti","HTI","2003",57.776
+"1422","Haiti","HTI","2004",58.089
+"1423","Haiti","HTI","2005",58.401
+"1424","Haiti","HTI","2006",58.844
+"1425","Haiti","HTI","2007",59.285
+"1426","Haiti","HTI","2008",59.725
+"1427","Haiti","HTI","2009",60.163
+"1428","Haiti","HTI","2010",60.597
+"1429","Haiti","HTI","2011",61.208
+"1430","Haiti","HTI","2012",61.213
+"1431","Haiti","HTI","2013",61.508
+"1432","Haiti","HTI","2014",61.837
+"1433","Haiti","HTI","2015",61.961
+"1434","Haiti","HTI","2016",62.073
+"1435","Haiti","HTI","2017",62.246
+"1436","Haiti","HTI","2018",62.35
+"1437","Haiti","HTI","2019",62.077
+"1438","Haiti","HTI","2020",61.461
+"1439","Haiti","HTI","2021",61.772
+"1440","Hungary","HUN","2002",41.229
+"1441","Hungary","HUN","2003",42.224
+"1442","Hungary","HUN","2004",42.066
+"1443","Hungary","HUN","2005",42.989
+"1444","Hungary","HUN","2006",43.279
+"1445","Hungary","HUN","2007",42.92
+"1446","Hungary","HUN","2008",42.697
+"1447","Hungary","HUN","2009",42.706
+"1448","Hungary","HUN","2010",43.556
+"1449","Hungary","HUN","2011",43.651
+"1450","Hungary","HUN","2012",44.546
+"1451","Hungary","HUN","2013",44.711
+"1452","Hungary","HUN","2014",46.047
+"1453","Hungary","HUN","2015",46.95
+"1454","Hungary","HUN","2016",47.632
+"1455","Hungary","HUN","2017",47.984
+"1456","Hungary","HUN","2018",48.309
+"1457","Hungary","HUN","2019",48.368
+"1458","Hungary","HUN","2020",48.164
+"1459","Hungary","HUN","2021",52.413
+"1460","Indonesia","IDN","2002",47.982
+"1461","Indonesia","IDN","2003",47.778
+"1462","Indonesia","IDN","2004",47.167
+"1463","Indonesia","IDN","2005",46.014
+"1464","Indonesia","IDN","2006",45.945
+"1465","Indonesia","IDN","2007",49.781
+"1466","Indonesia","IDN","2008",50.328
+"1467","Indonesia","IDN","2009",50.249
+"1468","Indonesia","IDN","2010",50.921
+"1469","Indonesia","IDN","2011",50.935
+"1470","Indonesia","IDN","2012",51.442
+"1471","Indonesia","IDN","2013",50.67
+"1472","Indonesia","IDN","2014",50.595
+"1473","Indonesia","IDN","2015",50.731
+"1474","Indonesia","IDN","2016",50.905
+"1475","Indonesia","IDN","2017",51.898
+"1476","Indonesia","IDN","2018",53.089
+"1477","Indonesia","IDN","2019",53.91
+"1478","Indonesia","IDN","2020",53.167
+"1479","Indonesia","IDN","2021",52.034
+"1480","India","IND","2002",30.339
+"1481","India","IND","2003",30.262
+"1482","India","IND","2004",30.195
+"1483","India","IND","2005",30.136
+"1484","India","IND","2006",29.862
+"1485","India","IND","2007",29.588
+"1486","India","IND","2008",29.316
+"1487","India","IND","2009",29.045
+"1488","India","IND","2010",28.775
+"1489","India","IND","2011",27.919
+"1490","India","IND","2012",27.075
+"1491","India","IND","2013",25.91
+"1492","India","IND","2014",24.774
+"1493","India","IND","2015",23.667
+"1494","India","IND","2016",22.592
+"1495","India","IND","2017",21.549
+"1496","India","IND","2018",20.538
+"1497","India","IND","2019",23.722
+"1498","India","IND","2020",22.679
+"1499","India","IND","2021",22.989
+"1500","Ireland","IRL","2002",51.312
+"1501","Ireland","IRL","2003",51.786
+"1502","Ireland","IRL","2004",51.991
+"1503","Ireland","IRL","2005",54.554
+"1504","Ireland","IRL","2006",55.355
+"1505","Ireland","IRL","2007",56.969
+"1506","Ireland","IRL","2008",56.827
+"1507","Ireland","IRL","2009",56.113
+"1508","Ireland","IRL","2010",55.251
+"1509","Ireland","IRL","2011",54.964
+"1510","Ireland","IRL","2012",54.77
+"1511","Ireland","IRL","2013",55.27
+"1512","Ireland","IRL","2014",54.929
+"1513","Ireland","IRL","2015",54.853
+"1514","Ireland","IRL","2016",55.592
+"1515","Ireland","IRL","2017",55.653
+"1516","Ireland","IRL","2018",56.038
+"1517","Ireland","IRL","2019",56.251
+"1518","Ireland","IRL","2020",55.094
+"1519","Ireland","IRL","2021",57.851
+"1520","Iran, Islamic Rep.","IRN","2002",15.663
+"1521","Iran, Islamic Rep.","IRN","2003",16.635
+"1522","Iran, Islamic Rep.","IRN","2004",17.634
+"1523","Iran, Islamic Rep.","IRN","2005",18.671
+"1524","Iran, Islamic Rep.","IRN","2006",18.028
+"1525","Iran, Islamic Rep.","IRN","2007",16.981
+"1526","Iran, Islamic Rep.","IRN","2008",14.743
+"1527","Iran, Islamic Rep.","IRN","2009",15.682
+"1528","Iran, Islamic Rep.","IRN","2010",15.134
+"1529","Iran, Islamic Rep.","IRN","2011",13.647
+"1530","Iran, Islamic Rep.","IRN","2012",14.703
+"1531","Iran, Islamic Rep.","IRN","2013",13.256
+"1532","Iran, Islamic Rep.","IRN","2014",12.889
+"1533","Iran, Islamic Rep.","IRN","2015",14.256
+"1534","Iran, Islamic Rep.","IRN","2016",16.106
+"1535","Iran, Islamic Rep.","IRN","2017",17.326
+"1536","Iran, Islamic Rep.","IRN","2018",17.414
+"1537","Iran, Islamic Rep.","IRN","2019",16.901
+"1538","Iran, Islamic Rep.","IRN","2020",13.811
+"1539","Iran, Islamic Rep.","IRN","2021",14.829
+"1540","Iraq","IRQ","2002",10.399
+"1541","Iraq","IRQ","2003",10.749
+"1542","Iraq","IRQ","2004",11.114
+"1543","Iraq","IRQ","2005",11.492
+"1544","Iraq","IRQ","2006",11.884
+"1545","Iraq","IRQ","2007",12.288
+"1546","Iraq","IRQ","2008",12.219
+"1547","Iraq","IRQ","2009",12.142
+"1548","Iraq","IRQ","2010",12.062
+"1549","Iraq","IRQ","2011",11.981
+"1550","Iraq","IRQ","2012",11.9
+"1551","Iraq","IRQ","2013",12.797
+"1552","Iraq","IRQ","2014",13.744
+"1553","Iraq","IRQ","2015",14.2
+"1554","Iraq","IRQ","2016",14.67
+"1555","Iraq","IRQ","2017",11.351
+"1556","Iraq","IRQ","2018",11.422
+"1557","Iraq","IRQ","2019",11.483
+"1558","Iraq","IRQ","2020",11.069
+"1559","Iraq","IRQ","2021",10.917
+"1560","Iceland","ISL","2002",72.087
+"1561","Iceland","ISL","2003",72.286
+"1562","Iceland","ISL","2004",70.602
+"1563","Iceland","ISL","2005",70.947
+"1564","Iceland","ISL","2006",71.601
+"1565","Iceland","ISL","2007",71.613
+"1566","Iceland","ISL","2008",71.013
+"1567","Iceland","ISL","2009",70.345
+"1568","Iceland","ISL","2010",70.61
+"1569","Iceland","ISL","2011",70.157
+"1570","Iceland","ISL","2012",70.858
+"1571","Iceland","ISL","2013",71.425
+"1572","Iceland","ISL","2014",72.2
+"1573","Iceland","ISL","2015",73.207
+"1574","Iceland","ISL","2016",73.339
+"1575","Iceland","ISL","2017",72.595
+"1576","Iceland","ISL","2018",71.58
+"1577","Iceland","ISL","2019",71.018
+"1578","Iceland","ISL","2020",68.932
+"1579","Iceland","ISL","2021",69.047
+"1580","Israel","ISR","2002",53.284
+"1581","Israel","ISR","2003",54.169
+"1582","Israel","ISR","2004",54.66
+"1583","Israel","ISR","2005",55.271
+"1584","Israel","ISR","2006",55.644
+"1585","Israel","ISR","2007",56.146
+"1586","Israel","ISR","2008",56.188
+"1587","Israel","ISR","2009",57.119
+"1588","Israel","ISR","2010",57.462
+"1589","Israel","ISR","2011",57.119
+"1590","Israel","ISR","2012",58.1
+"1591","Israel","ISR","2013",58.209
+"1592","Israel","ISR","2014",59.179
+"1593","Israel","ISR","2015",59.096
+"1594","Israel","ISR","2016",59.362
+"1595","Israel","ISR","2017",59.238
+"1596","Israel","ISR","2018",59.769
+"1597","Israel","ISR","2019",59.548
+"1598","Israel","ISR","2020",58.19
+"1599","Israel","ISR","2021",59.404
+"1600","Italy","ITA","2002",36.791
+"1601","Italy","ITA","2003",37.358
+"1602","Italy","ITA","2004",38.44
+"1603","Italy","ITA","2005",38.073
+"1604","Italy","ITA","2006",38.211
+"1605","Italy","ITA","2007",37.957
+"1606","Italy","ITA","2008",38.685
+"1607","Italy","ITA","2009",38.249
+"1608","Italy","ITA","2010",38.182
+"1609","Italy","ITA","2011",38.412
+"1610","Italy","ITA","2012",39.721
+"1611","Italy","ITA","2013",39.692
+"1612","Italy","ITA","2014",40.141
+"1613","Italy","ITA","2015",39.789
+"1614","Italy","ITA","2016",40.457
+"1615","Italy","ITA","2017",40.932
+"1616","Italy","ITA","2018",41.096
+"1617","Italy","ITA","2019",41.248
+"1618","Italy","ITA","2020",39.834
+"1619","Italy","ITA","2021",40.097
+"1620","Jamaica","JAM","2002",56.897
+"1621","Jamaica","JAM","2003",56.47
+"1622","Jamaica","JAM","2004",56.475
+"1623","Jamaica","JAM","2005",56.311
+"1624","Jamaica","JAM","2006",56.126
+"1625","Jamaica","JAM","2007",55.916
+"1626","Jamaica","JAM","2008",55.689
+"1627","Jamaica","JAM","2009",53.752
+"1628","Jamaica","JAM","2010",52.347
+"1629","Jamaica","JAM","2011",52.698
+"1630","Jamaica","JAM","2012",53.134
+"1631","Jamaica","JAM","2013",54.094
+"1632","Jamaica","JAM","2014",54.665
+"1633","Jamaica","JAM","2015",58.756
+"1634","Jamaica","JAM","2016",57.861
+"1635","Jamaica","JAM","2017",58.819
+"1636","Jamaica","JAM","2018",58.549
+"1637","Jamaica","JAM","2019",60.093
+"1638","Jamaica","JAM","2020",57.85
+"1639","Jamaica","JAM","2021",60.421
+"1640","Jordan","JOR","2002",11.999
+"1641","Jordan","JOR","2003",10.95
+"1642","Jordan","JOR","2004",11.211
+"1643","Jordan","JOR","2005",11.475
+"1644","Jordan","JOR","2006",11.669
+"1645","Jordan","JOR","2007",14.466
+"1646","Jordan","JOR","2008",14.032
+"1647","Jordan","JOR","2009",14.68
+"1648","Jordan","JOR","2010",14.55
+"1649","Jordan","JOR","2011",14.506
+"1650","Jordan","JOR","2012",13.94
+"1651","Jordan","JOR","2013",12.986
+"1652","Jordan","JOR","2014",12.273
+"1653","Jordan","JOR","2015",13.568
+"1654","Jordan","JOR","2016",15.02
+"1655","Jordan","JOR","2017",16.58
+"1656","Jordan","JOR","2018",14.615
+"1657","Jordan","JOR","2019",13.645
+"1658","Jordan","JOR","2020",14.942
+"1659","Jordan","JOR","2021",14.489
+"1660","Japan","JPN","2002",48.5
+"1661","Japan","JPN","2003",48.209
+"1662","Japan","JPN","2004",48.207
+"1663","Japan","JPN","2005",48.33
+"1664","Japan","JPN","2006",48.439
+"1665","Japan","JPN","2007",48.426
+"1666","Japan","JPN","2008",48.403
+"1667","Japan","JPN","2009",48.473
+"1668","Japan","JPN","2010",48.376
+"1669","Japan","JPN","2011",48.127
+"1670","Japan","JPN","2012",48.064
+"1671","Japan","JPN","2013",48.778
+"1672","Japan","JPN","2014",49.207
+"1673","Japan","JPN","2015",49.445
+"1674","Japan","JPN","2016",50.246
+"1675","Japan","JPN","2017",51.059
+"1676","Japan","JPN","2018",52.407
+"1677","Japan","JPN","2019",53.276
+"1678","Japan","JPN","2020",53.213
+"1679","Japan","JPN","2021",53.507
+"1680","Kazakhstan","KAZ","2002",64.972
+"1681","Kazakhstan","KAZ","2003",65.07
+"1682","Kazakhstan","KAZ","2004",64.818
+"1683","Kazakhstan","KAZ","2005",64.625
+"1684","Kazakhstan","KAZ","2006",65.025
+"1685","Kazakhstan","KAZ","2007",65.871
+"1686","Kazakhstan","KAZ","2008",66.736
+"1687","Kazakhstan","KAZ","2009",66.639
+"1688","Kazakhstan","KAZ","2010",66.583
+"1689","Kazakhstan","KAZ","2011",66.532
+"1690","Kazakhstan","KAZ","2012",66.465
+"1691","Kazakhstan","KAZ","2013",66.409
+"1692","Kazakhstan","KAZ","2014",66.339
+"1693","Kazakhstan","KAZ","2015",66.242
+"1694","Kazakhstan","KAZ","2016",66.143
+"1695","Kazakhstan","KAZ","2017",66.072
+"1696","Kazakhstan","KAZ","2018",66.003
+"1697","Kazakhstan","KAZ","2019",65.986
+"1698","Kazakhstan","KAZ","2020",63.694
+"1699","Kazakhstan","KAZ","2021",64.521
+"1700","Kenya","KEN","2002",70.6
+"1701","Kenya","KEN","2003",70.658
+"1702","Kenya","KEN","2004",70.716
+"1703","Kenya","KEN","2005",70.774
+"1704","Kenya","KEN","2006",70.832
+"1705","Kenya","KEN","2007",70.891
+"1706","Kenya","KEN","2008",70.95
+"1707","Kenya","KEN","2009",71.01
+"1708","Kenya","KEN","2010",71.069
+"1709","Kenya","KEN","2011",71.13
+"1710","Kenya","KEN","2012",71.19
+"1711","Kenya","KEN","2013",71.251
+"1712","Kenya","KEN","2014",71.311
+"1713","Kenya","KEN","2015",71.372
+"1714","Kenya","KEN","2016",71.433
+"1715","Kenya","KEN","2017",71.612
+"1716","Kenya","KEN","2018",71.8
+"1717","Kenya","KEN","2019",71.998
+"1718","Kenya","KEN","2020",71.314
+"1719","Kenya","KEN","2021",72.137
+"1720","Kyrgyz Republic","KGZ","2002",55.436
+"1721","Kyrgyz Republic","KGZ","2003",54.569
+"1722","Kyrgyz Republic","KGZ","2004",53.694
+"1723","Kyrgyz Republic","KGZ","2005",54.042
+"1724","Kyrgyz Republic","KGZ","2006",54.406
+"1725","Kyrgyz Republic","KGZ","2007",54.096
+"1726","Kyrgyz Republic","KGZ","2008",53.786
+"1727","Kyrgyz Republic","KGZ","2009",52.834
+"1728","Kyrgyz Republic","KGZ","2010",52.531
+"1729","Kyrgyz Republic","KGZ","2011",52.958
+"1730","Kyrgyz Republic","KGZ","2012",51.904
+"1731","Kyrgyz Republic","KGZ","2013",49.321
+"1732","Kyrgyz Republic","KGZ","2014",50.476
+"1733","Kyrgyz Republic","KGZ","2015",50.032
+"1734","Kyrgyz Republic","KGZ","2016",48.452
+"1735","Kyrgyz Republic","KGZ","2017",46.021
+"1736","Kyrgyz Republic","KGZ","2018",44.278
+"1737","Kyrgyz Republic","KGZ","2019",45.632
+"1738","Kyrgyz Republic","KGZ","2020",45.322
+"1739","Kyrgyz Republic","KGZ","2021",45.083
+"1740","Cambodia","KHM","2002",71.693
+"1741","Cambodia","KHM","2003",70.734
+"1742","Cambodia","KHM","2004",69.756
+"1743","Cambodia","KHM","2005",68.759
+"1744","Cambodia","KHM","2006",67.744
+"1745","Cambodia","KHM","2007",66.711
+"1746","Cambodia","KHM","2008",65.663
+"1747","Cambodia","KHM","2009",64.601
+"1748","Cambodia","KHM","2010",63.525
+"1749","Cambodia","KHM","2011",62.435
+"1750","Cambodia","KHM","2012",61.333
+"1751","Cambodia","KHM","2013",62.581
+"1752","Cambodia","KHM","2014",63.815
+"1753","Cambodia","KHM","2015",65.033
+"1754","Cambodia","KHM","2016",66.235
+"1755","Cambodia","KHM","2017",67.418
+"1756","Cambodia","KHM","2018",68.582
+"1757","Cambodia","KHM","2019",69.725
+"1758","Cambodia","KHM","2020",69.062
+"1759","Cambodia","KHM","2021",69.677
+"1760","Korea, Rep.","KOR","2002",50.22
+"1761","Korea, Rep.","KOR","2003",49.319
+"1762","Korea, Rep.","KOR","2004",50.561
+"1763","Korea, Rep.","KOR","2005",50.651
+"1764","Korea, Rep.","KOR","2006",50.9
+"1765","Korea, Rep.","KOR","2007",50.823
+"1766","Korea, Rep.","KOR","2008",50.541
+"1767","Korea, Rep.","KOR","2009",49.723
+"1768","Korea, Rep.","KOR","2010",49.943
+"1769","Korea, Rep.","KOR","2011",50.126
+"1770","Korea, Rep.","KOR","2012",50.333
+"1771","Korea, Rep.","KOR","2013",50.645
+"1772","Korea, Rep.","KOR","2014",51.817
+"1773","Korea, Rep.","KOR","2015",52.301
+"1774","Korea, Rep.","KOR","2016",52.519
+"1775","Korea, Rep.","KOR","2017",53.036
+"1776","Korea, Rep.","KOR","2018",53.148
+"1777","Korea, Rep.","KOR","2019",53.752
+"1778","Korea, Rep.","KOR","2020",53.089
+"1779","Korea, Rep.","KOR","2021",53.622
+"1780","Kuwait","KWT","2002",45.029
+"1781","Kuwait","KWT","2003",45.632
+"1782","Kuwait","KWT","2004",45.935
+"1783","Kuwait","KWT","2005",46.099
+"1784","Kuwait","KWT","2006",46.04
+"1785","Kuwait","KWT","2007",46.061
+"1786","Kuwait","KWT","2008",46.281
+"1787","Kuwait","KWT","2009",46.694
+"1788","Kuwait","KWT","2010",47.285
+"1789","Kuwait","KWT","2011",48.035
+"1790","Kuwait","KWT","2012",48.792
+"1791","Kuwait","KWT","2013",49.411
+"1792","Kuwait","KWT","2014",49.667
+"1793","Kuwait","KWT","2015",49.617
+"1794","Kuwait","KWT","2016",49.447
+"1795","Kuwait","KWT","2017",49.382
+"1796","Kuwait","KWT","2018",48.973
+"1797","Kuwait","KWT","2019",48.569
+"1798","Kuwait","KWT","2020",46.272
+"1799","Kuwait","KWT","2021",46.498
+"1800","Lao PDR","LAO","2002",59.624
+"1801","Lao PDR","LAO","2003",59.36
+"1802","Lao PDR","LAO","2004",59.088
+"1803","Lao PDR","LAO","2005",58.787
+"1804","Lao PDR","LAO","2006",58.425
+"1805","Lao PDR","LAO","2007",58.131
+"1806","Lao PDR","LAO","2008",57.844
+"1807","Lao PDR","LAO","2009",57.586
+"1808","Lao PDR","LAO","2010",57.301
+"1809","Lao PDR","LAO","2011",57.052
+"1810","Lao PDR","LAO","2012",56.82
+"1811","Lao PDR","LAO","2013",56.605
+"1812","Lao PDR","LAO","2014",56.419
+"1813","Lao PDR","LAO","2015",56.261
+"1814","Lao PDR","LAO","2016",56.126
+"1815","Lao PDR","LAO","2017",56.007
+"1816","Lao PDR","LAO","2018",55.912
+"1817","Lao PDR","LAO","2019",55.84
+"1818","Lao PDR","LAO","2020",55.31
+"1819","Lao PDR","LAO","2021",55.501
+"1820","Lebanon","LBN","2002",20.243
+"1821","Lebanon","LBN","2003",20.26
+"1822","Lebanon","LBN","2004",20.326
+"1823","Lebanon","LBN","2005",20.554
+"1824","Lebanon","LBN","2006",20.789
+"1825","Lebanon","LBN","2007",21.027
+"1826","Lebanon","LBN","2008",21.627
+"1827","Lebanon","LBN","2009",22.237
+"1828","Lebanon","LBN","2010",22.857
+"1829","Lebanon","LBN","2011",23.486
+"1830","Lebanon","LBN","2012",24.126
+"1831","Lebanon","LBN","2013",24.776
+"1832","Lebanon","LBN","2014",25.436
+"1833","Lebanon","LBN","2015",26.147
+"1834","Lebanon","LBN","2016",26.913
+"1835","Lebanon","LBN","2017",27.694
+"1836","Lebanon","LBN","2018",28.489
+"1837","Lebanon","LBN","2019",29.298
+"1838","Lebanon","LBN","2020",26.614
+"1839","Lebanon","LBN","2021",27.754
+"1840","Liberia","LBR","2002",71.815
+"1841","Liberia","LBR","2003",71.82
+"1842","Liberia","LBR","2004",71.825
+"1843","Liberia","LBR","2005",71.816
+"1844","Liberia","LBR","2006",71.796
+"1845","Liberia","LBR","2007",71.779
+"1846","Liberia","LBR","2008",71.763
+"1847","Liberia","LBR","2009",71.757
+"1848","Liberia","LBR","2010",71.769
+"1849","Liberia","LBR","2011",71.775
+"1850","Liberia","LBR","2012",71.793
+"1851","Liberia","LBR","2013",71.827
+"1852","Liberia","LBR","2014",71.873
+"1853","Liberia","LBR","2015",71.928
+"1854","Liberia","LBR","2016",71.981
+"1855","Liberia","LBR","2017",72.043
+"1856","Liberia","LBR","2018",72.112
+"1857","Liberia","LBR","2019",72.186
+"1858","Liberia","LBR","2020",71.497
+"1859","Liberia","LBR","2021",72.013
+"1860","Libya","LBY","2002",32.26
+"1861","Libya","LBY","2003",32.656
+"1862","Libya","LBY","2004",33.018
+"1863","Libya","LBY","2005",33.335
+"1864","Libya","LBY","2006",33.546
+"1865","Libya","LBY","2007",33.674
+"1866","Libya","LBY","2008",33.767
+"1867","Libya","LBY","2009",33.843
+"1868","Libya","LBY","2010",33.913
+"1869","Libya","LBY","2011",33.904
+"1870","Libya","LBY","2012",33.895
+"1871","Libya","LBY","2013",33.894
+"1872","Libya","LBY","2014",33.892
+"1873","Libya","LBY","2015",33.893
+"1874","Libya","LBY","2016",33.963
+"1875","Libya","LBY","2017",34.042
+"1876","Libya","LBY","2018",34.129
+"1877","Libya","LBY","2019",34.231
+"1878","Libya","LBY","2020",32.953
+"1879","Libya","LBY","2021",33.847
+"1880","St. Lucia","LCA","2002",54.285
+"1881","St. Lucia","LCA","2003",55.113
+"1882","St. Lucia","LCA","2004",55.939
+"1883","St. Lucia","LCA","2005",56.764
+"1884","St. Lucia","LCA","2006",57.587
+"1885","St. Lucia","LCA","2007",58.408
+"1886","St. Lucia","LCA","2008",59.226
+"1887","St. Lucia","LCA","2009",60.043
+"1888","St. Lucia","LCA","2010",60.861
+"1889","St. Lucia","LCA","2011",61.681
+"1890","St. Lucia","LCA","2012",64.482
+"1891","St. Lucia","LCA","2013",63.299
+"1892","St. Lucia","LCA","2014",63.637
+"1893","St. Lucia","LCA","2015",63.976
+"1894","St. Lucia","LCA","2016",64.313
+"1895","St. Lucia","LCA","2017",64.647
+"1896","St. Lucia","LCA","2018",64.729
+"1897","St. Lucia","LCA","2019",65.048
+"1898","St. Lucia","LCA","2020",61.93
+"1899","St. Lucia","LCA","2021",63.793
+"1900","Sri Lanka","LKA","2002",35.835
+"1901","Sri Lanka","LKA","2003",35.595
+"1902","Sri Lanka","LKA","2004",35.356
+"1903","Sri Lanka","LKA","2005",35.117
+"1904","Sri Lanka","LKA","2006",34.882
+"1905","Sri Lanka","LKA","2007",34.651
+"1906","Sri Lanka","LKA","2008",34.423
+"1907","Sri Lanka","LKA","2009",34.197
+"1908","Sri Lanka","LKA","2010",33.969
+"1909","Sri Lanka","LKA","2011",33.956
+"1910","Sri Lanka","LKA","2012",32.659
+"1911","Sri Lanka","LKA","2013",34.974
+"1912","Sri Lanka","LKA","2014",34.223
+"1913","Sri Lanka","LKA","2015",35.373
+"1914","Sri Lanka","LKA","2016",35.305
+"1915","Sri Lanka","LKA","2017",36.154
+"1916","Sri Lanka","LKA","2018",33.171
+"1917","Sri Lanka","LKA","2019",34.124
+"1918","Sri Lanka","LKA","2020",33.524
+"1919","Sri Lanka","LKA","2021",33.978
+"1920","Lesotho","LSO","2002",65.271
+"1921","Lesotho","LSO","2003",64.567
+"1922","Lesotho","LSO","2004",63.856
+"1923","Lesotho","LSO","2005",63.139
+"1924","Lesotho","LSO","2006",62.418
+"1925","Lesotho","LSO","2007",61.68
+"1926","Lesotho","LSO","2008",60.933
+"1927","Lesotho","LSO","2009",60.186
+"1928","Lesotho","LSO","2010",59.429
+"1929","Lesotho","LSO","2011",58.665
+"1930","Lesotho","LSO","2012",57.894
+"1931","Lesotho","LSO","2013",57.119
+"1932","Lesotho","LSO","2014",57.2
+"1933","Lesotho","LSO","2015",57.301
+"1934","Lesotho","LSO","2016",57.344
+"1935","Lesotho","LSO","2017",57.408
+"1936","Lesotho","LSO","2018",57.479
+"1937","Lesotho","LSO","2019",57.548
+"1938","Lesotho","LSO","2020",57
+"1939","Lesotho","LSO","2021",57.125
+"1940","Lithuania","LTU","2002",52.639
+"1941","Lithuania","LTU","2003",55.049
+"1942","Lithuania","LTU","2004",51.505
+"1943","Lithuania","LTU","2005",50.795
+"1944","Lithuania","LTU","2006",50.228
+"1945","Lithuania","LTU","2007",50.235
+"1946","Lithuania","LTU","2008",50.554
+"1947","Lithuania","LTU","2009",52.066
+"1948","Lithuania","LTU","2010",52.546
+"1949","Lithuania","LTU","2011",52.702
+"1950","Lithuania","LTU","2012",53.195
+"1951","Lithuania","LTU","2013",52.936
+"1952","Lithuania","LTU","2014",53.861
+"1953","Lithuania","LTU","2015",54.412
+"1954","Lithuania","LTU","2016",55.6
+"1955","Lithuania","LTU","2017",55.777
+"1956","Lithuania","LTU","2018",56.476
+"1957","Lithuania","LTU","2019",57.235
+"1958","Lithuania","LTU","2020",57.324
+"1959","Lithuania","LTU","2021",57.352
+"1960","Luxembourg","LUX","2002",43.538
+"1961","Luxembourg","LUX","2003",43.685
+"1962","Luxembourg","LUX","2004",45.438
+"1963","Luxembourg","LUX","2005",46.366
+"1964","Luxembourg","LUX","2006",46.939
+"1965","Luxembourg","LUX","2007",47.515
+"1966","Luxembourg","LUX","2008",48.09
+"1967","Luxembourg","LUX","2009",49.917
+"1968","Luxembourg","LUX","2010",49.775
+"1969","Luxembourg","LUX","2011",50.261
+"1970","Luxembourg","LUX","2012",51.893
+"1971","Luxembourg","LUX","2013",52.506
+"1972","Luxembourg","LUX","2014",53.447
+"1973","Luxembourg","LUX","2015",54.569
+"1974","Luxembourg","LUX","2016",53.527
+"1975","Luxembourg","LUX","2017",54.979
+"1976","Luxembourg","LUX","2018",55.804
+"1977","Luxembourg","LUX","2019",55.837
+"1978","Luxembourg","LUX","2020",57.018
+"1979","Luxembourg","LUX","2021",58.146
+"1980","Latvia","LVA","2002",51.384
+"1981","Latvia","LVA","2003",50.837
+"1982","Latvia","LVA","2004",50.74
+"1983","Latvia","LVA","2005",50.685
+"1984","Latvia","LVA","2006",52.237
+"1985","Latvia","LVA","2007",53.135
+"1986","Latvia","LVA","2008",55.024
+"1987","Latvia","LVA","2009",54.539
+"1988","Latvia","LVA","2010",53.907
+"1989","Latvia","LVA","2011",53.045
+"1990","Latvia","LVA","2012",54.319
+"1991","Latvia","LVA","2013",54.018
+"1992","Latvia","LVA","2014",53.409
+"1993","Latvia","LVA","2015",54.107
+"1994","Latvia","LVA","2016",54.972
+"1995","Latvia","LVA","2017",55.147
+"1996","Latvia","LVA","2018",55.775
+"1997","Latvia","LVA","2019",55.659
+"1998","Latvia","LVA","2020",56
+"1999","Latvia","LVA","2021",54.291
+"2000","Macao SAR, China","MAC","2002",56.149
+"2001","Macao SAR, China","MAC","2003",53.373
+"2002","Macao SAR, China","MAC","2004",54.822
+"2003","Macao SAR, China","MAC","2005",56.856
+"2004","Macao SAR, China","MAC","2006",58.774
+"2005","Macao SAR, China","MAC","2007",62.498
+"2006","Macao SAR, China","MAC","2008",63.733
+"2007","Macao SAR, China","MAC","2009",64.598
+"2008","Macao SAR, China","MAC","2010",64.307
+"2009","Macao SAR, China","MAC","2011",65.635
+"2010","Macao SAR, China","MAC","2012",65.149
+"2011","Macao SAR, China","MAC","2013",65.79
+"2012","Macao SAR, China","MAC","2014",66.094
+"2013","Macao SAR, China","MAC","2015",65.878
+"2014","Macao SAR, China","MAC","2016",65.326
+"2015","Macao SAR, China","MAC","2017",64.726
+"2016","Macao SAR, China","MAC","2018",64.901
+"2017","Macao SAR, China","MAC","2019",64.553
+"2018","Macao SAR, China","MAC","2020",62.709
+"2019","Macao SAR, China","MAC","2021",64.226
+"2020","Morocco","MAR","2002",24.813
+"2021","Morocco","MAR","2003",25.064
+"2022","Morocco","MAR","2004",25.316
+"2023","Morocco","MAR","2005",25.566
+"2024","Morocco","MAR","2006",25.811
+"2025","Morocco","MAR","2007",26.058
+"2026","Morocco","MAR","2008",26.308
+"2027","Morocco","MAR","2009",25.941
+"2028","Morocco","MAR","2010",25.579
+"2029","Morocco","MAR","2011",25.151
+"2030","Morocco","MAR","2012",24.392
+"2031","Morocco","MAR","2013",24.752
+"2032","Morocco","MAR","2014",24.814
+"2033","Morocco","MAR","2015",24.398
+"2034","Morocco","MAR","2016",23.311
+"2035","Morocco","MAR","2017",22.884
+"2036","Morocco","MAR","2018",22.951
+"2037","Morocco","MAR","2019",23.018
+"2038","Morocco","MAR","2020",21.954
+"2039","Morocco","MAR","2021",20.733
+"2040","Moldova","MDA","2002",54.225
+"2041","Moldova","MDA","2003",49.12
+"2042","Moldova","MDA","2004",47.943
+"2043","Moldova","MDA","2005",47.515
+"2044","Moldova","MDA","2006",43.01
+"2045","Moldova","MDA","2007",42.183
+"2046","Moldova","MDA","2008",41.582
+"2047","Moldova","MDA","2009",39.722
+"2048","Moldova","MDA","2010",38.646
+"2049","Moldova","MDA","2011",39.314
+"2050","Moldova","MDA","2012",38.212
+"2051","Moldova","MDA","2013",38.594
+"2052","Moldova","MDA","2014",40.054
+"2053","Moldova","MDA","2015",41.194
+"2054","Moldova","MDA","2016",41.302
+"2055","Moldova","MDA","2017",40.409
+"2056","Moldova","MDA","2018",39.278
+"2057","Moldova","MDA","2019",38.159
+"2058","Moldova","MDA","2020",36.15
+"2059","Moldova","MDA","2021",36.382
+"2060","Madagascar","MDG","2002",84.217
+"2061","Madagascar","MDG","2003",84.2
+"2062","Madagascar","MDG","2004",84.199
+"2063","Madagascar","MDG","2005",84.192
+"2064","Madagascar","MDG","2006",84.16
+"2065","Madagascar","MDG","2007",84.115
+"2066","Madagascar","MDG","2008",84.058
+"2067","Madagascar","MDG","2009",83.986
+"2068","Madagascar","MDG","2010",83.903
+"2069","Madagascar","MDG","2011",83.808
+"2070","Madagascar","MDG","2012",83.705
+"2071","Madagascar","MDG","2013",83.595
+"2072","Madagascar","MDG","2014",83.465
+"2073","Madagascar","MDG","2015",83.322
+"2074","Madagascar","MDG","2016",83.241
+"2075","Madagascar","MDG","2017",83.173
+"2076","Madagascar","MDG","2018",83.12
+"2077","Madagascar","MDG","2019",83.067
+"2078","Madagascar","MDG","2020",82.193
+"2079","Madagascar","MDG","2021",82.838
+"2080","Maldives","MDV","2002",37.237
+"2081","Maldives","MDV","2003",37.244
+"2082","Maldives","MDV","2004",37.25
+"2083","Maldives","MDV","2005",37.253
+"2084","Maldives","MDV","2006",37.145
+"2085","Maldives","MDV","2007",36.912
+"2086","Maldives","MDV","2008",36.672
+"2087","Maldives","MDV","2009",36.458
+"2088","Maldives","MDV","2010",36.964
+"2089","Maldives","MDV","2011",37.494
+"2090","Maldives","MDV","2012",38.047
+"2091","Maldives","MDV","2013",38.62
+"2092","Maldives","MDV","2014",39.264
+"2093","Maldives","MDV","2015",39.974
+"2094","Maldives","MDV","2016",40.695
+"2095","Maldives","MDV","2017",41.606
+"2096","Maldives","MDV","2018",41.94
+"2097","Maldives","MDV","2019",41.904
+"2098","Maldives","MDV","2020",39.606
+"2099","Maldives","MDV","2021",41.216
+"2100","Mexico","MEX","2002",38.335
+"2101","Mexico","MEX","2003",39.003
+"2102","Mexico","MEX","2004",40.135
+"2103","Mexico","MEX","2005",41.191
+"2104","Mexico","MEX","2006",42.37
+"2105","Mexico","MEX","2007",42.742
+"2106","Mexico","MEX","2008",42.569
+"2107","Mexico","MEX","2009",43.054
+"2108","Mexico","MEX","2010",42.9
+"2109","Mexico","MEX","2011",43.281
+"2110","Mexico","MEX","2012",44.319
+"2111","Mexico","MEX","2013",44.297
+"2112","Mexico","MEX","2014",43.338
+"2113","Mexico","MEX","2015",43.698
+"2114","Mexico","MEX","2016",43.726
+"2115","Mexico","MEX","2017",43.328
+"2116","Mexico","MEX","2018",43.911
+"2117","Mexico","MEX","2019",45.34
+"2118","Mexico","MEX","2020",41.475
+"2119","Mexico","MEX","2021",44.347
+"2120","North Macedonia","MKD","2002",41.569
+"2121","North Macedonia","MKD","2003",43.473
+"2122","North Macedonia","MKD","2004",43.455
+"2123","North Macedonia","MKD","2005",43.437
+"2124","North Macedonia","MKD","2006",41.958
+"2125","North Macedonia","MKD","2007",43.031
+"2126","North Macedonia","MKD","2008",42.768
+"2127","North Macedonia","MKD","2009",42.658
+"2128","North Macedonia","MKD","2010",42.958
+"2129","North Macedonia","MKD","2011",43.554
+"2130","North Macedonia","MKD","2012",43.085
+"2131","North Macedonia","MKD","2013",44.543
+"2132","North Macedonia","MKD","2014",44.038
+"2133","North Macedonia","MKD","2015",43.503
+"2134","North Macedonia","MKD","2016",42.358
+"2135","North Macedonia","MKD","2017",42.764
+"2136","North Macedonia","MKD","2018",43.08
+"2137","North Macedonia","MKD","2019",44.976
+"2138","North Macedonia","MKD","2020",43.737
+"2139","North Macedonia","MKD","2021",42.924
+"2140","Mali","MLI","2002",60.405
+"2141","Mali","MLI","2003",60.389
+"2142","Mali","MLI","2004",60.378
+"2143","Mali","MLI","2005",60.37
+"2144","Mali","MLI","2006",60.324
+"2145","Mali","MLI","2007",60.289
+"2146","Mali","MLI","2008",60.263
+"2147","Mali","MLI","2009",60.245
+"2148","Mali","MLI","2010",60.235
+"2149","Mali","MLI","2011",60.187
+"2150","Mali","MLI","2012",60.156
+"2151","Mali","MLI","2013",60.139
+"2152","Mali","MLI","2014",60.134
+"2153","Mali","MLI","2015",61.207
+"2154","Mali","MLI","2016",59.546
+"2155","Mali","MLI","2017",57.87
+"2156","Mali","MLI","2018",57.907
+"2157","Mali","MLI","2019",57.957
+"2158","Mali","MLI","2020",50.625
+"2159","Mali","MLI","2021",52.907
+"2160","Malta","MLT","2002",30.104
+"2161","Malta","MLT","2003",29.676
+"2162","Malta","MLT","2004",27.358
+"2163","Malta","MLT","2005",29.423
+"2164","Malta","MLT","2006",29.684
+"2165","Malta","MLT","2007",31.533
+"2166","Malta","MLT","2008",32.518
+"2167","Malta","MLT","2009",32.951
+"2168","Malta","MLT","2010",33.722
+"2169","Malta","MLT","2011",35.179
+"2170","Malta","MLT","2012",38.204
+"2171","Malta","MLT","2013",40.426
+"2172","Malta","MLT","2014",42.083
+"2173","Malta","MLT","2015",42.822
+"2174","Malta","MLT","2016",44.536
+"2175","Malta","MLT","2017",46.103
+"2176","Malta","MLT","2018",48.684
+"2177","Malta","MLT","2019",50.253
+"2178","Malta","MLT","2020",51.982
+"2179","Malta","MLT","2021",52.753
+"2180","Myanmar","MMR","2002",59.827
+"2181","Myanmar","MMR","2003",58.627
+"2182","Myanmar","MMR","2004",57.5
+"2183","Myanmar","MMR","2005",56.424
+"2184","Myanmar","MMR","2006",55.437
+"2185","Myanmar","MMR","2007",54.578
+"2186","Myanmar","MMR","2008",53.877
+"2187","Myanmar","MMR","2009",53.197
+"2188","Myanmar","MMR","2010",52.621
+"2189","Myanmar","MMR","2011",52.32
+"2190","Myanmar","MMR","2012",51.932
+"2191","Myanmar","MMR","2013",51.506
+"2192","Myanmar","MMR","2014",51.124
+"2193","Myanmar","MMR","2015",50.81
+"2194","Myanmar","MMR","2016",49.24
+"2195","Myanmar","MMR","2017",47.67
+"2196","Myanmar","MMR","2018",48.452
+"2197","Myanmar","MMR","2019",46.304
+"2198","Myanmar","MMR","2020",44.745
+"2199","Montenegro","MNE","2002",42.871
+"2200","Montenegro","MNE","2003",42.817
+"2201","Montenegro","MNE","2004",42.704
+"2202","Montenegro","MNE","2005",42.6
+"2203","Montenegro","MNE","2006",42.418
+"2204","Montenegro","MNE","2007",42.295
+"2205","Montenegro","MNE","2008",42.192
+"2206","Montenegro","MNE","2009",42.274
+"2207","Montenegro","MNE","2010",42.232
+"2208","Montenegro","MNE","2011",42.188
+"2209","Montenegro","MNE","2012",43.568
+"2210","Montenegro","MNE","2013",43.761
+"2211","Montenegro","MNE","2014",46.31
+"2212","Montenegro","MNE","2015",47.721
+"2213","Montenegro","MNE","2016",47.672
+"2214","Montenegro","MNE","2017",47.558
+"2215","Montenegro","MNE","2018",48.207
+"2216","Montenegro","MNE","2019",50.029
+"2217","Montenegro","MNE","2020",46.516
+"2218","Montenegro","MNE","2021",48.433
+"2219","Mongolia","MNG","2002",56.193
+"2220","Mongolia","MNG","2003",55.957
+"2221","Mongolia","MNG","2004",55.871
+"2222","Mongolia","MNG","2005",55.785
+"2223","Mongolia","MNG","2006",55.699
+"2224","Mongolia","MNG","2007",55.612
+"2225","Mongolia","MNG","2008",53.977
+"2226","Mongolia","MNG","2009",53.713
+"2227","Mongolia","MNG","2010",54.164
+"2228","Mongolia","MNG","2011",54.903
+"2229","Mongolia","MNG","2012",54.364
+"2230","Mongolia","MNG","2013",53.824
+"2231","Mongolia","MNG","2014",54.367
+"2232","Mongolia","MNG","2015",53.885
+"2233","Mongolia","MNG","2016",52.831
+"2234","Mongolia","MNG","2017",53.866
+"2235","Mongolia","MNG","2018",51.908
+"2236","Mongolia","MNG","2019",55.744
+"2237","Mongolia","MNG","2020",53.497
+"2238","Mongolia","MNG","2021",51.141
+"2239","Mozambique","MOZ","2002",84.848
+"2240","Mozambique","MOZ","2003",84.38
+"2241","Mozambique","MOZ","2004",83.905
+"2242","Mozambique","MOZ","2005",83.421
+"2243","Mozambique","MOZ","2006",82.929
+"2244","Mozambique","MOZ","2007",82.429
+"2245","Mozambique","MOZ","2008",81.921
+"2246","Mozambique","MOZ","2009",81.404
+"2247","Mozambique","MOZ","2010",80.878
+"2248","Mozambique","MOZ","2011",80.344
+"2249","Mozambique","MOZ","2012",79.802
+"2250","Mozambique","MOZ","2013",79.249
+"2251","Mozambique","MOZ","2014",78.687
+"2252","Mozambique","MOZ","2015",78.115
+"2253","Mozambique","MOZ","2016",78.163
+"2254","Mozambique","MOZ","2017",78.223
+"2255","Mozambique","MOZ","2018",78.294
+"2256","Mozambique","MOZ","2019",78.369
+"2257","Mozambique","MOZ","2020",77.624
+"2258","Mozambique","MOZ","2021",77.827
+"2259","Mauritania","MRT","2002",28.1
+"2260","Mauritania","MRT","2003",28.024
+"2261","Mauritania","MRT","2004",27.946
+"2262","Mauritania","MRT","2005",27.867
+"2263","Mauritania","MRT","2006",27.784
+"2264","Mauritania","MRT","2007",27.697
+"2265","Mauritania","MRT","2008",27.611
+"2266","Mauritania","MRT","2009",27.53
+"2267","Mauritania","MRT","2010",27.455
+"2268","Mauritania","MRT","2011",27.386
+"2269","Mauritania","MRT","2012",27.322
+"2270","Mauritania","MRT","2013",27.113
+"2271","Mauritania","MRT","2014",26.882
+"2272","Mauritania","MRT","2015",26.651
+"2273","Mauritania","MRT","2016",26.42
+"2274","Mauritania","MRT","2017",26.189
+"2275","Mauritania","MRT","2018",26.231
+"2276","Mauritania","MRT","2019",26.275
+"2277","Mauritania","MRT","2020",26.02
+"2278","Mauritania","MRT","2021",26.101
+"2279","Mauritius","MUS","2002",37.67
+"2280","Mauritius","MUS","2003",40.933
+"2281","Mauritius","MUS","2004",39.535
+"2282","Mauritius","MUS","2005",40.933
+"2283","Mauritius","MUS","2006",41.184
+"2284","Mauritius","MUS","2007",40.167
+"2285","Mauritius","MUS","2008",41.073
+"2286","Mauritius","MUS","2009",41.515
+"2287","Mauritius","MUS","2010",43.048
+"2288","Mauritius","MUS","2011",42.147
+"2289","Mauritius","MUS","2012",42.556
+"2290","Mauritius","MUS","2013",44.466
+"2291","Mauritius","MUS","2014",44.717
+"2292","Mauritius","MUS","2015",45.85
+"2293","Mauritius","MUS","2016",44.874
+"2294","Mauritius","MUS","2017",45.157
+"2295","Mauritius","MUS","2018",45.055
+"2296","Mauritius","MUS","2019",45.864
+"2297","Mauritius","MUS","2020",45.032
+"2298","Mauritius","MUS","2021",45.378
+"2299","Malawi","MWI","2002",78.151
+"2300","Malawi","MWI","2003",78.154
+"2301","Malawi","MWI","2004",78.16
+"2302","Malawi","MWI","2005",78.161
+"2303","Malawi","MWI","2006",76.754
+"2304","Malawi","MWI","2007",75.284
+"2305","Malawi","MWI","2008",73.751
+"2306","Malawi","MWI","2009",72.155
+"2307","Malawi","MWI","2010",70.498
+"2308","Malawi","MWI","2011",68.784
+"2309","Malawi","MWI","2012",67.916
+"2310","Malawi","MWI","2013",67.037
+"2311","Malawi","MWI","2014",66.148
+"2312","Malawi","MWI","2015",65.249
+"2313","Malawi","MWI","2016",64.34
+"2314","Malawi","MWI","2017",63.422
+"2315","Malawi","MWI","2018",63.513
+"2316","Malawi","MWI","2019",63.614
+"2317","Malawi","MWI","2020",63.157
+"2318","Malawi","MWI","2021",63.152
+"2319","Malaysia","MYS","2002",43.706
+"2320","Malaysia","MYS","2003",43.678
+"2321","Malaysia","MYS","2004",43.676
+"2322","Malaysia","MYS","2005",43.64
+"2323","Malaysia","MYS","2006",43.623
+"2324","Malaysia","MYS","2007",43.653
+"2325","Malaysia","MYS","2008",43.027
+"2326","Malaysia","MYS","2009",43.612
+"2327","Malaysia","MYS","2010",43.51
+"2328","Malaysia","MYS","2011",45.188
+"2329","Malaysia","MYS","2012",46.587
+"2330","Malaysia","MYS","2013",49.31
+"2331","Malaysia","MYS","2014",50.279
+"2332","Malaysia","MYS","2015",50.652
+"2333","Malaysia","MYS","2016",50.812
+"2334","Malaysia","MYS","2017",51.164
+"2335","Malaysia","MYS","2018",51.578
+"2336","Malaysia","MYS","2019",51.97
+"2337","Malaysia","MYS","2020",51.656
+"2338","Malaysia","MYS","2021",52.117
+"2339","Namibia","NAM","2002",48.208
+"2340","Namibia","NAM","2003",48.693
+"2341","Namibia","NAM","2004",49.179
+"2342","Namibia","NAM","2005",49.666
+"2343","Namibia","NAM","2006",50.153
+"2344","Namibia","NAM","2007",50.642
+"2345","Namibia","NAM","2008",51.131
+"2346","Namibia","NAM","2009",51.621
+"2347","Namibia","NAM","2010",52.11
+"2348","Namibia","NAM","2011",52.598
+"2349","Namibia","NAM","2012",53.087
+"2350","Namibia","NAM","2013",58.572
+"2351","Namibia","NAM","2014",57.214
+"2352","Namibia","NAM","2015",56.367
+"2353","Namibia","NAM","2016",55.524
+"2354","Namibia","NAM","2017",55.468
+"2355","Namibia","NAM","2018",55.423
+"2356","Namibia","NAM","2019",55.426
+"2357","Namibia","NAM","2020",54.619
+"2358","Namibia","NAM","2021",55.171
+"2359","New Caledonia","NCL","2002",58.774
+"2360","New Caledonia","NCL","2003",58.816
+"2361","New Caledonia","NCL","2004",58.774
+"2362","New Caledonia","NCL","2005",58.821
+"2363","New Caledonia","NCL","2006",59.023
+"2364","New Caledonia","NCL","2007",59.03
+"2365","New Caledonia","NCL","2008",58.791
+"2366","New Caledonia","NCL","2009",58.68
+"2367","New Caledonia","NCL","2010",58.925
+"2368","New Caledonia","NCL","2011",59.044
+"2369","New Caledonia","NCL","2012",58.997
+"2370","New Caledonia","NCL","2013",58.959
+"2371","New Caledonia","NCL","2014",58.867
+"2372","New Caledonia","NCL","2015",57.753
+"2373","New Caledonia","NCL","2016",56.593
+"2374","New Caledonia","NCL","2017",55.449
+"2375","New Caledonia","NCL","2018",54.312
+"2376","New Caledonia","NCL","2019",53.158
+"2377","New Caledonia","NCL","2020",53.18
+"2378","New Caledonia","NCL","2021",52.88
+"2379","Niger","NER","2002",68.805
+"2380","Niger","NER","2003",68.774
+"2381","Niger","NER","2004",68.745
+"2382","Niger","NER","2005",68.719
+"2383","Niger","NER","2006",68.674
+"2384","Niger","NER","2007",68.639
+"2385","Niger","NER","2008",68.613
+"2386","Niger","NER","2009",68.593
+"2387","Niger","NER","2010",68.58
+"2388","Niger","NER","2011",68.557
+"2389","Niger","NER","2012",66.443
+"2390","Niger","NER","2013",64.286
+"2391","Niger","NER","2014",62.098
+"2392","Niger","NER","2015",62.102
+"2393","Niger","NER","2016",62.101
+"2394","Niger","NER","2017",62.106
+"2395","Niger","NER","2018",62.115
+"2396","Niger","NER","2019",62.129
+"2397","Niger","NER","2020",61.538
+"2398","Niger","NER","2021",61.703
+"2399","Nigeria","NGA","2002",56.931
+"2400","Nigeria","NGA","2003",56.927
+"2401","Nigeria","NGA","2004",56.926
+"2402","Nigeria","NGA","2005",56.925
+"2403","Nigeria","NGA","2006",56.878
+"2404","Nigeria","NGA","2007",56.844
+"2405","Nigeria","NGA","2008",56.818
+"2406","Nigeria","NGA","2009",56.799
+"2407","Nigeria","NGA","2010",56.785
+"2408","Nigeria","NGA","2011",56.751
+"2409","Nigeria","NGA","2012",54.193
+"2410","Nigeria","NGA","2013",51.614
+"2411","Nigeria","NGA","2014",51.678
+"2412","Nigeria","NGA","2015",51.746
+"2413","Nigeria","NGA","2016",51.816
+"2414","Nigeria","NGA","2017",51.889
+"2415","Nigeria","NGA","2018",51.966
+"2416","Nigeria","NGA","2019",52.046
+"2417","Nigeria","NGA","2020",51.549
+"2418","Nigeria","NGA","2021",51.537
+"2419","Nicaragua","NIC","2002",37.449
+"2420","Nicaragua","NIC","2003",38.303
+"2421","Nicaragua","NIC","2004",39.163
+"2422","Nicaragua","NIC","2005",40.025
+"2423","Nicaragua","NIC","2006",40.888
+"2424","Nicaragua","NIC","2007",41.755
+"2425","Nicaragua","NIC","2008",42.623
+"2426","Nicaragua","NIC","2009",43.495
+"2427","Nicaragua","NIC","2010",44.368
+"2428","Nicaragua","NIC","2011",45.243
+"2429","Nicaragua","NIC","2012",46.121
+"2430","Nicaragua","NIC","2013",46.999
+"2431","Nicaragua","NIC","2014",47.878
+"2432","Nicaragua","NIC","2015",48.322
+"2433","Nicaragua","NIC","2016",48.727
+"2434","Nicaragua","NIC","2017",49.109
+"2435","Nicaragua","NIC","2018",48.607
+"2436","Nicaragua","NIC","2019",48.064
+"2437","Nicaragua","NIC","2020",47.096
+"2438","Nicaragua","NIC","2021",48.546
+"2439","Netherlands","NLD","2002",55.919
+"2440","Netherlands","NLD","2003",56.51
+"2441","Netherlands","NLD","2004",56.965
+"2442","Netherlands","NLD","2005",55.643
+"2443","Netherlands","NLD","2006",56.157
+"2444","Netherlands","NLD","2007",57.412
+"2445","Netherlands","NLD","2008",58.351
+"2446","Netherlands","NLD","2009",58.805
+"2447","Netherlands","NLD","2010",58.715
+"2448","Netherlands","NLD","2011",58.772
+"2449","Netherlands","NLD","2012",59.298
+"2450","Netherlands","NLD","2013",59.255
+"2451","Netherlands","NLD","2014",58.461
+"2452","Netherlands","NLD","2015",58.803
+"2453","Netherlands","NLD","2016",58.682
+"2454","Netherlands","NLD","2017",58.797
+"2455","Netherlands","NLD","2018",59.098
+"2456","Netherlands","NLD","2019",59.812
+"2457","Netherlands","NLD","2020",59.887
+"2458","Netherlands","NLD","2021",60.569
+"2459","Norway","NOR","2002",62.539
+"2460","Norway","NOR","2003",61.192
+"2461","Norway","NOR","2004",61.318
+"2462","Norway","NOR","2005",60.892
+"2463","Norway","NOR","2006",61.044
+"2464","Norway","NOR","2007",62.091
+"2465","Norway","NOR","2008",63.256
+"2466","Norway","NOR","2009",62.584
+"2467","Norway","NOR","2010",61.736
+"2468","Norway","NOR","2011",61.635
+"2469","Norway","NOR","2012",61.579
+"2470","Norway","NOR","2013",61.587
+"2471","Norway","NOR","2014",61.392
+"2472","Norway","NOR","2015",61.358
+"2473","Norway","NOR","2016",60.952
+"2474","Norway","NOR","2017",60.359
+"2475","Norway","NOR","2018",60.489
+"2476","Norway","NOR","2019",60.604
+"2477","Norway","NOR","2020",60.235
+"2478","Norway","NOR","2021",61.505
+"2479","Nepal","NPL","2002",21.947
+"2480","Nepal","NPL","2003",21.986
+"2481","Nepal","NPL","2004",22.058
+"2482","Nepal","NPL","2005",22.179
+"2483","Nepal","NPL","2006",22.539
+"2484","Nepal","NPL","2007",22.835
+"2485","Nepal","NPL","2008",23.081
+"2486","Nepal","NPL","2009",23.332
+"2487","Nepal","NPL","2010",23.639
+"2488","Nepal","NPL","2011",23.972
+"2489","Nepal","NPL","2012",24.476
+"2490","Nepal","NPL","2013",25.1
+"2491","Nepal","NPL","2014",25.734
+"2492","Nepal","NPL","2015",26.295
+"2493","Nepal","NPL","2016",27.027
+"2494","Nepal","NPL","2017",27.611
+"2495","Nepal","NPL","2018",28.059
+"2496","Nepal","NPL","2019",28.378
+"2497","Nepal","NPL","2020",28.075
+"2498","Nepal","NPL","2021",28.249
+"2499","New Zealand","NZL","2002",58.993
+"2500","New Zealand","NZL","2003",59.299
+"2501","New Zealand","NZL","2004",59.785
+"2502","New Zealand","NZL","2005",60.792
+"2503","New Zealand","NZL","2006",61.291
+"2504","New Zealand","NZL","2007",61.673
+"2505","New Zealand","NZL","2008",61.943
+"2506","New Zealand","NZL","2009",61.864
+"2507","New Zealand","NZL","2010",61.6
+"2508","New Zealand","NZL","2011",62.005
+"2509","New Zealand","NZL","2012",62.081
+"2510","New Zealand","NZL","2013",62.455
+"2511","New Zealand","NZL","2014",63.388
+"2512","New Zealand","NZL","2015",63.43
+"2513","New Zealand","NZL","2016",64.666
+"2514","New Zealand","NZL","2017",65.566
+"2515","New Zealand","NZL","2018",65.783
+"2516","New Zealand","NZL","2019",65.831
+"2517","New Zealand","NZL","2020",65.191
+"2518","New Zealand","NZL","2021",66.128
+"2519","Oman","OMN","2002",24.11
+"2520","Oman","OMN","2003",24.635
+"2521","Oman","OMN","2004",24.792
+"2522","Oman","OMN","2005",24.952
+"2523","Oman","OMN","2006",25.16
+"2524","Oman","OMN","2007",25.426
+"2525","Oman","OMN","2008",25.756
+"2526","Oman","OMN","2009",26.154
+"2527","Oman","OMN","2010",26.544
+"2528","Oman","OMN","2011",26.966
+"2529","Oman","OMN","2012",27.558
+"2530","Oman","OMN","2013",28.288
+"2531","Oman","OMN","2014",29.039
+"2532","Oman","OMN","2015",29.751
+"2533","Oman","OMN","2016",30.417
+"2534","Oman","OMN","2017",30.585
+"2535","Oman","OMN","2018",30.645
+"2536","Oman","OMN","2019",30.727
+"2537","Oman","OMN","2020",29.011
+"2538","Oman","OMN","2021",29.831
+"2539","Pakistan","PAK","2002",16.213
+"2540","Pakistan","PAK","2003",16.971
+"2541","Pakistan","PAK","2004",17.75
+"2542","Pakistan","PAK","2005",18.316
+"2543","Pakistan","PAK","2006",18.908
+"2544","Pakistan","PAK","2007",19.271
+"2545","Pakistan","PAK","2008",19.811
+"2546","Pakistan","PAK","2009",20.942
+"2547","Pakistan","PAK","2010",21.996
+"2548","Pakistan","PAK","2011",22.183
+"2549","Pakistan","PAK","2012",22.464
+"2550","Pakistan","PAK","2013",22.747
+"2551","Pakistan","PAK","2014",22.948
+"2552","Pakistan","PAK","2015",23.977
+"2553","Pakistan","PAK","2016",23.221
+"2554","Pakistan","PAK","2017",22.47
+"2555","Pakistan","PAK","2018",21.719
+"2556","Pakistan","PAK","2019",23.423
+"2557","Pakistan","PAK","2020",23.226
+"2558","Pakistan","PAK","2021",24.574
+"2559","Panama","PAN","2002",45.862
+"2560","Panama","PAN","2003",46.332
+"2561","Panama","PAN","2004",46.336
+"2562","Panama","PAN","2005",47.096
+"2563","Panama","PAN","2006",45.523
+"2564","Panama","PAN","2007",46.006
+"2565","Panama","PAN","2008",47.008
+"2566","Panama","PAN","2009",48.001
+"2567","Panama","PAN","2010",46.819
+"2568","Panama","PAN","2011",45.19
+"2569","Panama","PAN","2012",47.438
+"2570","Panama","PAN","2013",48.888
+"2571","Panama","PAN","2014",49.263
+"2572","Panama","PAN","2015",50.034
+"2573","Panama","PAN","2016",50.371
+"2574","Panama","PAN","2017",50.494
+"2575","Panama","PAN","2018",52.11
+"2576","Panama","PAN","2019",54.333
+"2577","Panama","PAN","2020",51.691
+"2578","Panama","PAN","2021",53.326
+"2579","Peru","PER","2002",60.094
+"2580","Peru","PER","2003",61.539
+"2581","Peru","PER","2004",62.96
+"2582","Peru","PER","2005",64.357
+"2583","Peru","PER","2006",67.581
+"2584","Peru","PER","2007",70.124
+"2585","Peru","PER","2008",70.297
+"2586","Peru","PER","2009",70.614
+"2587","Peru","PER","2010",72.065
+"2588","Peru","PER","2011",71.257
+"2589","Peru","PER","2012",70.973
+"2590","Peru","PER","2013",70.265
+"2591","Peru","PER","2014",69.369
+"2592","Peru","PER","2015",67.725
+"2593","Peru","PER","2016",67.786
+"2594","Peru","PER","2017",69.453
+"2595","Peru","PER","2018",69.909
+"2596","Peru","PER","2019",70.094
+"2597","Peru","PER","2020",59.924
+"2598","Peru","PER","2021",64.89
+"2599","Philippines","PHL","2002",47.011
+"2600","Philippines","PHL","2003",46.879
+"2601","Philippines","PHL","2004",46.548
+"2602","Philippines","PHL","2005",47.286
+"2603","Philippines","PHL","2006",47.42
+"2604","Philippines","PHL","2007",47.415
+"2605","Philippines","PHL","2008",46.881
+"2606","Philippines","PHL","2009",47.697
+"2607","Philippines","PHL","2010",47.962
+"2608","Philippines","PHL","2011",48.788
+"2609","Philippines","PHL","2012",48.314
+"2610","Philippines","PHL","2013",48.205
+"2611","Philippines","PHL","2014",48.973
+"2612","Philippines","PHL","2015",48.528
+"2613","Philippines","PHL","2016",48.041
+"2614","Philippines","PHL","2017",44.889
+"2615","Philippines","PHL","2018",45.374
+"2616","Philippines","PHL","2019",46.404
+"2617","Philippines","PHL","2020",42.519
+"2618","Philippines","PHL","2021",44.278
+"2619","Papua New Guinea","PNG","2002",67.049
+"2620","Papua New Guinea","PNG","2003",64.792
+"2621","Papua New Guinea","PNG","2004",62.467
+"2622","Papua New Guinea","PNG","2005",60.083
+"2623","Papua New Guinea","PNG","2006",57.65
+"2624","Papua New Guinea","PNG","2007",55.18
+"2625","Papua New Guinea","PNG","2008",52.684
+"2626","Papua New Guinea","PNG","2009",50.175
+"2627","Papua New Guinea","PNG","2010",47.665
+"2628","Papua New Guinea","PNG","2011",47.716
+"2629","Papua New Guinea","PNG","2012",47.602
+"2630","Papua New Guinea","PNG","2013",47.524
+"2631","Papua New Guinea","PNG","2014",47.058
+"2632","Papua New Guinea","PNG","2015",46.881
+"2633","Papua New Guinea","PNG","2016",46.75
+"2634","Papua New Guinea","PNG","2017",46.694
+"2635","Papua New Guinea","PNG","2018",46.782
+"2636","Papua New Guinea","PNG","2019",46.639
+"2637","Papua New Guinea","PNG","2020",46.197
+"2638","Papua New Guinea","PNG","2021",46.422
+"2639","Poland","POL","2002",48.806
+"2640","Poland","POL","2003",48.224
+"2641","Poland","POL","2004",47.52
+"2642","Poland","POL","2005",47.83
+"2643","Poland","POL","2006",46.689
+"2644","Poland","POL","2007",46.398
+"2645","Poland","POL","2008",46.75
+"2646","Poland","POL","2009",47.412
+"2647","Poland","POL","2010",48.3
+"2648","Poland","POL","2011",48.441
+"2649","Poland","POL","2012",48.833
+"2650","Poland","POL","2013",48.843
+"2651","Poland","POL","2014",49.224
+"2652","Poland","POL","2015",49.082
+"2653","Poland","POL","2016",49.087
+"2654","Poland","POL","2017",49.197
+"2655","Poland","POL","2018",49.274
+"2656","Poland","POL","2019",48.979
+"2657","Poland","POL","2020",48.69
+"2658","Poland","POL","2021",50.284
+"2659","Puerto Rico","PRI","2002",35.991
+"2660","Puerto Rico","PRI","2003",36.729
+"2661","Puerto Rico","PRI","2004",36.237
+"2662","Puerto Rico","PRI","2005",37.574
+"2663","Puerto Rico","PRI","2006",37.923
+"2664","Puerto Rico","PRI","2007",37.022
+"2665","Puerto Rico","PRI","2008",36.168
+"2666","Puerto Rico","PRI","2009",34.885
+"2667","Puerto Rico","PRI","2010",33.858
+"2668","Puerto Rico","PRI","2011",33.029
+"2669","Puerto Rico","PRI","2012",32.751
+"2670","Puerto Rico","PRI","2013",32.473
+"2671","Puerto Rico","PRI","2014",32.197
+"2672","Puerto Rico","PRI","2015",31.921
+"2673","Puerto Rico","PRI","2016",31.776
+"2674","Puerto Rico","PRI","2017",31.388
+"2675","Puerto Rico","PRI","2018",31.463
+"2676","Puerto Rico","PRI","2019",31.515
+"2677","Puerto Rico","PRI","2020",30.942
+"2678","Puerto Rico","PRI","2021",31.04
+"2679","Korea, Dem. People's Rep.","PRK","2002",69.539
+"2680","Korea, Dem. People's Rep.","PRK","2003",69.469
+"2681","Korea, Dem. People's Rep.","PRK","2004",69.38
+"2682","Korea, Dem. People's Rep.","PRK","2005",69.17
+"2683","Korea, Dem. People's Rep.","PRK","2006",69.291
+"2684","Korea, Dem. People's Rep.","PRK","2007",69.418
+"2685","Korea, Dem. People's Rep.","PRK","2008",69.235
+"2686","Korea, Dem. People's Rep.","PRK","2009",69.332
+"2687","Korea, Dem. People's Rep.","PRK","2010",69.396
+"2688","Korea, Dem. People's Rep.","PRK","2011",69.369
+"2689","Korea, Dem. People's Rep.","PRK","2012",69.306
+"2690","Korea, Dem. People's Rep.","PRK","2013",69.259
+"2691","Korea, Dem. People's Rep.","PRK","2014",69.215
+"2692","Korea, Dem. People's Rep.","PRK","2015",69.326
+"2693","Korea, Dem. People's Rep.","PRK","2016",69.083
+"2694","Korea, Dem. People's Rep.","PRK","2017",69.363
+"2695","Korea, Dem. People's Rep.","PRK","2018",69.699
+"2696","Korea, Dem. People's Rep.","PRK","2019",69.701
+"2697","Korea, Dem. People's Rep.","PRK","2020",68.369
+"2698","Korea, Dem. People's Rep.","PRK","2021",69.482
+"2699","Portugal","PRT","2002",54.065
+"2700","Portugal","PRT","2003",54.771
+"2701","Portugal","PRT","2004",54.294
+"2702","Portugal","PRT","2005",55.295
+"2703","Portugal","PRT","2006",55.542
+"2704","Portugal","PRT","2007",55.961
+"2705","Portugal","PRT","2008",55.827
+"2706","Portugal","PRT","2009",55.657
+"2707","Portugal","PRT","2010",55.874
+"2708","Portugal","PRT","2011",54.616
+"2709","Portugal","PRT","2012",54.681
+"2710","Portugal","PRT","2013",54.137
+"2711","Portugal","PRT","2014",53.81
+"2712","Portugal","PRT","2015",53.742
+"2713","Portugal","PRT","2016",53.504
+"2714","Portugal","PRT","2017",54.06
+"2715","Portugal","PRT","2018",54.483
+"2716","Portugal","PRT","2019",54.781
+"2717","Portugal","PRT","2020",53.598
+"2718","Portugal","PRT","2021",53.827
+"2719","Paraguay","PRY","2002",51.725
+"2720","Paraguay","PRY","2003",51.521
+"2721","Paraguay","PRY","2004",56.889
+"2722","Paraguay","PRY","2005",55.671
+"2723","Paraguay","PRY","2006",51.016
+"2724","Paraguay","PRY","2007",54.039
+"2725","Paraguay","PRY","2008",53.775
+"2726","Paraguay","PRY","2009",55.143
+"2727","Paraguay","PRY","2010",53.057
+"2728","Paraguay","PRY","2011",54.477
+"2729","Paraguay","PRY","2012",59.883
+"2730","Paraguay","PRY","2013",57.692
+"2731","Paraguay","PRY","2014",54.406
+"2732","Paraguay","PRY","2015",54.845
+"2733","Paraguay","PRY","2016",56.482
+"2734","Paraguay","PRY","2017",56.833
+"2735","Paraguay","PRY","2018",59.423
+"2736","Paraguay","PRY","2019",60.257
+"2737","Paraguay","PRY","2020",57.109
+"2738","Paraguay","PRY","2021",59.849
+"2739","West Bank and Gaza","PSE","2002",10.112
+"2740","West Bank and Gaza","PSE","2003",12.554
+"2741","West Bank and Gaza","PSE","2004",12.911
+"2742","West Bank and Gaza","PSE","2005",12.824
+"2743","West Bank and Gaza","PSE","2006",13.543
+"2744","West Bank and Gaza","PSE","2007",15.065
+"2745","West Bank and Gaza","PSE","2008",14.751
+"2746","West Bank and Gaza","PSE","2009",14.613
+"2747","West Bank and Gaza","PSE","2010",14.064
+"2748","West Bank and Gaza","PSE","2011",15.644
+"2749","West Bank and Gaza","PSE","2012",16.183
+"2750","West Bank and Gaza","PSE","2013",15.834
+"2751","West Bank and Gaza","PSE","2014",16.567
+"2752","West Bank and Gaza","PSE","2015",17.99
+"2753","West Bank and Gaza","PSE","2016",17.416
+"2754","West Bank and Gaza","PSE","2017",17.638
+"2755","West Bank and Gaza","PSE","2018",17.638
+"2756","West Bank and Gaza","PSE","2019",18.347
+"2757","West Bank and Gaza","PSE","2020",16.401
+"2758","West Bank and Gaza","PSE","2021",17.507
+"2759","French Polynesia","PYF","2002",47.529
+"2760","French Polynesia","PYF","2003",47.462
+"2761","French Polynesia","PYF","2004",47.392
+"2762","French Polynesia","PYF","2005",47.323
+"2763","French Polynesia","PYF","2006",47.256
+"2764","French Polynesia","PYF","2007",47.193
+"2765","French Polynesia","PYF","2008",47.573
+"2766","French Polynesia","PYF","2009",47.952
+"2767","French Polynesia","PYF","2010",48.331
+"2768","French Polynesia","PYF","2011",48.708
+"2769","French Polynesia","PYF","2012",49.086
+"2770","French Polynesia","PYF","2013",49.092
+"2771","French Polynesia","PYF","2014",49.107
+"2772","French Polynesia","PYF","2015",49.176
+"2773","French Polynesia","PYF","2016",49.269
+"2774","French Polynesia","PYF","2017",49.366
+"2775","French Polynesia","PYF","2018",49.467
+"2776","French Polynesia","PYF","2019",49.564
+"2777","French Polynesia","PYF","2020",49.1
+"2778","French Polynesia","PYF","2021",49.467
+"2779","Qatar","QAT","2002",45.816
+"2780","Qatar","QAT","2003",46.502
+"2781","Qatar","QAT","2004",46.232
+"2782","Qatar","QAT","2005",46.995
+"2783","Qatar","QAT","2006",48.176
+"2784","Qatar","QAT","2007",49.487
+"2785","Qatar","QAT","2008",49.185
+"2786","Qatar","QAT","2009",49.02
+"2787","Qatar","QAT","2010",50.74
+"2788","Qatar","QAT","2011",52.446
+"2789","Qatar","QAT","2012",52.943
+"2790","Qatar","QAT","2013",53.337
+"2791","Qatar","QAT","2014",54.752
+"2792","Qatar","QAT","2015",56.265
+"2793","Qatar","QAT","2016",56.934
+"2794","Qatar","QAT","2017",57.592
+"2795","Qatar","QAT","2018",58.381
+"2796","Qatar","QAT","2019",59.074
+"2797","Qatar","QAT","2020",59.791
+"2798","Qatar","QAT","2021",59.919
+"2799","Romania","ROU","2002",51.304
+"2800","Romania","ROU","2003",49.098
+"2801","Romania","ROU","2004",48.732
+"2802","Romania","ROU","2005",46.904
+"2803","Romania","ROU","2006",47.874
+"2804","Romania","ROU","2007",47.499
+"2805","Romania","ROU","2008",46.845
+"2806","Romania","ROU","2009",46.667
+"2807","Romania","ROU","2010",46.216
+"2808","Romania","ROU","2011",46.117
+"2809","Romania","ROU","2012",46.272
+"2810","Romania","ROU","2013",46.031
+"2811","Romania","ROU","2014",46.226
+"2812","Romania","ROU","2015",45.298
+"2813","Romania","ROU","2016",44.503
+"2814","Romania","ROU","2017",45.952
+"2815","Romania","ROU","2018",45.713
+"2816","Romania","ROU","2019",45.643
+"2817","Romania","ROU","2020",45.428
+"2818","Romania","ROU","2021",41.114
+"2819","Russian Federation","RUS","2002",54.301
+"2820","Russian Federation","RUS","2003",54.09
+"2821","Russian Federation","RUS","2004",54.655
+"2822","Russian Federation","RUS","2005",55.056
+"2823","Russian Federation","RUS","2006",55.458
+"2824","Russian Federation","RUS","2007",56.037
+"2825","Russian Federation","RUS","2008",56.039
+"2826","Russian Federation","RUS","2009",56.255
+"2827","Russian Federation","RUS","2010",55.968
+"2828","Russian Federation","RUS","2011",56.257
+"2829","Russian Federation","RUS","2012",56.19
+"2830","Russian Federation","RUS","2013",55.906
+"2831","Russian Federation","RUS","2014",55.798
+"2832","Russian Federation","RUS","2015",55.554
+"2833","Russian Federation","RUS","2016",55.72
+"2834","Russian Federation","RUS","2017",55.371
+"2835","Russian Federation","RUS","2018",55.519
+"2836","Russian Federation","RUS","2019",54.955
+"2837","Russian Federation","RUS","2020",54.807
+"2838","Russian Federation","RUS","2021",55.276
+"2839","Rwanda","RWA","2002",53.692
+"2840","Rwanda","RWA","2003",53.829
+"2841","Rwanda","RWA","2004",53.965
+"2842","Rwanda","RWA","2005",54.075
+"2843","Rwanda","RWA","2006",54.146
+"2844","Rwanda","RWA","2007",54.193
+"2845","Rwanda","RWA","2008",54.219
+"2846","Rwanda","RWA","2009",54.245
+"2847","Rwanda","RWA","2010",54.288
+"2848","Rwanda","RWA","2011",54.32
+"2849","Rwanda","RWA","2012",54.376
+"2850","Rwanda","RWA","2013",54.445
+"2851","Rwanda","RWA","2014",54.511
+"2852","Rwanda","RWA","2015",54.565
+"2853","Rwanda","RWA","2016",54.648
+"2854","Rwanda","RWA","2017",54.705
+"2855","Rwanda","RWA","2018",47.568
+"2856","Rwanda","RWA","2019",46.328
+"2857","Rwanda","RWA","2020",50.686
+"2858","Rwanda","RWA","2021",49.445
+"2859","Saudi Arabia","SAU","2002",16.185
+"2860","Saudi Arabia","SAU","2003",16.898
+"2861","Saudi Arabia","SAU","2004",17.564
+"2862","Saudi Arabia","SAU","2005",18.171
+"2863","Saudi Arabia","SAU","2006",18.789
+"2864","Saudi Arabia","SAU","2007",18.441
+"2865","Saudi Arabia","SAU","2008",18.239
+"2866","Saudi Arabia","SAU","2009",17.983
+"2867","Saudi Arabia","SAU","2010",19.227
+"2868","Saudi Arabia","SAU","2011",20.463
+"2869","Saudi Arabia","SAU","2012",21.024
+"2870","Saudi Arabia","SAU","2013",20.775
+"2871","Saudi Arabia","SAU","2014",20.981
+"2872","Saudi Arabia","SAU","2015",22.166
+"2873","Saudi Arabia","SAU","2016",23.235
+"2874","Saudi Arabia","SAU","2017",20.098
+"2875","Saudi Arabia","SAU","2018",22.028
+"2876","Saudi Arabia","SAU","2019",24.565
+"2877","Saudi Arabia","SAU","2020",29.548
+"2878","Saudi Arabia","SAU","2021",27.754
+"2879","Sudan","SDN","2002",28.701
+"2880","Sudan","SDN","2003",28.627
+"2881","Sudan","SDN","2004",28.562
+"2882","Sudan","SDN","2005",28.508
+"2883","Sudan","SDN","2006",28.465
+"2884","Sudan","SDN","2007",28.43
+"2885","Sudan","SDN","2008",28.402
+"2886","Sudan","SDN","2009",28.382
+"2887","Sudan","SDN","2010",28.304
+"2888","Sudan","SDN","2011",28.229
+"2889","Sudan","SDN","2012",28.171
+"2890","Sudan","SDN","2013",28.22
+"2891","Sudan","SDN","2014",28.28
+"2892","Sudan","SDN","2015",28.389
+"2893","Sudan","SDN","2016",28.492
+"2894","Sudan","SDN","2017",28.594
+"2895","Sudan","SDN","2018",28.735
+"2896","Sudan","SDN","2019",28.945
+"2897","Sudan","SDN","2020",28.681
+"2898","Sudan","SDN","2021",29.009
+"2899","Senegal","SEN","2002",33.26
+"2900","Senegal","SEN","2003",33.33
+"2901","Senegal","SEN","2004",33.396
+"2902","Senegal","SEN","2005",33.454
+"2903","Senegal","SEN","2006",33.487
+"2904","Senegal","SEN","2007",33.552
+"2905","Senegal","SEN","2008",33.624
+"2906","Senegal","SEN","2009",33.702
+"2907","Senegal","SEN","2010",33.787
+"2908","Senegal","SEN","2011",33.877
+"2909","Senegal","SEN","2012",33.973
+"2910","Senegal","SEN","2013",34.076
+"2911","Senegal","SEN","2014",34.182
+"2912","Senegal","SEN","2015",34.29
+"2913","Senegal","SEN","2016",38.984
+"2914","Senegal","SEN","2017",35.681
+"2915","Senegal","SEN","2018",37.148
+"2916","Senegal","SEN","2019",37.656
+"2917","Senegal","SEN","2020",37.29
+"2918","Senegal","SEN","2021",37.959
+"2919","Singapore","SGP","2002",51.727
+"2920","Singapore","SGP","2003",52.484
+"2921","Singapore","SGP","2004",52.976
+"2922","Singapore","SGP","2005",53.731
+"2923","Singapore","SGP","2006",54.526
+"2924","Singapore","SGP","2007",55.34
+"2925","Singapore","SGP","2008",56.188
+"2926","Singapore","SGP","2009",57.057
+"2927","Singapore","SGP","2010",57.894
+"2928","Singapore","SGP","2011",58.678
+"2929","Singapore","SGP","2012",59.46
+"2930","Singapore","SGP","2013",59.726
+"2931","Singapore","SGP","2014",60.955
+"2932","Singapore","SGP","2015",62.275
+"2933","Singapore","SGP","2016",62.285
+"2934","Singapore","SGP","2017",61.708
+"2935","Singapore","SGP","2018",61.584
+"2936","Singapore","SGP","2019",62.414
+"2937","Singapore","SGP","2020",62.444
+"2938","Singapore","SGP","2021",64.165
+"2939","Solomon Islands","SLB","2002",83.377
+"2940","Solomon Islands","SLB","2003",83.216
+"2941","Solomon Islands","SLB","2004",83.05
+"2942","Solomon Islands","SLB","2005",82.942
+"2943","Solomon Islands","SLB","2006",82.868
+"2944","Solomon Islands","SLB","2007",82.811
+"2945","Solomon Islands","SLB","2008",82.686
+"2946","Solomon Islands","SLB","2009",82.726
+"2947","Solomon Islands","SLB","2010",82.474
+"2948","Solomon Islands","SLB","2011",82.294
+"2949","Solomon Islands","SLB","2012",82.377
+"2950","Solomon Islands","SLB","2013",82.288
+"2951","Solomon Islands","SLB","2014",82.397
+"2952","Solomon Islands","SLB","2015",82.481
+"2953","Solomon Islands","SLB","2016",82.347
+"2954","Solomon Islands","SLB","2017",82.234
+"2955","Solomon Islands","SLB","2018",82.186
+"2956","Solomon Islands","SLB","2019",82.268
+"2957","Solomon Islands","SLB","2020",81.508
+"2958","Solomon Islands","SLB","2021",82.294
+"2959","Sierra Leone","SLE","2002",64.64
+"2960","Sierra Leone","SLE","2003",64.665
+"2961","Sierra Leone","SLE","2004",65.918
+"2962","Sierra Leone","SLE","2005",65
+"2963","Sierra Leone","SLE","2006",64.07
+"2964","Sierra Leone","SLE","2007",63.13
+"2965","Sierra Leone","SLE","2008",62.179
+"2966","Sierra Leone","SLE","2009",61.219
+"2967","Sierra Leone","SLE","2010",60.25
+"2968","Sierra Leone","SLE","2011",59.273
+"2969","Sierra Leone","SLE","2012",58.289
+"2970","Sierra Leone","SLE","2013",57.297
+"2971","Sierra Leone","SLE","2014",56.3
+"2972","Sierra Leone","SLE","2015",55.081
+"2973","Sierra Leone","SLE","2016",53.857
+"2974","Sierra Leone","SLE","2017",52.628
+"2975","Sierra Leone","SLE","2018",51.396
+"2976","Sierra Leone","SLE","2019",51.519
+"2977","Sierra Leone","SLE","2020",51.029
+"2978","Sierra Leone","SLE","2021",50.928
+"2979","El Salvador","SLV","2002",44.893
+"2980","El Salvador","SLV","2003",46.24
+"2981","El Salvador","SLV","2004",44.481
+"2982","El Salvador","SLV","2005",45.22
+"2983","El Salvador","SLV","2006",45.934
+"2984","El Salvador","SLV","2007",46.113
+"2985","El Salvador","SLV","2008",46.057
+"2986","El Salvador","SLV","2009",45.984
+"2987","El Salvador","SLV","2010",45.903
+"2988","El Salvador","SLV","2011",45.447
+"2989","El Salvador","SLV","2012",46.361
+"2990","El Salvador","SLV","2013",47.318
+"2991","El Salvador","SLV","2014",45.976
+"2992","El Salvador","SLV","2015",45.004
+"2993","El Salvador","SLV","2016",45.712
+"2994","El Salvador","SLV","2017",45.037
+"2995","El Salvador","SLV","2018",44.786
+"2996","El Salvador","SLV","2019",45.825
+"2997","El Salvador","SLV","2020",42.644
+"2998","El Salvador","SLV","2021",44.25
+"2999","Somalia","SOM","2002",20.732
+"3000","Somalia","SOM","2003",20.702
+"3001","Somalia","SOM","2004",20.687
+"3002","Somalia","SOM","2005",20.68
+"3003","Somalia","SOM","2006",20.631
+"3004","Somalia","SOM","2007",20.587
+"3005","Somalia","SOM","2008",20.557
+"3006","Somalia","SOM","2009",20.554
+"3007","Somalia","SOM","2010",20.585
+"3008","Somalia","SOM","2011",20.594
+"3009","Somalia","SOM","2012",20.641
+"3010","Somalia","SOM","2013",20.712
+"3011","Somalia","SOM","2014",20.788
+"3012","Somalia","SOM","2015",20.858
+"3013","Somalia","SOM","2016",20.922
+"3014","Somalia","SOM","2017",20.976
+"3015","Somalia","SOM","2018",21.027
+"3016","Somalia","SOM","2019",21.083
+"3017","Somalia","SOM","2020",20.882
+"3018","Somalia","SOM","2021",21.094
+"3019","Serbia","SRB","2002",46.084
+"3020","Serbia","SRB","2003",45.756
+"3021","Serbia","SRB","2004",45.279
+"3022","Serbia","SRB","2005",44.899
+"3023","Serbia","SRB","2006",44.607
+"3024","Serbia","SRB","2007",45.196
+"3025","Serbia","SRB","2008",44.662
+"3026","Serbia","SRB","2009",43.02
+"3027","Serbia","SRB","2010",41.658
+"3028","Serbia","SRB","2011",41.492
+"3029","Serbia","SRB","2012",41.847
+"3030","Serbia","SRB","2013",42.941
+"3031","Serbia","SRB","2014",43.634
+"3032","Serbia","SRB","2015",43.312
+"3033","Serbia","SRB","2016",45.324
+"3034","Serbia","SRB","2017",46.161
+"3035","Serbia","SRB","2018",46.529
+"3036","Serbia","SRB","2019",46.945
+"3037","Serbia","SRB","2020",46.456
+"3038","Serbia","SRB","2021",48.029
+"3039","South Sudan","SSD","2002",69.266
+"3040","South Sudan","SSD","2003",69.308
+"3041","South Sudan","SSD","2004",69.356
+"3042","South Sudan","SSD","2005",69.395
+"3043","South Sudan","SSD","2006",69.416
+"3044","South Sudan","SSD","2007",69.437
+"3045","South Sudan","SSD","2008",69.463
+"3046","South Sudan","SSD","2009",69.509
+"3047","South Sudan","SSD","2010",69.587
+"3048","South Sudan","SSD","2011",69.615
+"3049","South Sudan","SSD","2012",69.66
+"3050","South Sudan","SSD","2013",69.723
+"3051","South Sudan","SSD","2014",69.801
+"3052","South Sudan","SSD","2015",69.893
+"3053","South Sudan","SSD","2016",69.959
+"3054","South Sudan","SSD","2017",70.028
+"3055","South Sudan","SSD","2018",70.103
+"3056","South Sudan","SSD","2019",70.182
+"3057","South Sudan","SSD","2020",69.515
+"3058","South Sudan","SSD","2021",70.14
+"3059","Sao Tome and Principe","STP","2002",37.572
+"3060","Sao Tome and Principe","STP","2003",37.563
+"3061","Sao Tome and Principe","STP","2004",37.534
+"3062","Sao Tome and Principe","STP","2005",37.491
+"3063","Sao Tome and Principe","STP","2006",37.517
+"3064","Sao Tome and Principe","STP","2007",37.539
+"3065","Sao Tome and Principe","STP","2008",37.555
+"3066","Sao Tome and Principe","STP","2009",37.563
+"3067","Sao Tome and Principe","STP","2010",37.569
+"3068","Sao Tome and Principe","STP","2011",37.561
+"3069","Sao Tome and Principe","STP","2012",37.541
+"3070","Sao Tome and Principe","STP","2013",37.52
+"3071","Sao Tome and Principe","STP","2014",37.518
+"3072","Sao Tome and Principe","STP","2015",37.54
+"3073","Sao Tome and Principe","STP","2016",37.588
+"3074","Sao Tome and Principe","STP","2017",37.657
+"3075","Sao Tome and Principe","STP","2018",37.745
+"3076","Sao Tome and Principe","STP","2019",37.842
+"3077","Sao Tome and Principe","STP","2020",37.399
+"3078","Sao Tome and Principe","STP","2021",37.617
+"3079","Suriname","SUR","2002",34.811
+"3080","Suriname","SUR","2003",35.499
+"3081","Suriname","SUR","2004",36.211
+"3082","Suriname","SUR","2005",36.942
+"3083","Suriname","SUR","2006",37.677
+"3084","Suriname","SUR","2007",38.417
+"3085","Suriname","SUR","2008",39.16
+"3086","Suriname","SUR","2009",39.908
+"3087","Suriname","SUR","2010",40.661
+"3088","Suriname","SUR","2011",41.419
+"3089","Suriname","SUR","2012",42.177
+"3090","Suriname","SUR","2013",42.934
+"3091","Suriname","SUR","2014",43.691
+"3092","Suriname","SUR","2015",44.448
+"3093","Suriname","SUR","2016",45.207
+"3094","Suriname","SUR","2017",45.326
+"3095","Suriname","SUR","2018",45.879
+"3096","Suriname","SUR","2019",45.938
+"3097","Suriname","SUR","2020",43.609
+"3098","Suriname","SUR","2021",44.581
+"3099","Slovak Republic","SVK","2002",52.367
+"3100","Slovak Republic","SVK","2003",52.647
+"3101","Slovak Republic","SVK","2004",52.543
+"3102","Slovak Republic","SVK","2005",51.294
+"3103","Slovak Republic","SVK","2006",50.708
+"3104","Slovak Republic","SVK","2007",50.588
+"3105","Slovak Republic","SVK","2008",50.986
+"3106","Slovak Republic","SVK","2009",50.292
+"3107","Slovak Republic","SVK","2010",50.794
+"3108","Slovak Republic","SVK","2011",50.142
+"3109","Slovak Republic","SVK","2012",50.679
+"3110","Slovak Republic","SVK","2013",51.026
+"3111","Slovak Republic","SVK","2014",51.078
+"3112","Slovak Republic","SVK","2015",51.944
+"3113","Slovak Republic","SVK","2016",52.547
+"3114","Slovak Republic","SVK","2017",52.675
+"3115","Slovak Republic","SVK","2018",52.281
+"3116","Slovak Republic","SVK","2019",52.295
+"3117","Slovak Republic","SVK","2020",51.915
+"3118","Slovak Republic","SVK","2021",55.126
+"3119","Slovenia","SVN","2002",51.925
+"3120","Slovenia","SVN","2003",50.188
+"3121","Slovenia","SVN","2004",52.832
+"3122","Slovenia","SVN","2005",52.885
+"3123","Slovenia","SVN","2006",53.253
+"3124","Slovenia","SVN","2007",53.323
+"3125","Slovenia","SVN","2008",53.576
+"3126","Slovenia","SVN","2009",53.618
+"3127","Slovenia","SVN","2010",53.263
+"3128","Slovenia","SVN","2011",52.327
+"3129","Slovenia","SVN","2012",52.219
+"3130","Slovenia","SVN","2013",51.593
+"3131","Slovenia","SVN","2014",52.221
+"3132","Slovenia","SVN","2015",51.887
+"3133","Slovenia","SVN","2016",51.998
+"3134","Slovenia","SVN","2017",53.791
+"3135","Slovenia","SVN","2018",53.726
+"3136","Slovenia","SVN","2019",53.215
+"3137","Slovenia","SVN","2020",53.162
+"3138","Slovenia","SVN","2021",54.068
+"3139","Sweden","SWE","2002",58.706
+"3140","Sweden","SWE","2003",58.79
+"3141","Sweden","SWE","2004",58.479
+"3142","Sweden","SWE","2005",58.791
+"3143","Sweden","SWE","2006",59.268
+"3144","Sweden","SWE","2007",59.739
+"3145","Sweden","SWE","2008",59.86
+"3146","Sweden","SWE","2009",59.39
+"3147","Sweden","SWE","2010",58.955
+"3148","Sweden","SWE","2011",59.493
+"3149","Sweden","SWE","2012",59.726
+"3150","Sweden","SWE","2013",60.155
+"3151","Sweden","SWE","2014",60.305
+"3152","Sweden","SWE","2015",60.588
+"3153","Sweden","SWE","2016",60.71
+"3154","Sweden","SWE","2017",61.032
+"3155","Sweden","SWE","2018",61.235
+"3156","Sweden","SWE","2019",61.291
+"3157","Sweden","SWE","2020",60.587
+"3158","Sweden","SWE","2021",60.884
+"3159","Eswatini","SWZ","2002",45.928
+"3160","Eswatini","SWZ","2003",46.009
+"3161","Eswatini","SWZ","2004",46.085
+"3162","Eswatini","SWZ","2005",46.168
+"3163","Eswatini","SWZ","2006",46.255
+"3164","Eswatini","SWZ","2007",46.335
+"3165","Eswatini","SWZ","2008",46.397
+"3166","Eswatini","SWZ","2009",46.437
+"3167","Eswatini","SWZ","2010",46.473
+"3168","Eswatini","SWZ","2011",46.513
+"3169","Eswatini","SWZ","2012",46.58
+"3170","Eswatini","SWZ","2013",46.656
+"3171","Eswatini","SWZ","2014",46.718
+"3172","Eswatini","SWZ","2015",46.759
+"3173","Eswatini","SWZ","2016",46.906
+"3174","Eswatini","SWZ","2017",47.002
+"3175","Eswatini","SWZ","2018",47.075
+"3176","Eswatini","SWZ","2019",47.169
+"3177","Eswatini","SWZ","2020",46.715
+"3178","Eswatini","SWZ","2021",46.881
+"3179","Syrian Arab Republic","SYR","2002",19.567
+"3180","Syrian Arab Republic","SYR","2003",18.961
+"3181","Syrian Arab Republic","SYR","2004",17.701
+"3182","Syrian Arab Republic","SYR","2005",16.498
+"3183","Syrian Arab Republic","SYR","2006",15.353
+"3184","Syrian Arab Republic","SYR","2007",14.187
+"3185","Syrian Arab Republic","SYR","2008",13.68
+"3186","Syrian Arab Republic","SYR","2009",13.191
+"3187","Syrian Arab Republic","SYR","2010",12.963
+"3188","Syrian Arab Republic","SYR","2011",14.919
+"3189","Syrian Arab Republic","SYR","2012",15.117
+"3190","Syrian Arab Republic","SYR","2013",15.38
+"3191","Syrian Arab Republic","SYR","2014",15.662
+"3192","Syrian Arab Republic","SYR","2015",15.907
+"3193","Syrian Arab Republic","SYR","2016",16.091
+"3194","Syrian Arab Republic","SYR","2017",16.238
+"3195","Syrian Arab Republic","SYR","2018",16.349
+"3196","Syrian Arab Republic","SYR","2019",16.438
+"3197","Syrian Arab Republic","SYR","2020",15.962
+"3198","Syrian Arab Republic","SYR","2021",16.379
+"3199","Chad","TCD","2002",58.888
+"3200","Chad","TCD","2003",58.252
+"3201","Chad","TCD","2004",57.612
+"3202","Chad","TCD","2005",56.971
+"3203","Chad","TCD","2006",56.329
+"3204","Chad","TCD","2007",55.686
+"3205","Chad","TCD","2008",55.039
+"3206","Chad","TCD","2009",54.39
+"3207","Chad","TCD","2010",53.738
+"3208","Chad","TCD","2011",53.086
+"3209","Chad","TCD","2012",52.431
+"3210","Chad","TCD","2013",51.776
+"3211","Chad","TCD","2014",51.12
+"3212","Chad","TCD","2015",50.464
+"3213","Chad","TCD","2016",49.807
+"3214","Chad","TCD","2017",49.148
+"3215","Chad","TCD","2018",48.49
+"3216","Chad","TCD","2019",48.56
+"3217","Chad","TCD","2020",48.097
+"3218","Chad","TCD","2021",48.15
+"3219","Togo","TGO","2002",55.253
+"3220","Togo","TGO","2003",55.291
+"3221","Togo","TGO","2004",55.322
+"3222","Togo","TGO","2005",55.343
+"3223","Togo","TGO","2006",55.33
+"3224","Togo","TGO","2007",55.32
+"3225","Togo","TGO","2008",55.314
+"3226","Togo","TGO","2009",55.315
+"3227","Togo","TGO","2010",55.328
+"3228","Togo","TGO","2011",55.34
+"3229","Togo","TGO","2012",55.368
+"3230","Togo","TGO","2013",55.413
+"3231","Togo","TGO","2014",55.475
+"3232","Togo","TGO","2015",55.554
+"3233","Togo","TGO","2016",55.637
+"3234","Togo","TGO","2017",55.735
+"3235","Togo","TGO","2018",55.847
+"3236","Togo","TGO","2019",55.973
+"3237","Togo","TGO","2020",55.44
+"3238","Togo","TGO","2021",55.991
+"3239","Thailand","THA","2002",65.181
+"3240","Thailand","THA","2003",65.178
+"3241","Thailand","THA","2004",65.272
+"3242","Thailand","THA","2005",66.293
+"3243","Thailand","THA","2006",65.101
+"3244","Thailand","THA","2007",65.94
+"3245","Thailand","THA","2008",65.755
+"3246","Thailand","THA","2009",64.666
+"3247","Thailand","THA","2010",63.68
+"3248","Thailand","THA","2011",65.914
+"3249","Thailand","THA","2012",65.299
+"3250","Thailand","THA","2013",62.09
+"3251","Thailand","THA","2014",61.528
+"3252","Thailand","THA","2015",61.103
+"3253","Thailand","THA","2016",60.183
+"3254","Thailand","THA","2017",59.397
+"3255","Thailand","THA","2018",59.661
+"3256","Thailand","THA","2019",59.018
+"3257","Thailand","THA","2020",59.206
+"3258","Thailand","THA","2021",59.185
+"3259","Tajikistan","TJK","2002",31.321
+"3260","Tajikistan","TJK","2003",31.309
+"3261","Tajikistan","TJK","2004",31.584
+"3262","Tajikistan","TJK","2005",31.006
+"3263","Tajikistan","TJK","2006",30.415
+"3264","Tajikistan","TJK","2007",29.761
+"3265","Tajikistan","TJK","2008",29.124
+"3266","Tajikistan","TJK","2009",28.923
+"3267","Tajikistan","TJK","2010",29.404
+"3268","Tajikistan","TJK","2011",29.893
+"3269","Tajikistan","TJK","2012",30.388
+"3270","Tajikistan","TJK","2013",30.888
+"3271","Tajikistan","TJK","2014",31.395
+"3272","Tajikistan","TJK","2015",31.904
+"3273","Tajikistan","TJK","2016",32.416
+"3274","Tajikistan","TJK","2017",31.939
+"3275","Tajikistan","TJK","2018",31.428
+"3276","Tajikistan","TJK","2019",30.947
+"3277","Tajikistan","TJK","2020",30.65
+"3278","Tajikistan","TJK","2021",31.3
+"3279","Turkmenistan","TKM","2002",54.415
+"3280","Turkmenistan","TKM","2003",54.22
+"3281","Turkmenistan","TKM","2004",53.888
+"3282","Turkmenistan","TKM","2005",52.974
+"3283","Turkmenistan","TKM","2006",52.271
+"3284","Turkmenistan","TKM","2007",51.617
+"3285","Turkmenistan","TKM","2008",50.82
+"3286","Turkmenistan","TKM","2009",50.554
+"3287","Turkmenistan","TKM","2010",50.148
+"3288","Turkmenistan","TKM","2011",49.541
+"3289","Turkmenistan","TKM","2012",49.153
+"3290","Turkmenistan","TKM","2013",48.842
+"3291","Turkmenistan","TKM","2014",48.564
+"3292","Turkmenistan","TKM","2015",48.423
+"3293","Turkmenistan","TKM","2016",48.3
+"3294","Turkmenistan","TKM","2017",48.18
+"3295","Turkmenistan","TKM","2018",48.076
+"3296","Turkmenistan","TKM","2019",47.981
+"3297","Turkmenistan","TKM","2020",46.969
+"3298","Turkmenistan","TKM","2021",47.452
+"3299","Timor-Leste","TLS","2002",63.397
+"3300","Timor-Leste","TLS","2003",63.751
+"3301","Timor-Leste","TLS","2004",63.915
+"3302","Timor-Leste","TLS","2005",63.87
+"3303","Timor-Leste","TLS","2006",64.33
+"3304","Timor-Leste","TLS","2007",63.754
+"3305","Timor-Leste","TLS","2008",63.125
+"3306","Timor-Leste","TLS","2009",62.605
+"3307","Timor-Leste","TLS","2010",62.143
+"3308","Timor-Leste","TLS","2011",61.911
+"3309","Timor-Leste","TLS","2012",61.674
+"3310","Timor-Leste","TLS","2013",61.662
+"3311","Timor-Leste","TLS","2014",61.522
+"3312","Timor-Leste","TLS","2015",61.468
+"3313","Timor-Leste","TLS","2016",61.387
+"3314","Timor-Leste","TLS","2017",61.743
+"3315","Timor-Leste","TLS","2018",61.923
+"3316","Timor-Leste","TLS","2019",61.046
+"3317","Timor-Leste","TLS","2020",60.463
+"3318","Timor-Leste","TLS","2021",60.757
+"3319","Tonga","TON","2002",44.193
+"3320","Tonga","TON","2003",44.066
+"3321","Tonga","TON","2004",43.941
+"3322","Tonga","TON","2005",43.818
+"3323","Tonga","TON","2006",43.695
+"3324","Tonga","TON","2007",43.582
+"3325","Tonga","TON","2008",43.486
+"3326","Tonga","TON","2009",43.394
+"3327","Tonga","TON","2010",43.304
+"3328","Tonga","TON","2011",43.218
+"3329","Tonga","TON","2012",43.121
+"3330","Tonga","TON","2013",43.014
+"3331","Tonga","TON","2014",42.91
+"3332","Tonga","TON","2015",42.811
+"3333","Tonga","TON","2016",42.712
+"3334","Tonga","TON","2017",42.609
+"3335","Tonga","TON","2018",42.507
+"3336","Tonga","TON","2019",42.54
+"3337","Tonga","TON","2020",42.151
+"3338","Tonga","TON","2021",42.359
+"3339","Trinidad and Tobago","TTO","2002",47.608
+"3340","Trinidad and Tobago","TTO","2003",49.089
+"3341","Trinidad and Tobago","TTO","2004",50.986
+"3342","Trinidad and Tobago","TTO","2005",52.491
+"3343","Trinidad and Tobago","TTO","2006",53.303
+"3344","Trinidad and Tobago","TTO","2007",51.919
+"3345","Trinidad and Tobago","TTO","2008",52.679
+"3346","Trinidad and Tobago","TTO","2009",51.254
+"3347","Trinidad and Tobago","TTO","2010",49.772
+"3348","Trinidad and Tobago","TTO","2011",48.546
+"3349","Trinidad and Tobago","TTO","2012",50.951
+"3350","Trinidad and Tobago","TTO","2013",50.592
+"3351","Trinidad and Tobago","TTO","2014",51.389
+"3352","Trinidad and Tobago","TTO","2015",49.549
+"3353","Trinidad and Tobago","TTO","2016",49.769
+"3354","Trinidad and Tobago","TTO","2017",49.202
+"3355","Trinidad and Tobago","TTO","2018",48.941
+"3356","Trinidad and Tobago","TTO","2019",47.985
+"3357","Trinidad and Tobago","TTO","2020",46.722
+"3358","Trinidad and Tobago","TTO","2021",46.35
+"3359","Tunisia","TUN","2002",23.687
+"3360","Tunisia","TUN","2003",23.674
+"3361","Tunisia","TUN","2004",23.665
+"3362","Tunisia","TUN","2005",23.655
+"3363","Tunisia","TUN","2006",24.445
+"3364","Tunisia","TUN","2007",24.538
+"3365","Tunisia","TUN","2008",24.806
+"3366","Tunisia","TUN","2009",24.856
+"3367","Tunisia","TUN","2010",24.896
+"3368","Tunisia","TUN","2011",24.922
+"3369","Tunisia","TUN","2012",25.838
+"3370","Tunisia","TUN","2013",25.59
+"3371","Tunisia","TUN","2014",25.834
+"3372","Tunisia","TUN","2015",26.081
+"3373","Tunisia","TUN","2016",26.633
+"3374","Tunisia","TUN","2017",26.521
+"3375","Tunisia","TUN","2018",26.507
+"3376","Tunisia","TUN","2019",26.498
+"3377","Tunisia","TUN","2020",25.097
+"3378","Tunisia","TUN","2021",25.687
+"3379","Turkiye","TUR","2002",27.847
+"3380","Turkiye","TUR","2003",26.52
+"3381","Turkiye","TUR","2004",23.119
+"3382","Turkiye","TUR","2005",23.084
+"3383","Turkiye","TUR","2006",22.877
+"3384","Turkiye","TUR","2007",22.955
+"3385","Turkiye","TUR","2008",23.839
+"3386","Turkiye","TUR","2009",25.344
+"3387","Turkiye","TUR","2010",26.938
+"3388","Turkiye","TUR","2011",28.24
+"3389","Turkiye","TUR","2012",28.903
+"3390","Turkiye","TUR","2013",30.171
+"3391","Turkiye","TUR","2014",30.135
+"3392","Turkiye","TUR","2015",31.301
+"3393","Turkiye","TUR","2016",32.318
+"3394","Turkiye","TUR","2017",33.456
+"3395","Turkiye","TUR","2018",34.037
+"3396","Turkiye","TUR","2019",34.215
+"3397","Turkiye","TUR","2020",30.767
+"3398","Turkiye","TUR","2021",32.762
+"3399","Tanzania","TZA","2002",84.954
+"3400","Tanzania","TZA","2003",85.521
+"3401","Tanzania","TZA","2004",86.072
+"3402","Tanzania","TZA","2005",86.605
+"3403","Tanzania","TZA","2006",87.123
+"3404","Tanzania","TZA","2007",86.366
+"3405","Tanzania","TZA","2008",85.576
+"3406","Tanzania","TZA","2009",84.755
+"3407","Tanzania","TZA","2010",83.899
+"3408","Tanzania","TZA","2011",83.008
+"3409","Tanzania","TZA","2012",82.08
+"3410","Tanzania","TZA","2013",81.115
+"3411","Tanzania","TZA","2014",80.111
+"3412","Tanzania","TZA","2015",80.124
+"3413","Tanzania","TZA","2016",80.144
+"3414","Tanzania","TZA","2017",80.167
+"3415","Tanzania","TZA","2018",80.194
+"3416","Tanzania","TZA","2019",80.228
+"3417","Tanzania","TZA","2020",76.089
+"3418","Tanzania","TZA","2021",77.835
+"3419","Uganda","UGA","2002",63.996
+"3420","Uganda","UGA","2003",64.17
+"3421","Uganda","UGA","2004",64.344
+"3422","Uganda","UGA","2005",64.518
+"3423","Uganda","UGA","2006",64.692
+"3424","Uganda","UGA","2007",64.867
+"3425","Uganda","UGA","2008",65.042
+"3426","Uganda","UGA","2009",65.218
+"3427","Uganda","UGA","2010",65.395
+"3428","Uganda","UGA","2011",65.571
+"3429","Uganda","UGA","2012",65.749
+"3430","Uganda","UGA","2013",66.06
+"3431","Uganda","UGA","2014",66.371
+"3432","Uganda","UGA","2015",66.682
+"3433","Uganda","UGA","2016",66.993
+"3434","Uganda","UGA","2017",67.305
+"3435","Uganda","UGA","2018",67.41
+"3436","Uganda","UGA","2019",67.529
+"3437","Uganda","UGA","2020",66.886
+"3438","Uganda","UGA","2021",67.32
+"3439","Ukraine","UKR","2002",52.837
+"3440","Ukraine","UKR","2003",52.781
+"3441","Ukraine","UKR","2004",52.728
+"3442","Ukraine","UKR","2005",52.675
+"3443","Ukraine","UKR","2006",52.623
+"3444","Ukraine","UKR","2007",52.73
+"3445","Ukraine","UKR","2008",52.438
+"3446","Ukraine","UKR","2009",52.147
+"3447","Ukraine","UKR","2010",51.855
+"3448","Ukraine","UKR","2011",51.563
+"3449","Ukraine","UKR","2012",51.271
+"3450","Ukraine","UKR","2013",50.98
+"3451","Ukraine","UKR","2014",50.69
+"3452","Ukraine","UKR","2015",50.4
+"3453","Ukraine","UKR","2016",50.113
+"3454","Ukraine","UKR","2017",49.827
+"3455","Ukraine","UKR","2018",49.542
+"3456","Ukraine","UKR","2019",49.26
+"3457","Ukraine","UKR","2020",48.151
+"3458","Ukraine","UKR","2021",47.791
+"3459","Uruguay","URY","2002",49.643
+"3460","Uruguay","URY","2003",49.357
+"3461","Uruguay","URY","2004",49.144
+"3462","Uruguay","URY","2005",49.92
+"3463","Uruguay","URY","2006",51.68
+"3464","Uruguay","URY","2007",53.526
+"3465","Uruguay","URY","2008",54.486
+"3466","Uruguay","URY","2009",55.2
+"3467","Uruguay","URY","2010",54.94
+"3468","Uruguay","URY","2011",56.883
+"3469","Uruguay","URY","2012",56.522
+"3470","Uruguay","URY","2013",55.368
+"3471","Uruguay","URY","2014",56.929
+"3472","Uruguay","URY","2015",56.324
+"3473","Uruguay","URY","2016",56.368
+"3474","Uruguay","URY","2017",56.082
+"3475","Uruguay","URY","2018",55.974
+"3476","Uruguay","URY","2019",56.24
+"3477","Uruguay","URY","2020",54.42
+"3478","Uruguay","URY","2021",56.125
+"3479","United States","USA","2002",58.486
+"3480","United States","USA","2003",58.351
+"3481","United States","USA","2004",58.082
+"3482","United States","USA","2005",58.195
+"3483","United States","USA","2006",58.302
+"3484","United States","USA","2007",58.225
+"3485","United States","USA","2008",58.434
+"3486","United States","USA","2009",58.174
+"3487","United States","USA","2010",57.604
+"3488","United States","USA","2011",57.053
+"3489","United States","USA","2012",56.799
+"3490","United States","USA","2013",56.364
+"3491","United States","USA","2014",56.215
+"3492","United States","USA","2015",56.002
+"3493","United States","USA","2016",56.135
+"3494","United States","USA","2017",56.406
+"3495","United States","USA","2018",56.497
+"3496","United States","USA","2019",56.885
+"3497","United States","USA","2020",55.7
+"3498","United States","USA","2021",55.588
+"3499","Uzbekistan","UZB","2002",48.246
+"3500","Uzbekistan","UZB","2003",47.973
+"3501","Uzbekistan","UZB","2004",47.323
+"3502","Uzbekistan","UZB","2005",46.705
+"3503","Uzbekistan","UZB","2006",46.019
+"3504","Uzbekistan","UZB","2007",45.166
+"3505","Uzbekistan","UZB","2008",44.422
+"3506","Uzbekistan","UZB","2009",43.838
+"3507","Uzbekistan","UZB","2010",43.465
+"3508","Uzbekistan","UZB","2011",43.086
+"3509","Uzbekistan","UZB","2012",42.639
+"3510","Uzbekistan","UZB","2013",42.184
+"3511","Uzbekistan","UZB","2014",41.772
+"3512","Uzbekistan","UZB","2015",41.335
+"3513","Uzbekistan","UZB","2016",41.019
+"3514","Uzbekistan","UZB","2017",40.829
+"3515","Uzbekistan","UZB","2018",40.547
+"3516","Uzbekistan","UZB","2019",40.238
+"3517","Uzbekistan","UZB","2020",39.481
+"3518","Uzbekistan","UZB","2021",39.756
+"3519","St. Vincent and the Grenadines","VCT","2002",50.219
+"3520","St. Vincent and the Grenadines","VCT","2003",51.17
+"3521","St. Vincent and the Grenadines","VCT","2004",51.76
+"3522","St. Vincent and the Grenadines","VCT","2005",52.208
+"3523","St. Vincent and the Grenadines","VCT","2006",53.082
+"3524","St. Vincent and the Grenadines","VCT","2007",53.498
+"3525","St. Vincent and the Grenadines","VCT","2008",53.729
+"3526","St. Vincent and the Grenadines","VCT","2009",53.562
+"3527","St. Vincent and the Grenadines","VCT","2010",53.243
+"3528","St. Vincent and the Grenadines","VCT","2011",53.229
+"3529","St. Vincent and the Grenadines","VCT","2012",53.411
+"3530","St. Vincent and the Grenadines","VCT","2013",53.636
+"3531","St. Vincent and the Grenadines","VCT","2014",53.768
+"3532","St. Vincent and the Grenadines","VCT","2015",53.875
+"3533","St. Vincent and the Grenadines","VCT","2016",54.119
+"3534","St. Vincent and the Grenadines","VCT","2017",54.273
+"3535","St. Vincent and the Grenadines","VCT","2018",54.535
+"3536","St. Vincent and the Grenadines","VCT","2019",54.589
+"3537","St. Vincent and the Grenadines","VCT","2020",52.204
+"3538","St. Vincent and the Grenadines","VCT","2021",53.082
+"3539","Venezuela, RB","VEN","2002",47.868
+"3540","Venezuela, RB","VEN","2003",46.643
+"3541","Venezuela, RB","VEN","2004",47.604
+"3542","Venezuela, RB","VEN","2005",49.449
+"3543","Venezuela, RB","VEN","2006",50.007
+"3544","Venezuela, RB","VEN","2007",49.715
+"3545","Venezuela, RB","VEN","2008",49.719
+"3546","Venezuela, RB","VEN","2009",49.991
+"3547","Venezuela, RB","VEN","2010",49.588
+"3548","Venezuela, RB","VEN","2011",49.635
+"3549","Venezuela, RB","VEN","2012",49.479
+"3550","Venezuela, RB","VEN","2013",49.069
+"3551","Venezuela, RB","VEN","2014",48.66
+"3552","Venezuela, RB","VEN","2015",48.253
+"3553","Venezuela, RB","VEN","2016",47.85
+"3554","Venezuela, RB","VEN","2017",46.379
+"3555","Venezuela, RB","VEN","2018",45.19
+"3556","Venezuela, RB","VEN","2019",41.97
+"3557","Venezuela, RB","VEN","2020",38.887
+"3558","Venezuela, RB","VEN","2021",39.397
+"3559","Virgin Islands (U.S.)","VIR","2002",56.08
+"3560","Virgin Islands (U.S.)","VIR","2003",54.697
+"3561","Virgin Islands (U.S.)","VIR","2004",56.521
+"3562","Virgin Islands (U.S.)","VIR","2005",57.562
+"3563","Virgin Islands (U.S.)","VIR","2006",57.932
+"3564","Virgin Islands (U.S.)","VIR","2007",58.571
+"3565","Virgin Islands (U.S.)","VIR","2008",58.155
+"3566","Virgin Islands (U.S.)","VIR","2009",57.342
+"3567","Virgin Islands (U.S.)","VIR","2010",55.353
+"3568","Virgin Islands (U.S.)","VIR","2011",54.916
+"3569","Virgin Islands (U.S.)","VIR","2012",52.365
+"3570","Virgin Islands (U.S.)","VIR","2013",48.619
+"3571","Virgin Islands (U.S.)","VIR","2014",47.583
+"3572","Virgin Islands (U.S.)","VIR","2015",49.225
+"3573","Virgin Islands (U.S.)","VIR","2016",48.749
+"3574","Virgin Islands (U.S.)","VIR","2017",49.131
+"3575","Virgin Islands (U.S.)","VIR","2018",45.631
+"3576","Virgin Islands (U.S.)","VIR","2019",43.106
+"3577","Virgin Islands (U.S.)","VIR","2020",42.724
+"3578","Virgin Islands (U.S.)","VIR","2021",44.07
+"3579","Vietnam","VNM","2002",69.036
+"3580","Vietnam","VNM","2003",68.485
+"3581","Vietnam","VNM","2004",67.606
+"3582","Vietnam","VNM","2005",68.591
+"3583","Vietnam","VNM","2006",69.561
+"3584","Vietnam","VNM","2007",70.515
+"3585","Vietnam","VNM","2008",71.005
+"3586","Vietnam","VNM","2009",71.496
+"3587","Vietnam","VNM","2010",71.578
+"3588","Vietnam","VNM","2011",71.576
+"3589","Vietnam","VNM","2012",71.766
+"3590","Vietnam","VNM","2013",72.655
+"3591","Vietnam","VNM","2014",72.69
+"3592","Vietnam","VNM","2015",72.491
+"3593","Vietnam","VNM","2016",71.957
+"3594","Vietnam","VNM","2017",71.468
+"3595","Vietnam","VNM","2018",70.478
+"3596","Vietnam","VNM","2019",70.516
+"3597","Vietnam","VNM","2020",67.912
+"3598","Vietnam","VNM","2021",68.245
+"3599","Vanuatu","VUT","2002",61.149
+"3600","Vanuatu","VUT","2003",61.053
+"3601","Vanuatu","VUT","2004",60.977
+"3602","Vanuatu","VUT","2005",60.817
+"3603","Vanuatu","VUT","2006",60.468
+"3604","Vanuatu","VUT","2007",60.448
+"3605","Vanuatu","VUT","2008",60.27
+"3606","Vanuatu","VUT","2009",60.248
+"3607","Vanuatu","VUT","2010",60.335
+"3608","Vanuatu","VUT","2011",60.315
+"3609","Vanuatu","VUT","2012",60.428
+"3610","Vanuatu","VUT","2013",60.579
+"3611","Vanuatu","VUT","2014",60.565
+"3612","Vanuatu","VUT","2015",60.714
+"3613","Vanuatu","VUT","2016",60.595
+"3614","Vanuatu","VUT","2017",60.377
+"3615","Vanuatu","VUT","2018",60.355
+"3616","Vanuatu","VUT","2019",60.309
+"3617","Vanuatu","VUT","2020",59.736
+"3618","Vanuatu","VUT","2021",60.188
+"3619","Samoa","WSM","2002",41.479
+"3620","Samoa","WSM","2003",41.351
+"3621","Samoa","WSM","2004",41.228
+"3622","Samoa","WSM","2005",41.129
+"3623","Samoa","WSM","2006",41.101
+"3624","Samoa","WSM","2007",40.949
+"3625","Samoa","WSM","2008",40.952
+"3626","Samoa","WSM","2009",41.131
+"3627","Samoa","WSM","2010",41.15
+"3628","Samoa","WSM","2011",41.06
+"3629","Samoa","WSM","2012",41.232
+"3630","Samoa","WSM","2013",41.293
+"3631","Samoa","WSM","2014",41.335
+"3632","Samoa","WSM","2015",41.241
+"3633","Samoa","WSM","2016",41.044
+"3634","Samoa","WSM","2017",41.044
+"3635","Samoa","WSM","2018",41.132
+"3636","Samoa","WSM","2019",41.062
+"3637","Samoa","WSM","2020",40.683
+"3638","Samoa","WSM","2021",41.006
+"3639","Yemen, Rep.","YEM","2002",17.646
+"3640","Yemen, Rep.","YEM","2003",16.462
+"3641","Yemen, Rep.","YEM","2004",15.348
+"3642","Yemen, Rep.","YEM","2005",14.303
+"3643","Yemen, Rep.","YEM","2006",13.322
+"3644","Yemen, Rep.","YEM","2007",12.4
+"3645","Yemen, Rep.","YEM","2008",11.533
+"3646","Yemen, Rep.","YEM","2009",10.719
+"3647","Yemen, Rep.","YEM","2010",9.955
+"3648","Yemen, Rep.","YEM","2011",8.753
+"3649","Yemen, Rep.","YEM","2012",7.699
+"3650","Yemen, Rep.","YEM","2013",6.778
+"3651","Yemen, Rep.","YEM","2014",5.974
+"3652","Yemen, Rep.","YEM","2015",5.933
+"3653","Yemen, Rep.","YEM","2016",5.924
+"3654","Yemen, Rep.","YEM","2017",5.927
+"3655","Yemen, Rep.","YEM","2018",5.945
+"3656","Yemen, Rep.","YEM","2019",5.965
+"3657","Yemen, Rep.","YEM","2020",5.922
+"3658","Yemen, Rep.","YEM","2021",5.929
+"3659","South Africa","ZAF","2002",51.96
+"3660","South Africa","ZAF","2003",52.116
+"3661","South Africa","ZAF","2004",52.264
+"3662","South Africa","ZAF","2005",52.395
+"3663","South Africa","ZAF","2006",52.489
+"3664","South Africa","ZAF","2007",52.561
+"3665","South Africa","ZAF","2008",52.614
+"3666","South Africa","ZAF","2009",51.273
+"3667","South Africa","ZAF","2010",47.029
+"3668","South Africa","ZAF","2011",49.74
+"3669","South Africa","ZAF","2012",49.291
+"3670","South Africa","ZAF","2013",49.778
+"3671","South Africa","ZAF","2014",49.508
+"3672","South Africa","ZAF","2015",50.99
+"3673","South Africa","ZAF","2016",51.116
+"3674","South Africa","ZAF","2017",52.293
+"3675","South Africa","ZAF","2018",51.677
+"3676","South Africa","ZAF","2019",52.042
+"3677","South Africa","ZAF","2020",48.696
+"3678","South Africa","ZAF","2021",49.638
+"3679","Zambia","ZMB","2002",51.882
+"3680","Zambia","ZMB","2003",51.828
+"3681","Zambia","ZMB","2004",51.778
+"3682","Zambia","ZMB","2005",51.732
+"3683","Zambia","ZMB","2006",51.668
+"3684","Zambia","ZMB","2007",51.62
+"3685","Zambia","ZMB","2008",51.585
+"3686","Zambia","ZMB","2009",51.559
+"3687","Zambia","ZMB","2010",51.542
+"3688","Zambia","ZMB","2011",51.578
+"3689","Zambia","ZMB","2012",51.619
+"3690","Zambia","ZMB","2013",51.668
+"3691","Zambia","ZMB","2014",51.734
+"3692","Zambia","ZMB","2015",51.823
+"3693","Zambia","ZMB","2016",51.919
+"3694","Zambia","ZMB","2017",52.042
+"3695","Zambia","ZMB","2018",52.182
+"3696","Zambia","ZMB","2019",52.204
+"3697","Zambia","ZMB","2020",54.436
+"3698","Zambia","ZMB","2021",54.029
+"3699","Zimbabwe","ZWE","2002",60.77
+"3700","Zimbabwe","ZWE","2003",60.828
+"3701","Zimbabwe","ZWE","2004",60.873
+"3702","Zimbabwe","ZWE","2005",60.897
+"3703","Zimbabwe","ZWE","2006",60.941
+"3704","Zimbabwe","ZWE","2007",60.953
+"3705","Zimbabwe","ZWE","2008",60.943
+"3706","Zimbabwe","ZWE","2009",60.915
+"3707","Zimbabwe","ZWE","2010",60.873
+"3708","Zimbabwe","ZWE","2011",60.84
+"3709","Zimbabwe","ZWE","2012",60.792
+"3710","Zimbabwe","ZWE","2013",60.734
+"3711","Zimbabwe","ZWE","2014",60.682
+"3712","Zimbabwe","ZWE","2015",60.648
+"3713","Zimbabwe","ZWE","2016",60.617
+"3714","Zimbabwe","ZWE","2017",60.629
+"3715","Zimbabwe","ZWE","2018",60.673
+"3716","Zimbabwe","ZWE","2019",60.73
+"3717","Zimbabwe","ZWE","2020",60.149
+"3718","Zimbabwe","ZWE","2021",60.663

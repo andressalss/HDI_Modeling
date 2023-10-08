@@ -9,29 +9,30 @@
 #' @export
 
 
-process_gender_wage_gap <- function(df) {
+process_water_cons <- function(df) {
   df_processed <- df |>
+    dplyr::mutate(Country = stringr::str_replace(Country, "C�te d'Ivoire", "Côte d'Ivoire")) |> 
     dplyr::rename_with(snakecase::to_snake_case) |>
-    dplyr::rename(country = entity) |>
-    dplyr::filter(year > 1996) |> 
-    dplyr::mutate(across(c( "country", "code","year"), as.factor))
-  
-  ## falta processo de imputação
-  
+    dplyr::select(1,2) |>
+    dplyr::mutate(code = countrycode::countrycode(country, origin = "country.name" , destination = "iso3c")) |>
+    dplyr::mutate(year = 2023) |>
+    dplyr::select(1,3,4,2) |>
+    dplyr::mutate(across(c( "country", "code","year"), as.factor)) |>
+    dplyr::mutate(annual_water_use = as.numeric(annual_water_use))
   return(df_processed)
   
 } 
 
 generate_file <- function(file_path) {
-  df <- read.csv(file_path, encoding =  "UTF-8")
+  df <- read.csv(file_path, sep = ";",encoding =  "UTF-8")
   var_name <- gsub("^\\d+_(.*?)\\.csv$", "\\1", basename(file_path))
-  df <- process_gender_wage_gap(df)
+  df <- process_water_cons(df)
   # saving the .RData file
   saveRDS(df,paste0(".\\treated_databases\\.rdata_files\\",var_name,".RData"))
   # saving the csv file
   write.csv(df, paste0(".\\treated_databases\\csv_files\\",var_name,".csv"))
-  return(writexl::write_xlsx(df,paste0(".\\treated_databases\\xlsx_files\\",var_name,".xlsx")))
+  #return(writexl::write_xlsx(df,paste0(".\\treated_databases\\xlsx_files\\",var_name,".xlsx")))
 }
 
-file_path <- ("./databases/6_gender_inequality.csv")
+file_path <- ("./databases/21_water_consum.csv")
 generate_file(file_path)

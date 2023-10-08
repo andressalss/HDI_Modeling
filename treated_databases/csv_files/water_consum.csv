@@ -1,0 +1,180 @@
+"","country","code","year","annual_water_use"
+"1","Afghanistan","AFG","2023",2.028e+10
+"2","Albania","ALB","2023",1.311e+09
+"3","Algeria","DZA","2023",9.978e+09
+"4","Angola","AGO","2023",705800000
+"5","Antigua and Barbuda","ATG","2023",11500000
+"6","Argentina","ARG","2023",3.778e+10
+"7","Armenia","ARM","2023",2.847e+09
+"8","Australia","AUS","2023",1.613e+10
+"9","Austria","AUT","2023",3.492e+09
+"10","Azerbaijan","AZE","2023",1.278e+10
+"11","Bahrain","BHR","2023",434400000
+"12","Bangladesh","BGD","2023",3.587e+10
+"13","Barbados","BRB","2023",8.1e+07
+"14","Belarus","BLR","2023",1.452e+09
+"15","Belgium","BEL","2023",6.005e+09
+"16","Belize","BLZ","2023",1.01e+08
+"17","Benin","BEN","2023",1.3e+08
+"18","Bhutan","BTN","2023",3.38e+08
+"19","Bolivia","BOL","2023",2.088e+09
+"20","Bosnia and Herzegovina","BIH","2023",327900000
+"21","Botswana","BWA","2023",201300000
+"22","Brazil","BRA","2023",6.35e+10
+"23","Bulgaria","BGR","2023",5.629e+09
+"24","Burkina Faso","BFA","2023",8.18e+08
+"25","Burundi","BDI","2023",2.88e+08
+"26","Côte d'Ivoire","CIV","2023",1.162e+09
+"27","Cabo Verde","CPV","2023",2.2e+07
+"28","Cambodia","KHM","2023",2.184e+09
+"29","Cameroon","CMR","2023",966400000
+"30","Canada","CAN","2023",3.573e+10
+"31","Central African Republic","CAF","2023",72500000
+"32","Chad","TCD","2023",879600000
+"33","Chile","CHL","2023",3.543e+10
+"34","China","CHN","2023",5.981e+11
+"35","Colombia","COL","2023",1.177e+10
+"36","Comoros","COM","2023",1e+07
+"37","Congo","COG","2023",4.6e+07
+"38","Costa Rica","CRI","2023",3.194e+09
+"39","Croatia","HRV","2023",633800000
+"40","Cuba","CUB","2023",6.959e+09
+"41","Cyprus","CYP","2023",3.17e+08
+"42","Czech Republic (Czechia)","CZE","2023",1.635e+09
+"43","Denmark","DNK","2023",6.52e+08
+"44","Djibouti","DJI","2023",1.9e+07
+"45","Dominica","DMA","2023",2e+07
+"46","Dominican Republic","DOM","2023",7.156e+09
+"47","DR Congo","COD","2023",683600000
+"48","Ecuador","ECU","2023",9.918e+09
+"49","Egypt","EGY","2023",7.75e+10
+"50","El Salvador","SLV","2023",2.118e+09
+"51","Equatorial Guinea","GNQ","2023",17400000
+"52","Eritrea","ERI","2023",5.82e+08
+"53","Estonia","EST","2023",1.72e+09
+"54","Eswatini","SWZ","2023",1.042e+09
+"55","Ethiopia","ETH","2023",1.055e+10
+"56","Fiji","FJI","2023",84900000
+"57","Finland","FIN","2023",6.562e+09
+"58","France","FRA","2023",2.937e+10
+"59","Gabon","GAB","2023",139100000
+"60","Gambia","GMB","2023",90500000
+"61","Georgia","GEO","2023",1.823e+09
+"62","Germany","DEU","2023",2.533e+10
+"63","Ghana","GHA","2023",9.82e+08
+"64","Greece","GRC","2023",9.63e+09
+"65","Grenada","GRD","2023",14100000
+"66","Guatemala","GTM","2023",3.324e+09
+"67","Guinea","GIN","2023",553300000
+"68","Guinea-Bissau","GNB","2023",1.75e+08
+"69","Guyana","GUY","2023",1.445e+09
+"70","Haiti","HTI","2023",1.45e+09
+"71","Honduras","HND","2023",1.607e+09
+"72","Hungary","HUN","2023",5.051e+09
+"73","Iceland","ISL","2023",278300000
+"74","India","IND","2023",7.61e+11
+"75","Indonesia","IDN","2023",2.226e+11
+"76","Iran","IRN","2023",9.33e+10
+"77","Iraq","IRQ","2023",3.855e+10
+"78","Ireland","IRL","2023",7.57e+08
+"79","Israel","ISR","2023",1.954e+09
+"80","Italy","ITA","2023",3.419e+10
+"81","Jamaica","JAM","2023",1.354e+09
+"82","Japan","JPN","2023",8.145e+10
+"83","Jordan","JOR","2023",1.044e+09
+"84","Kazakhstan","KAZ","2023",2.277e+10
+"85","Kenya","KEN","2023",4.032e+09
+"86","Kuwait","KWT","2023",913200000
+"87","Kyrgyzstan","KGZ","2023",8.007e+09
+"88","Laos","LAO","2023",3.493e+09
+"89","Latvia","LVA","2023",224400000
+"90","Lebanon","LBN","2023",1.84e+09
+"91","Lesotho","LSO","2023",43800000
+"92","Liberia","LBR","2023",130800000
+"93","Libya","LBY","2023",5.83e+09
+"94","Lithuania","LTU","2023",2.768e+09
+"95","Luxembourg","LUX","2023",4.4e+07
+"96","Madagascar","MDG","2023",1.356e+10
+"97","Malawi","MWI","2023",1.357e+09
+"98","Malaysia","MYS","2023",1.12e+10
+"99","Maldives","MDV","2023",5900000
+"100","Mali","MLI","2023",5.186e+09
+"101","Malta","MLT","2023",62800000
+"102","Mauritania","MRT","2023",1.35e+09
+"103","Mauritius","MUS","2023",7.25e+08
+"104","Mexico","MEX","2023",8.658e+10
+"105","Moldova","MDA","2023",1.065e+09
+"106","Monaco","MCO","2023",5e+06
+"107","Mongolia","MNG","2023",462400000
+"108","Montenegro","MNE","2023",160900000
+"109","Morocco","MAR","2023",1.043e+10
+"110","Mozambique","MOZ","2023",1.473e+09
+"111","Myanmar","MMR","2023",3.323e+10
+"112","Namibia","NAM","2023",2.88e+08
+"113","Nepal","NPL","2023",9.497e+09
+"114","Netherlands","NLD","2023",8.919e+09
+"115","New Zealand","NZL","2023",5.201e+09
+"116","Nicaragua","NIC","2023",1.545e+09
+"117","Niger","NER","2023",1.747e+09
+"118","Nigeria","NGA","2023",1.247e+10
+"119","North Korea","PRK","2023",8.658e+09
+"120","North Macedonia","MKD","2023",551200000
+"121","Norway","NOR","2023",3.026e+09
+"122","Oman","OMN","2023",1.321e+09
+"123","Pakistan","PAK","2023",1.835e+11
+"124","Panama","PAN","2023",1.211e+09
+"125","Papua New Guinea","PNG","2023",392100000
+"126","Paraguay","PRY","2023",2.413e+09
+"127","Peru","PER","2023",1.366e+10
+"128","Philippines","PHL","2023",8.514e+10
+"129","Poland","POL","2023",1.058e+10
+"130","Portugal","PRT","2023",9.151e+09
+"131","Puerto Rico","PRI","2023",4.153e+09
+"132","Qatar","QAT","2023",4.44e+08
+"133","Romania","ROU","2023",6.374e+09
+"134","Russia","RUS","2023",6.95e+10
+"135","Rwanda","RWA","2023",1.5e+08
+"136","Saint Kitts & Nevis","KNA","2023",15600000
+"137","Saint Lucia","LCA","2023",42900000
+"138","Sao Tome & Principe","STP","2023",40900000
+"139","Saudi Arabia","SAU","2023",2.335e+10
+"140","Senegal","SEN","2023",2.221e+09
+"141","Serbia","SRB","2023",4.707e+09
+"142","Seychelles","SYC","2023",13700000
+"143","Sierra Leone","SLE","2023",212200000
+"144","Slovakia","SVK","2023",5.35e+08
+"145","Slovenia","SVN","2023",887300000
+"146","Somalia","SOM","2023",3.298e+09
+"147","South Africa","ZAF","2023",1.55e+10
+"148","South Korea","KOR","2023",2.92e+10
+"149","South Sudan","SSD","2023",6.58e+08
+"150","Spain","ESP","2023",3.285e+10
+"151","Sri Lanka","LKA","2023",1.295e+10
+"152","St. Vincent & Grenadines","VCT","2023",8500000
+"153","State of Palestine","PSE","2023",363600000
+"154","Sudan","SDN","2023",2.693e+10
+"155","Suriname","SUR","2023",615900000
+"156","Sweden","SWE","2023",2.689e+09
+"157","Switzerland","CHE","2023",2.005e+09
+"158","Syria","SYR","2023",1.676e+10
+"159","Tajikistan","TJK","2023",1.149e+10
+"160","Tanzania","TZA","2023",5.184e+09
+"161","Thailand","THA","2023",5.731e+10
+"162","Timor-Leste","TLS","2023",1.172e+09
+"163","Togo","TGO","2023",1.69e+08
+"164","Trinidad and Tobago","TTO","2023",383200000
+"165","Tunisia","TUN","2023",4.875e+09
+"166","Turkey","TUR","2023",5.895e+10
+"167","Turkmenistan","TKM","2023",2.795e+10
+"168","Uganda","UGA","2023",6.37e+08
+"169","Ukraine","UKR","2023",9.862e+09
+"170","United Arab Emirates","ARE","2023",3.998e+09
+"171","United Kingdom","GBR","2023",8.42e+09
+"172","United States","USA","2023",4.443e+11
+"173","Uruguay","URY","2023",3.66e+09
+"174","Uzbekistan","UZB","2023",5.456e+10
+"175","Venezuela","VEN","2023",2.263e+10
+"176","Vietnam","VNM","2023",8.203e+10
+"177","Yemen","YEM","2023",3.565e+09
+"178","Zambia","ZMB","2023",1.572e+09
+"179","Zimbabwe","ZWE","2023",3.57e+09

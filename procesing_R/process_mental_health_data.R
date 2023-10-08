@@ -9,26 +9,36 @@
 #' @export
 
 
-process_mental_health_data <- function(data) {
-  data_processed <- data |> 
+process_mental_health_data <- function(df) {
+  data_processed <- df |> 
     dplyr::rename(
-      country = Entity,
-      code = Code,
-      year = Year,
-      depressive_dalys = "DALYs from depressive disorders per 100,000 people in, both sexes aged age-standardized",
-      schizophrenia_dalys = "DALYs from schizophrenia per 100,000 people in, both sexes aged age-standardized",
-      bipolar_dalys = "DALYs from bipolar disorder per 100,000 people in, both sexes aged age-standardized",
-      eating_disorder_dalys = "DALYs from eating disorders per 100,000 people in, both sexes aged age-standardized",
-      anxiety_dalys = "DALYs from anxiety disorders per 100,000 people in, both sexes aged age-standardized"
+      country = 1,
+      code = 2,
+      year = 3,
+      depressive_dalys = 4,
+      schizophrenia_dalys = 5,
+      bipolar_dalys = 6,
+      eating_disorder_dalys = 7,
+      anxiety_dalys = 8
     ) |> 
     dplyr::mutate(code = ifelse(code == "", NA, code)) |> 
-    dplyr::filter(!is.na(code))
-  
+    dplyr::filter(year > 1999) |> 
+    dplyr::filter(!is.na(code)) |> 
+    dplyr::mutate(across(c("country","code","year"), as.factor))
   return(data_processed)
 }
 
+generate_file <- function(file_path) {
+  df <- readr::read_csv(file_path)
+  var_name <- gsub("^\\d+_(.*?)\\.csv$", "\\1", basename(file_path))
+  df <- process_mental_health_data(df)
+  # saving the .RData file
+  saveRDS(df,paste0(".\\treated_databases\\.rdata_files\\",var_name,".RData"))
+  # saving the csv file
+  write.csv(df, paste0(".\\treated_databases\\csv_files\\",var_name,".csv"))
+  return(writexl::write_xlsx(df,paste0(".\\treated_databases\\xlsx_files\\",var_name,".xlsx")))
+}
 
-df <- readr::read_csv("..\\databases\\saude_mental.csv")
-mental_health_processed <- process_mental_health_data(df)
 
-writexl::write_xlsx(mental_health_processed, "..\\treated databases\\mental_health_processed.xlsx")
+file_path <- (".\\databases\\23_mental_health_indi.csv")
+generate_file(file_path)

@@ -1,0 +1,147 @@
+"","country","code","year","legal_framework_eq_gender"
+"1","Argentina","ARG","2020",80
+"2","Armenia","ARM","2018",90
+"3","Armenia","ARM","2020",90
+"4","Australia","AUS","2018",80
+"5","Australia","AUS","2020",80
+"6","Austria","AUT","2020",70
+"7","Bangladesh","BGD","2018",75
+"8","Bangladesh","BGD","2020",75
+"9","Barbados","BRB","2018",40
+"10","Barbados","BRB","2020",40
+"11","Belarus","BLR","2018",50
+"12","Belarus","BLR","2020",50
+"13","Bolivia","BOL","2020",70
+"14","Brazil","BRA","2018",70
+"15","Brazil","BRA","2020",70
+"16","Bulgaria","BGR","2018",80
+"17","Bulgaria","BGR","2020",80
+"18","Cameroon","CMR","2018",50
+"19","Cameroon","CMR","2020",50
+"20","Cape Verde","CPV","2018",60
+"21","Cape Verde","CPV","2020",60
+"22","Chile","CHL","2018",80
+"23","Chile","CHL","2020",80
+"24","Colombia","COL","2018",70
+"25","Colombia","COL","2020",70
+"26","Costa Rica","CRI","2018",70
+"27","Costa Rica","CRI","2020",70
+"28","Cote d'Ivoire","CIV","2018",63.64
+"29","Cote d'Ivoire","CIV","2020",63.64
+"30","Croatia","HRV","2018",100
+"31","Croatia","HRV","2020",100
+"32","Cyprus","CYP","2020",70
+"33","Czechia","CZE","2020",70
+"34","Denmark","DNK","2018",80
+"35","Denmark","DNK","2020",80
+"36","Dominican Republic","DOM","2018",70
+"37","Dominican Republic","DOM","2020",70
+"38","Ecuador","ECU","2020",90
+"39","El Salvador","SLV","2018",100
+"40","El Salvador","SLV","2020",100
+"41","Estonia","EST","2020",70
+"42","Ethiopia","ETH","2020",75
+"43","Fiji","FJI","2018",60
+"44","Fiji","FJI","2020",60
+"45","Finland","FIN","2018",70
+"46","Finland","FIN","2020",70
+"47","France","FRA","2018",80
+"48","France","FRA","2020",80
+"49","Germany","DEU","2018",70
+"50","Germany","DEU","2020",70
+"51","Greece","GRC","2018",70
+"52","Greece","GRC","2020",70
+"53","Guatemala","GTM","2018",70
+"54","Guatemala","GTM","2020",70
+"55","Guinea","GIN","2020",70
+"56","Honduras","HND","2020",90
+"57","Hungary","HUN","2020",70
+"58","Iceland","ISL","2020",80
+"59","India","IND","2018",54.55
+"60","India","IND","2020",54.55
+"61","Iraq","IRQ","2018",45.45
+"62","Iraq","IRQ","2020",45.45
+"63","Ireland","IRL","2020",70
+"64","Israel","ISR","2020",54.55
+"65","Jamaica","JAM","2020",50
+"66","Japan","JPN","2020",60
+"67","Jordan","JOR","2018",54.55
+"68","Jordan","JOR","2020",54.55
+"69","Kazakhstan","KAZ","2020",60
+"70","Kenya","KEN","2018",83.33
+"71","Kenya","KEN","2020",83.33
+"72","Kyrgyzstan","KGZ","2020",100
+"73","Latvia","LVA","2020",70
+"74","Lebanon","LBN","2018",27.27
+"75","Lebanon","LBN","2020",27.27
+"76","Lithuania","LTU","2018",70
+"77","Lithuania","LTU","2020",70
+"78","Luxembourg","LUX","2020",70
+"79","Madagascar","MDG","2018",30
+"80","Madagascar","MDG","2020",30
+"81","Malawi","MWI","2020",54.55
+"82","Malaysia","MYS","2018",33.33
+"83","Malaysia","MYS","2020",33.33
+"84","Malta","MLT","2020",80
+"85","Mauritius","MUS","2020",58.33
+"86","Mexico","MEX","2018",90
+"87","Mexico","MEX","2020",90
+"88","Moldova","MDA","2020",100
+"89","Montenegro","MNE","2020",100
+"90","Morocco","MAR","2020",63.64
+"91","Mozambique","MOZ","2018",63.64
+"92","Mozambique","MOZ","2020",63.64
+"93","Namibia","NAM","2020",72.73
+"94","Nepal","NPL","2020",70
+"95","Netherlands","NLD","2018",70
+"96","Netherlands","NLD","2020",70
+"97","New Zealand","NZL","2020",70
+"98","Nigeria","NGA","2018",58.33
+"99","Nigeria","NGA","2020",58.33
+"100","North Macedonia","MKD","2020",100
+"101","Norway","NOR","2020",70
+"102","Pakistan","PAK","2018",50
+"103","Pakistan","PAK","2020",50
+"104","Palestine","PSE","2018",63.64
+"105","Palestine","PSE","2020",63.64
+"106","Panama","PAN","2018",80
+"107","Panama","PAN","2020",80
+"108","Paraguay","PRY","2018",80
+"109","Paraguay","PRY","2020",80
+"110","Peru","PER","2018",80
+"111","Peru","PER","2020",80
+"112","Philippines","PHL","2018",70
+"113","Philippines","PHL","2020",70
+"114","Poland","POL","2020",100
+"115","Portugal","PRT","2020",100
+"116","Romania","ROU","2020",70
+"117","Rwanda","RWA","2020",81.82
+"118","Serbia","SRB","2018",90
+"119","Serbia","SRB","2020",90
+"120","Slovakia","SVK","2020",70
+"121","Slovenia","SVN","2018",90
+"122","Slovenia","SVN","2020",90
+"123","South Korea","KOR","2020",90
+"124","Spain","ESP","2018",100
+"125","Spain","ESP","2020",100
+"126","Suriname","SUR","2020",27.27
+"127","Sweden","SWE","2018",80
+"128","Sweden","SWE","2020",80
+"129","Switzerland","CHE","2020",70
+"130","Tanzania","TZA","2018",70
+"131","Tanzania","TZA","2020",70
+"132","Thailand","THA","2020",50
+"133","Trinidad and Tobago","TTO","2018",70
+"134","Trinidad and Tobago","TTO","2020",70
+"135","Uganda","UGA","2018",83.33
+"136","Uganda","UGA","2020",83.33
+"137","Ukraine","UKR","2018",90
+"138","Ukraine","UKR","2020",90
+"139","United Arab Emirates","ARE","2018",9.09
+"140","United Arab Emirates","ARE","2020",18.18
+"141","United Kingdom","GBR","2018",70
+"142","United Kingdom","GBR","2020",70
+"143","Uruguay","URY","2020",50
+"144","Vietnam","VNM","2018",60
+"145","Vietnam","VNM","2020",60
+"146","Zimbabwe","ZWE","2020",72.73
