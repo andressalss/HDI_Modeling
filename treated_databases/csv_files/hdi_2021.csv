@@ -1,0 +1,192 @@
+"","country","code","hdi_2021"
+"1","Switzerland","CHE",0.962
+"2","Norway","NOR",0.961
+"3","Iceland","ISL",0.959
+"4","Hong Kong, China (SAR)","HKG",0.952
+"5","Australia","AUS",0.951
+"6","Denmark","DNK",0.948
+"7","Sweden","SWE",0.947
+"8","Ireland","IRL",0.945
+"9","Germany","DEU",0.942
+"10","Netherlands","NLD",0.941
+"11","Finland","FIN",0.94
+"12","Singapore","SGP",0.939
+"13","Belgium","BEL",0.937
+"14","New Zealand","NZL",0.937
+"15","Canada","CAN",0.936
+"16","Liechtenstein","LIE",0.935
+"17","Luxembourg","LUX",0.93
+"18","United Kingdom","GBR",0.929
+"19","Japan","JPN",0.925
+"20","Korea (Republic of)","KOR",0.925
+"21","United States","USA",0.921
+"22","Israel","ISR",0.919
+"23","Malta","MLT",0.918
+"24","Slovenia","SVN",0.918
+"25","Austria","AUT",0.916
+"26","United Arab Emirates","ARE",0.911
+"27","Spain","ESP",0.905
+"28","France","FRA",0.903
+"29","Cyprus","CYP",0.896
+"30","Italy","ITA",0.895
+"31","Estonia","EST",0.89
+"32","Czechia","CZE",0.889
+"33","Greece","GRC",0.887
+"34","Poland","POL",0.876
+"35","Bahrain","BHR",0.875
+"36","Lithuania","LTU",0.875
+"37","Saudi Arabia","SAU",0.875
+"38","Portugal","PRT",0.866
+"39","Latvia","LVA",0.863
+"40","Andorra","AND",0.858
+"41","Croatia","HRV",0.858
+"42","Chile","CHL",0.855
+"43","Qatar","QAT",0.855
+"44","San Marino","SMR",0.853
+"45","Slovakia","SVK",0.848
+"46","Hungary","HUN",0.846
+"47","Argentina","ARG",0.842
+"48","Türkiye","TUR",0.838
+"49","Montenegro","MNE",0.832
+"50","Kuwait","KWT",0.831
+"51","Brunei Darussalam","BRN",0.829
+"52","Russian Federation","RUS",0.822
+"53","Romania","ROU",0.821
+"54","Oman","OMN",0.816
+"55","Bahamas","BHS",0.812
+"56","Kazakhstan","KAZ",0.811
+"57","Trinidad and Tobago","TTO",0.81
+"58","Costa Rica","CRI",0.809
+"59","Uruguay","URY",0.809
+"60","Belarus","BLR",0.808
+"61","Panama","PAN",0.805
+"62","Malaysia","MYS",0.803
+"63","Georgia","GEO",0.802
+"64","Mauritius","MUS",0.802
+"65","Serbia","SRB",0.802
+"66","Thailand","THA",0.8
+"67","Albania","ALB",0.796
+"68","Bulgaria","BGR",0.795
+"69","Grenada","GRD",0.795
+"70","Barbados","BRB",0.79
+"71","Antigua and Barbuda","ATG",0.788
+"72","Seychelles","SYC",0.785
+"73","Sri Lanka","LKA",0.782
+"74","Bosnia and Herzegovina","BIH",0.78
+"75","Saint Kitts and Nevis","KNA",0.777
+"76","Iran (Islamic Republic of)","IRN",0.774
+"77","Ukraine","UKR",0.773
+"78","North Macedonia","MKD",0.77
+"79","China","CHN",0.768
+"80","Dominican Republic","DOM",0.767
+"81","Moldova (Republic of)","MDA",0.767
+"82","Palau","PLW",0.767
+"83","Cuba","CUB",0.764
+"84","Peru","PER",0.762
+"85","Armenia","ARM",0.759
+"86","Mexico","MEX",0.758
+"87","Brazil","BRA",0.754
+"88","Colombia","COL",0.752
+"89","Saint Vincent and the Grenadines","VCT",0.751
+"90","Maldives","MDV",0.747
+"91","Algeria","DZA",0.745
+"92","Azerbaijan","AZE",0.745
+"93","Tonga","TON",0.745
+"94","Turkmenistan","TKM",0.745
+"95","Ecuador","ECU",0.74
+"96","Mongolia","MNG",0.739
+"97","Egypt","EGY",0.731
+"98","Tunisia","TUN",0.731
+"99","Fiji","FJI",0.73
+"100","Suriname","SUR",0.73
+"101","Uzbekistan","UZB",0.727
+"102","Dominica","DMA",0.72
+"103","Jordan","JOR",0.72
+"104","Libya","LBY",0.718
+"105","Paraguay","PRY",0.717
+"106","Palestine, State of","PSE",0.715
+"107","Saint Lucia","LCA",0.715
+"108","Guyana","GUY",0.714
+"109","South Africa","ZAF",0.713
+"110","Jamaica","JAM",0.709
+"111","Samoa","WSM",0.707
+"112","Gabon","GAB",0.706
+"113","Lebanon","LBN",0.706
+"114","Indonesia","IDN",0.705
+"115","Viet Nam","VNM",0.703
+"116","Philippines","PHL",0.699
+"117","Botswana","BWA",0.693
+"118","Bolivia (Plurinational State of)","BOL",0.692
+"119","Kyrgyzstan","KGZ",0.692
+"120","Venezuela (Bolivarian Republic of)","VEN",0.691
+"121","Iraq","IRQ",0.686
+"122","Tajikistan","TJK",0.685
+"123","Belize","BLZ",0.683
+"124","Morocco","MAR",0.683
+"125","El Salvador","SLV",0.675
+"126","Nicaragua","NIC",0.667
+"127","Bhutan","BTN",0.666
+"128","Cabo Verde","CPV",0.662
+"129","Bangladesh","BGD",0.661
+"130","Tuvalu","TUV",0.641
+"131","Marshall Islands","MHL",0.639
+"132","India","IND",0.633
+"133","Ghana","GHA",0.632
+"134","Micronesia (Federated States of)","FSM",0.628
+"135","Guatemala","GTM",0.627
+"136","Kiribati","KIR",0.624
+"137","Honduras","HND",0.621
+"138","Sao Tome and Principe","STP",0.618
+"139","Namibia","NAM",0.615
+"140","Lao People's Democratic Republic","LAO",0.607
+"141","Timor-Leste","TLS",0.607
+"142","Vanuatu","VUT",0.607
+"143","Nepal","NPL",0.602
+"144","Eswatini (Kingdom of)","SWZ",0.597
+"145","Equatorial Guinea","GNQ",0.596
+"146","Cambodia","KHM",0.593
+"147","Zimbabwe","ZWE",0.593
+"148","Angola","AGO",0.586
+"149","Myanmar","MMR",0.585
+"150","Syrian Arab Republic","SYR",0.577
+"151","Cameroon","CMR",0.576
+"152","Kenya","KEN",0.575
+"153","Congo","COG",0.571
+"154","Zambia","ZMB",0.565
+"155","Solomon Islands","SLB",0.564
+"156","Comoros","COM",0.558
+"157","Papua New Guinea","PNG",0.558
+"158","Mauritania","MRT",0.556
+"159","Côte d'Ivoire","CIV",0.55
+"160","Tanzania (United Republic of)","TZA",0.549
+"161","Pakistan","PAK",0.544
+"162","Togo","TGO",0.539
+"163","Haiti","HTI",0.535
+"164","Nigeria","NGA",0.535
+"165","Rwanda","RWA",0.534
+"166","Benin","BEN",0.525
+"167","Uganda","UGA",0.525
+"168","Lesotho","LSO",0.514
+"169","Malawi","MWI",0.512
+"170","Senegal","SEN",0.511
+"171","Djibouti","DJI",0.509
+"172","Sudan","SDN",0.508
+"173","Madagascar","MDG",0.501
+"174","Gambia","GMB",0.5
+"175","Ethiopia","ETH",0.498
+"176","Eritrea","ERI",0.492
+"177","Guinea-Bissau","GNB",0.483
+"178","Liberia","LBR",0.481
+"179","Congo (Democratic Republic of the)","COD",0.479
+"180","Afghanistan","AFG",0.478
+"181","Sierra Leone","SLE",0.477
+"182","Guinea","GIN",0.465
+"183","Yemen","YEM",0.455
+"184","Burkina Faso","BFA",0.449
+"185","Mozambique","MOZ",0.446
+"186","Mali","MLI",0.428
+"187","Burundi","BDI",0.426
+"188","Central African Republic","CAF",0.404
+"189","Niger","NER",0.4
+"190","Chad","TCD",0.394
+"191","South Sudan","SSD",0.385
